@@ -121,7 +121,7 @@
     <value>Выход</value>
   </data>
   <data name="Text_Icon_Connected" xml:space="preserve">
-    <value>ЛР</value>
+    <value>ЛП</value>
   </data>
   <data name="Text_Icon_Default" xml:space="preserve">
     <value>AirPods отключены</value>
