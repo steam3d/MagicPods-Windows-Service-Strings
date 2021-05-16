@@ -139,6 +139,6 @@
     <value>Поиск AirPods</value>
   </data>
   <data name="Text_Mute_VoiceOver" xml:space="preserve">
-    <value>Приостановить озвучивание</value>
+    <value>Не озвучивать</value>
   </data>
 </root>
