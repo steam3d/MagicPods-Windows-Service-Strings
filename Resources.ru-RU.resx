@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -140,5 +140,11 @@
   </data>
   <data name="Text_Mute_VoiceOver" xml:space="preserve">
     <value>Не озвучивать</value>
+  </data>
+  <data name="Text_Battery_Single" xml:space="preserve">
+    <value>Заряд {0}% {1}</value>
+  </data>
+  <data name="Text_Battery_Error" xml:space="preserve">
+    <value>Не удалось обновить заряд батареи</value>
   </data>
 </root>
