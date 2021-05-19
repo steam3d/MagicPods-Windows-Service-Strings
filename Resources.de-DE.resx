@@ -124,7 +124,7 @@
     <value>LR</value>
   </data>
   <data name="Text_Icon_Default" xml:space="preserve">
-    <value>AirPods verbunden</value>
+    <value>AirPods getrennt</value>
   </data>
   <data name="Text_Icon_Error" xml:space="preserve">
     <value>Bluetooth wird nicht unterstützt oder ist nicht verfügbar</value>
