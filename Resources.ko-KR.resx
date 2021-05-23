@@ -138,4 +138,7 @@
   <data name="Text_Icon_Search" xml:space="preserve">
     <value>AirPods 검색중</value>
   </data>
+  <data name="Text_Mute_VoiceOver" xml:space="preserve">
+    <value>Voiceover 음소거</value>
+  </data>
 </root>
