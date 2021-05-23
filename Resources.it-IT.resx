@@ -80,4 +80,14 @@
   <data name="Text_Icon_Error" xml:space="preserve">
     <value>Il Bluetooth non è supportato o disponibile</value>
   </data>
+  <data name="Text_Battery_Single" xml:space="preserve">
+    <value>Carica {0}%{1}</value>
+    <comment>{0} will be replaced to battery level, {1} to charge status.</comment>
+  </data>
+  <data name="Text_Battery_Error" xml:space="preserve">
+    <value>Tentativo di aggiornare il livello di ricarica fallito</value>
+  </data>
+  <data name="Text_Mute_VoiceOver" xml:space="preserve">
+    <value>disabilita VoiceOver</value>
+  </data>
 </root>
