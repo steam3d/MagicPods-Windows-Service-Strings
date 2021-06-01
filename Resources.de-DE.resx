@@ -138,4 +138,14 @@
   <data name="Text_Icon_Search" xml:space="preserve">
     <value>Suche nach AirPods</value>
   </data>
+  <data name="Text_Battery_Error" xml:space="preserve">
+    <value>Batterieladestand konnte nicht abgerufen werden</value>
+  </data>
+  <data name="Text_Battery_Single" xml:space="preserve">
+    <value>Ladestand {0}% {1}</value>
+    <comment>{0} will be replaced to battery level, {1} to charge status.</comment>
+  </data>
+  <data name="Text_Mute_VoiceOver" xml:space="preserve">
+    <value>VoiceOver stummschalten</value>
+  </data>
 </root>
