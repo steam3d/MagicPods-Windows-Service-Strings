@@ -141,4 +141,11 @@
   <data name="Text_Mute_VoiceOver" xml:space="preserve">
     <value>Voiceover 음소거</value>
   </data>
+  <data name="Text_Battery_Error" xml:space="preserve">
+    <value>충전 상태 갱신에 실패했어요</value>
+  </data>
+  <data name="Text_Battery_Single" xml:space="preserve">
+    <value>충전중 {0}% {1}</value>
+    <comment>{0} will be replaced to battery level, {1} to charge status.</comment>
+  </data>
 </root>
