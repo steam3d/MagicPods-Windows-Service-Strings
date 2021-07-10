@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,36 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Text_Button_Connect" xml:space="preserve">
+    <value>糸をつなぐ</value>
+  </data>
+  <data name="Text_Icon_Search" xml:space="preserve">
+    <value>AirPodsを探しています</value>
+  </data>
+  <data name="Text_Settings" xml:space="preserve">
+    <value>設定</value>
+  </data>
+  <data name="Text_Mute_VoiceOver" xml:space="preserve">
+    <value>Voice Over静音</value>
+  </data>
+  <data name="Text_Battery_Single" xml:space="preserve">
+    <value>充電済み{0}%{1}</value>
+    <comment>{0} will be replaced to battery level, {1} to charge status.</comment>
+  </data>
+  <data name="Text_Battery_Error" xml:space="preserve">
+    <value>バッテリの電力を更新できませんでした</value>
+  </data>
+  <data name="Text_Exit" xml:space="preserve">
+    <value>閉じる</value>
+  </data>
+  <data name="Text_Icon_Connected" xml:space="preserve">
+    <value>左右</value>
+    <comment>LR - Short name Left and Right. Used to show battery information: L: 100% R: 100%.</comment>
+  </data>
+  <data name="Text_Icon_Default" xml:space="preserve">
+    <value>AirPodsは接続を中断しました</value>
+  </data>
+  <data name="Text_Icon_Error" xml:space="preserve">
+    <value>サポートまたは利用可能なブルートゥースがありません</value>
+  </data>
 </root>
