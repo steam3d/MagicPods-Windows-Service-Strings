@@ -83,4 +83,8 @@
   <data name="Text_Battery_Error" xml:space="preserve">
     <value>Nem sikerült frissíteni az akkumulátor töltöttségét</value>
   </data>
+  <data name="Text_Icon_Connected" xml:space="preserve">
+    <value>LR</value>
+    <comment>LR - Short name Left and Right. Used to show battery information: L: 100% R: 100%.</comment>
+  </data>
 </root>
