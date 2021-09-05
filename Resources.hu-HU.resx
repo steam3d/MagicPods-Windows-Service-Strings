@@ -87,4 +87,7 @@
     <value>LR</value>
     <comment>LR - Short name Left and Right. Used to show battery information: L: 100% R: 100%.</comment>
   </data>
+  <data name="Text_Mute_VoiceOver" xml:space="preserve">
+    <value>VoiceOver némítása</value>
+  </data>
 </root>
