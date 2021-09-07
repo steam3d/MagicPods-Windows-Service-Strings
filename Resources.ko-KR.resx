@@ -127,7 +127,7 @@
     <value>AirPods 연결 끊김</value>
   </data>
   <data name="Text_Icon_Error" xml:space="preserve">
-    <value>Bluetooth가 지원되지 않거나 사용할 수 없어요</value>
+    <value>Bluetooth가 지원되지 않거나 사용할 수 없습니다</value>
   </data>
   <data name="Text_Settings" xml:space="preserve">
     <value>설정</value>
@@ -142,7 +142,7 @@
     <value>Voiceover 음소거</value>
   </data>
   <data name="Text_Battery_Error" xml:space="preserve">
-    <value>충전 상태 갱신에 실패했어요</value>
+    <value>충전 상태 갱신에 실패했습니다</value>
   </data>
   <data name="Text_Battery_Single" xml:space="preserve">
     <value>충전중 {0}% {1}</value>
