@@ -141,4 +141,11 @@
   <data name="Text_Mute_VoiceOver" xml:space="preserve">
     <value>Couper le son du VoiceOver</value>
   </data>
+  <data name="Text_Battery_Single" xml:space="preserve">
+    <value>Charge {0}% {1}</value>
+    <comment>{0} will be replaced to battery level, {1} to charge status.</comment>
+  </data>
+  <data name="Text_Battery_Error" xml:space="preserve">
+    <value>Echec du chargement du niveau de charge</value>
+  </data>
 </root>
