@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -121,7 +121,7 @@
     <value>Выход</value>
   </data>
   <data name="Text_Icon_Connected" xml:space="preserve">
-    <value>ЛП</value>
+    <value>ЛР</value>
   </data>
   <data name="Text_Icon_Default" xml:space="preserve">
     <value>AirPods отключены</value>
