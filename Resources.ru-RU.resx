@@ -127,7 +127,7 @@
     <value>AirPods отключены</value>
   </data>
   <data name="Text_Icon_Error" xml:space="preserve">
-    <value>Блютус не поддерживается / не доступен</value>
+    <value>Блютус не поддерживается или не доступен</value>
   </data>
   <data name="Text_Settings" xml:space="preserve">
     <value>Настройки</value>
@@ -139,7 +139,7 @@
     <value>Поиск AirPods</value>
   </data>
   <data name="Text_Mute_VoiceOver" xml:space="preserve">
-    <value>Не озвучивать</value>
+    <value>Выключить VoiceOver</value>
   </data>
   <data name="Text_Battery_Single" xml:space="preserve">
     <value>Заряд {0}% {1}</value>
