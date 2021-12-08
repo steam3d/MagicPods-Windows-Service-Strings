@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Text_Button_Connect" xml:space="preserve">
-    <value>糸をつなぐ</value>
+    <value>接続</value>
   </data>
   <data name="Text_Icon_Search" xml:space="preserve">
     <value>AirPodsを探しています</value>
@@ -68,14 +68,14 @@
     <value>設定</value>
   </data>
   <data name="Text_Mute_VoiceOver" xml:space="preserve">
-    <value>Voice Over静音</value>
+    <value>Voice Overをミュートにする</value>
   </data>
   <data name="Text_Battery_Single" xml:space="preserve">
-    <value>充電中{0}%{1}</value>
+    <value>バッテリー残量{0}%{1}</value>
     <comment>{0} will be replaced to battery level, {1} to charge status.</comment>
   </data>
   <data name="Text_Battery_Error" xml:space="preserve">
-    <value>バッテリーの充電状況を更新できませんでした</value>
+    <value>バッテリー残量の更新に失敗しました</value>
   </data>
   <data name="Text_Exit" xml:space="preserve">
     <value>閉じる</value>
@@ -85,9 +85,9 @@
     <comment>LR - Short name Left and Right. Used to show battery information: L: 100% R: 100%.</comment>
   </data>
   <data name="Text_Icon_Default" xml:space="preserve">
-    <value>AirPodsは接続を中断しました</value>
+    <value>AirPodsが接続されていません</value>
   </data>
   <data name="Text_Icon_Error" xml:space="preserve">
-    <value>サポートまたは利用可能なブルートゥースがありません</value>
+    <value>Bluetoothがサポートされていないか利用できません</value>
   </data>
 </root>
