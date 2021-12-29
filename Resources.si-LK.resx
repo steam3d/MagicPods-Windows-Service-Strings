@@ -64,4 +64,30 @@
   <data name="Text_Settings" xml:space="preserve">
     <value>සැකසුම්</value>
   </data>
+  <data name="Text_Icon_Connected" xml:space="preserve">
+    <value>එල්ආර්</value>
+    <comment>LR - Short name Left and Right. Used to show battery information: L: 100% R: 100%.</comment>
+  </data>
+  <data name="Text_Icon_Default" xml:space="preserve">
+    <value>ගුවන් යානා විසන්ධි කළේය</value>
+  </data>
+  <data name="Text_Icon_Error" xml:space="preserve">
+    <value>බ්ලූටූත් සහාය නොදක්වයි</value>
+  </data>
+  <data name="Text_Button_Connect" xml:space="preserve">
+    <value>සම්බන්ධ කරන්න</value>
+  </data>
+  <data name="Text_Icon_Search" xml:space="preserve">
+    <value>ගුවන් යානා සෙවීම</value>
+  </data>
+  <data name="Text_Battery_Single" xml:space="preserve">
+    <value>{0}% {1} ආරෝපණය කරන්න</value>
+    <comment>{0} will be replaced to battery level, {1} to charge status.</comment>
+  </data>
+  <data name="Text_Battery_Error" xml:space="preserve">
+    <value>බැටරි ආරෝපණ යාවත්කාලීන කිරීමට අපොහොසත් විය</value>
+  </data>
+  <data name="Text_Mute_VoiceOver" xml:space="preserve">
+    <value>නිශ්ශබ්ද කෙකෝරියෝ</value>
+  </data>
 </root>
