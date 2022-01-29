@@ -88,6 +88,6 @@
     <value>Tentativo di aggiornare il livello di ricarica fallito</value>
   </data>
   <data name="Text_Mute_VoiceOver" xml:space="preserve">
-    <value>disabilita VoiceOver</value>
+    <value>Disabilita VoiceOver</value>
   </data>
 </root>
