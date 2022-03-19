@@ -141,6 +141,7 @@
   </data>
   <data name="Text_Mute_VoiceOver" xml:space="preserve">
     <value>Mute VoiceOver</value>
+    <comment>Deprecated</comment>
   </data>
   <data name="Text_Battery_Single" xml:space="preserve">
     <value>Charge {0}% {1}</value>
@@ -148,5 +149,22 @@
   </data>
   <data name="Text_Battery_Error" xml:space="preserve">
     <value>Failed to update battery charge</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Connect" xml:space="preserve">
+    <value>Connect {0}</value>
+    <comment>{0} will be replaced to AirPods name</comment>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Disconnect" xml:space="preserve">
+    <value>Disconnect {0}</value>
+    <comment>{0} will be replaced to AirPods name</comment>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
+    <value>VoiceOver</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver_Enabled" xml:space="preserve">
+    <value>On</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
+    <value>Off</value>
   </data>
 </root>
