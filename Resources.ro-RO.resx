@@ -90,4 +90,21 @@
   <data name="Text_Icon_Error" xml:space="preserve">
     <value>Bluetooth nu este suportat sau disponibil</value>
   </data>
+  <data name="Text_ContextMenu_Headphones_Disconnect" xml:space="preserve">
+    <value>Deconectează {0}</value>
+    <comment>{0} will be replaced to AirPods name</comment>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
+    <value>Dublaj</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver_Enabled" xml:space="preserve">
+    <value>Pornit</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
+    <value>Oprit</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Connect" xml:space="preserve">
+    <value>Conectează {0}</value>
+    <comment>{0} will be replaced to AirPods name</comment>
+  </data>
 </root>
