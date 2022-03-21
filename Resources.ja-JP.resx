@@ -90,4 +90,21 @@
   <data name="Text_Icon_Error" xml:space="preserve">
     <value>Bluetoothがサポートされていないか利用できません</value>
   </data>
+  <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
+    <value>オフ</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Disconnect" xml:space="preserve">
+    <value>{0} 切断</value>
+    <comment>{0} will be replaced to AirPods name</comment>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
+    <value>ボイスオーバー</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver_Enabled" xml:space="preserve">
+    <value>オン</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Connect" xml:space="preserve">
+    <value>{0} 接続</value>
+    <comment>{0} will be replaced to AirPods name</comment>
+  </data>
 </root>
