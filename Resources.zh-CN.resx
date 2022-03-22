@@ -148,4 +148,21 @@
   <data name="Text_Mute_VoiceOver" xml:space="preserve">
     <value>关闭旁白</value>
   </data>
+  <data name="Text_ContextMenu_Headphones_Connect" xml:space="preserve">
+    <value>连接 {0}</value>
+    <comment>{0} will be replaced to AirPods name</comment>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Disconnect" xml:space="preserve">
+    <value>断开与 {0} 的连接</value>
+    <comment>{0} will be replaced to AirPods name</comment>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
+    <value>讲述人</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver_Enabled" xml:space="preserve">
+    <value>开</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
+    <value>关</value>
+  </data>
 </root>
