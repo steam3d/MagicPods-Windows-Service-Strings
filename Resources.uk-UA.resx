@@ -90,4 +90,21 @@
   <data name="Text_Mute_VoiceOver" xml:space="preserve">
     <value>Вимкнути голос VoiceOver</value>
   </data>
+  <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
+    <value>Озвучувати сповіщення</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver_Enabled" xml:space="preserve">
+    <value>Вкл.</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
+    <value>Викл.</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Disconnect" xml:space="preserve">
+    <value>Від'єднати {0}</value>
+    <comment>{0} will be replaced to AirPods name</comment>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Connect" xml:space="preserve">
+    <value>Під'єднати {0}</value>
+    <comment>{0} will be replaced to AirPods name</comment>
+  </data>
 </root>
