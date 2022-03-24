@@ -148,4 +148,18 @@
   <data name="Text_Mute_VoiceOver" xml:space="preserve">
     <value>VoiceOver stummschalten</value>
   </data>
+  <data name="Text_ContextMenu_Headphones_Disconnect" xml:space="preserve">
+    <value>Verbindung zu {0} trennen</value>
+    <comment>{0} will be replaced to AirPods name</comment>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver_Enabled" xml:space="preserve">
+    <value>An</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
+    <value>Aus</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Connect" xml:space="preserve">
+    <value>Verbinden{0}</value>
+    <comment>{0} will be replaced to AirPods name</comment>
+  </data>
 </root>
