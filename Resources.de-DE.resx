@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Text_Exit" xml:space="preserve">
-    <value>Beenden</value>
+    <value>Ausgang</value>
   </data>
   <data name="Text_Icon_Connected" xml:space="preserve">
     <value>LR</value>
@@ -163,6 +163,6 @@
     <comment>{0} will be replaced to AirPods name</comment>
   </data>
   <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
-    <value>VoiceOver</value>
+    <value>Voice-over</value>
   </data>
 </root>
