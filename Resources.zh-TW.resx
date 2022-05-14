@@ -148,4 +148,8 @@
   <data name="Text_Battery_Error" xml:space="preserve">
     <value>無法更新電池電量</value>
   </data>
+  <data name="Text_ContextMenu_Headphones_Connect" xml:space="preserve">
+    <value>連線{0}</value>
+    <comment>{0} will be replaced to AirPods name</comment>
+  </data>
 </root>
