@@ -149,4 +149,21 @@
     <value>Şarj %{0} {1}</value>
     <comment>{0} will be replaced to battery level, {1} to charge status.</comment>
   </data>
+  <data name="Text_ContextMenu_Headphones_Disconnect" xml:space="preserve">
+    <value>Bağlantıyı kes {0}</value>
+    <comment>{0} will be replaced to AirPods name</comment>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
+    <value>VoiceOver</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver_Enabled" xml:space="preserve">
+    <value>Açık</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
+    <value>Kapalı</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Connect" xml:space="preserve">
+    <value>Bağlan {0}</value>
+    <comment>{0} will be replaced to AirPods name</comment>
+  </data>
 </root>
