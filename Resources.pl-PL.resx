@@ -94,4 +94,14 @@
     <value>Zamwiki {0}</value>
     <comment>{0} will be replaced to AirPods name</comment>
   </data>
+  <data name="Text_ContextMenu_Headphones_Disconnect" xml:space="preserve">
+    <value>Rozłącz {0}</value>
+    <comment>{0} will be replaced to AirPods name</comment>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
+    <value>Wył</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver_Enabled" xml:space="preserve">
+    <value>Wł</value>
+  </data>
 </root>
