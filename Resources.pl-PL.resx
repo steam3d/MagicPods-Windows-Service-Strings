@@ -91,7 +91,7 @@
     <value>Błąd pobierania stanu naładowania baterii</value>
   </data>
   <data name="Text_ContextMenu_Headphones_Connect" xml:space="preserve">
-    <value>Zamwiki {0}</value>
+    <value>Połącz {0}</value>
     <comment>{0} will be replaced to AirPods name</comment>
   </data>
   <data name="Text_ContextMenu_Headphones_Disconnect" xml:space="preserve">
