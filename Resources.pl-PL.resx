@@ -104,4 +104,7 @@
   <data name="Text_ContextMenu_VoiceOver_Enabled" xml:space="preserve">
     <value>Wł</value>
   </data>
+  <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
+    <value>Voice-Over</value>
+  </data>
 </root>
