@@ -61,4 +61,51 @@
   <data name="Text_Exit" xml:space="preserve">
     <value>Avslutt</value>
   </data>
+  <data name="Text_Icon_Connected" xml:space="preserve">
+    <value>VH</value>
+    <comment>LR - Short name Left and Right. Used to show battery information: L: 100% R: 100%.</comment>
+  </data>
+  <data name="Text_Icon_Default" xml:space="preserve">
+    <value>AirPods er koblet fra</value>
+  </data>
+  <data name="Text_Icon_Error" xml:space="preserve">
+    <value>Bluetooth er ikke støttet eller tilgjengelig</value>
+  </data>
+  <data name="Text_Settings" xml:space="preserve">
+    <value>Innstillinger</value>
+  </data>
+  <data name="Text_Button_Connect" xml:space="preserve">
+    <value>Koble til</value>
+  </data>
+  <data name="Text_Icon_Search" xml:space="preserve">
+    <value>Søker etter AirPods</value>
+  </data>
+  <data name="Text_Battery_Single" xml:space="preserve">
+    <value>Batteri {0}% {1}</value>
+    <comment>{0} will be replaced to battery level, {1} to charge status.</comment>
+  </data>
+  <data name="Text_Battery_Error" xml:space="preserve">
+    <value>Kunne ikke oppdatere batteri informasjon</value>
+  </data>
+  <data name="Text_Mute_VoiceOver" xml:space="preserve">
+    <value>Hysj VoiceOver</value>
+    <comment>Deprecated</comment>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Disconnect" xml:space="preserve">
+    <value>Koble fra {0}</value>
+    <comment>{0} will be replaced to AirPods name</comment>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver_Enabled" xml:space="preserve">
+    <value>På</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
+    <value>Stemme</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
+    <value>Av</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Connect" xml:space="preserve">
+    <value>Koble til {0}</value>
+    <comment>{0} will be replaced to AirPods name</comment>
+  </data>
 </root>
