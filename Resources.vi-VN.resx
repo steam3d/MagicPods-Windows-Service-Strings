@@ -163,4 +163,7 @@
   <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
     <value>Tắt</value>
   </data>
+  <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
+    <value>VoiceOver</value>
+  </data>
 </root>
