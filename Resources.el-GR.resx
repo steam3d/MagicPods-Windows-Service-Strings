@@ -66,7 +66,7 @@
     <value>Τα AirPods αποσυνδέθηκαν</value>
   </data>
   <data name="Text_Icon_Error" xml:space="preserve">
-    <value>Η λειτουργεία Bluetooth δεν υποστηρίζεται</value>
+    <value>Η λειτουργεία Bluetooth δεν υποστηρίζεται ή δεν είναι ενεργοποιημένη</value>
   </data>
   <data name="Text_Settings" xml:space="preserve">
     <value>Ρυθμίσεις</value>
@@ -89,5 +89,22 @@
   </data>
   <data name="Text_Exit" xml:space="preserve">
     <value>Έξοδος</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Connect" xml:space="preserve">
+    <value>Σύνδεση {0}</value>
+    <comment>{0} will be replaced to AirPods name</comment>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Disconnect" xml:space="preserve">
+    <value>Αποσύνδεση {0}</value>
+    <comment>{0} will be replaced to AirPods name</comment>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
+    <value>Φωνητικές εντολές</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver_Enabled" xml:space="preserve">
+    <value>Ενεργοποιημένο</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
+    <value>Απενεργοποιημένο</value>
   </data>
 </root>
