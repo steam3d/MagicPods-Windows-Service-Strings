@@ -90,4 +90,12 @@
   <data name="Text_Mute_VoiceOver" xml:space="preserve">
     <value>Disabilita VoiceOver</value>
   </data>
+  <data name="Battery_Short_Left" xml:space="preserve">
+    <value>S</value>
+    <comment>Abbreviation of the word «Left»</comment>
+  </data>
+  <data name="Battery_Short_Right" xml:space="preserve">
+    <value>D</value>
+    <comment>Abbreviation of the word «Right»</comment>
+  </data>
 </root>
