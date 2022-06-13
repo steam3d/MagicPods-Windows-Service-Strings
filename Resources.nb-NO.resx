@@ -108,4 +108,12 @@
     <value>Koble til {0}</value>
     <comment>{0} will be replaced to AirPods name</comment>
   </data>
+  <data name="Battery_Short_Left" xml:space="preserve">
+    <value>V</value>
+    <comment>Abbreviation of the word «Left»</comment>
+  </data>
+  <data name="Battery_Short_Right" xml:space="preserve">
+    <value>H</value>
+    <comment>Abbreviation of the word «Right»</comment>
+  </data>
 </root>
