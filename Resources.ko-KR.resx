@@ -165,4 +165,12 @@
   <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
     <value>보이스오버</value>
   </data>
+  <data name="Battery_Short_Left" xml:space="preserve">
+    <value>좌</value>
+    <comment>Abbreviation of the word «Left»</comment>
+  </data>
+  <data name="Battery_Short_Right" xml:space="preserve">
+    <value>우</value>
+    <comment>Abbreviation of the word «Right»</comment>
+  </data>
 </root>
