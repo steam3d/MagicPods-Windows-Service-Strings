@@ -107,4 +107,12 @@
   <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
     <value>Απενεργοποιημένο</value>
   </data>
+  <data name="Battery_Short_Left" xml:space="preserve">
+    <value>Αριστερό</value>
+    <comment>Abbreviation of the word «Left»</comment>
+  </data>
+  <data name="Battery_Short_Right" xml:space="preserve">
+    <value>Δεξί</value>
+    <comment>Abbreviation of the word «Right»</comment>
+  </data>
 </root>
