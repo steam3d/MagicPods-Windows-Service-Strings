@@ -107,4 +107,12 @@
     <value>{0} 接続</value>
     <comment>{0} will be replaced to AirPods name</comment>
   </data>
+  <data name="Battery_Short_Right" xml:space="preserve">
+    <value>右</value>
+    <comment>Abbreviation of the word «Right»</comment>
+  </data>
+  <data name="Battery_Short_Left" xml:space="preserve">
+    <value>左</value>
+    <comment>Abbreviation of the word «Left»</comment>
+  </data>
 </root>
