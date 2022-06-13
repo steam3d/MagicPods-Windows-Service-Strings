@@ -90,4 +90,12 @@
   <data name="Text_Battery_Error" xml:space="preserve">
     <value>Greška prilikom ažuriranja stanja baterije</value>
   </data>
+  <data name="Battery_Short_Left" xml:space="preserve">
+    <value>L</value>
+    <comment>Abbreviation of the word «Left»</comment>
+  </data>
+  <data name="Battery_Short_Right" xml:space="preserve">
+    <value>D</value>
+    <comment>Abbreviation of the word «Right»</comment>
+  </data>
 </root>
