@@ -90,4 +90,12 @@
     <value>Veloita {0} % {1}</value>
     <comment>{0} will be replaced to battery level, {1} to charge status.</comment>
   </data>
+  <data name="Battery_Short_Left" xml:space="preserve">
+    <value>L</value>
+    <comment>Abbreviation of the word «Left»</comment>
+  </data>
+  <data name="Battery_Short_Right" xml:space="preserve">
+    <value>R</value>
+    <comment>Abbreviation of the word «Right»</comment>
+  </data>
 </root>
