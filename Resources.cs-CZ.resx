@@ -108,4 +108,12 @@
   <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
     <value>Vypnuto</value>
   </data>
+  <data name="Battery_Short_Left" xml:space="preserve">
+    <value>L</value>
+    <comment>Abbreviation of the word «Left»</comment>
+  </data>
+  <data name="Battery_Short_Right" xml:space="preserve">
+    <value>P</value>
+    <comment>Abbreviation of the word «Right»</comment>
+  </data>
 </root>
