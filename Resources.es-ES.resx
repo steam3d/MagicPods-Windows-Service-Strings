@@ -107,4 +107,12 @@
   <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
     <value>apagado</value>
   </data>
+  <data name="Battery_Short_Left" xml:space="preserve">
+    <value>I</value>
+    <comment>Abbreviation of the word «Left»</comment>
+  </data>
+  <data name="Battery_Short_Right" xml:space="preserve">
+    <value>D</value>
+    <comment>Abbreviation of the word «Right»</comment>
+  </data>
 </root>
