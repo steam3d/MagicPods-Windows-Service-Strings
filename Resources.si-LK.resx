@@ -90,4 +90,12 @@
   <data name="Text_Mute_VoiceOver" xml:space="preserve">
     <value>නිශ්ශබ්ද කෙකෝරියෝ</value>
   </data>
+  <data name="Battery_Short_Left" xml:space="preserve">
+    <value>එල්</value>
+    <comment>Abbreviation of the word «Left»</comment>
+  </data>
+  <data name="Battery_Short_Right" xml:space="preserve">
+    <value>ආර්</value>
+    <comment>Abbreviation of the word «Right»</comment>
+  </data>
 </root>
