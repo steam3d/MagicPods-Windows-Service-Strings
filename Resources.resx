@@ -122,7 +122,7 @@
   </data>
   <data name="Text_Icon_Connected" xml:space="preserve">
     <value>LR</value>
-    <comment>LR - Short name Left and Right. Used to show battery information: L: 100% R: 100%.</comment>
+    <comment>Deprecated</comment>
   </data>
   <data name="Text_Icon_Default" xml:space="preserve">
     <value>AirPods disconnected</value>
@@ -152,11 +152,11 @@
   </data>
   <data name="Text_ContextMenu_Headphones_Connect" xml:space="preserve">
     <value>Connect {0}</value>
-    <comment>{0} will be replaced to AirPods name</comment>
+    <comment>{0} will be replaced to AirPods name. I recommend using an abbreviation so that the name of the headphones can be seen.</comment>
   </data>
   <data name="Text_ContextMenu_Headphones_Disconnect" xml:space="preserve">
     <value>Disconnect {0}</value>
-    <comment>{0} will be replaced to AirPods name</comment>
+    <comment>{0} will be replaced to AirPods name. I recommend using an abbreviation so that the name of the headphones can be seen</comment>
   </data>
   <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
     <value>VoiceOver</value>
@@ -166,5 +166,21 @@
   </data>
   <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
     <value>Off</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Connecting" xml:space="preserve">
+    <value>Connecting {0}</value>
+    <comment>{0} will be replaced to AirPods name. The headphones are connecting right now</comment>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Disconnecting" xml:space="preserve">
+    <value>Disconnecting {0}</value>
+    <comment>{0} will be replaced to AirPods name. The headphones are disconnecting right now</comment>
+  </data>
+  <data name="Battery_Short_Left" xml:space="preserve">
+    <value>L</value>
+    <comment>Abbreviation of the word «Left»</comment>
+  </data>
+  <data name="Battery_Short_Right" xml:space="preserve">
+    <value>R</value>
+    <comment>Abbreviation of the word «Right»</comment>
   </data>
 </root>
