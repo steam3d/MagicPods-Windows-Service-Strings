@@ -73,10 +73,6 @@
   <data name="Text_Button_Connect" xml:space="preserve">
     <value>Connetti</value>
   </data>
-  <data name="Text_Icon_Connected" xml:space="preserve">
-    <value>SD</value>
-    <comment>LR - Short name Left and Right. Used to show battery information: L: 100% R: 100%.</comment>
-  </data>
   <data name="Text_Icon_Error" xml:space="preserve">
     <value>Il Bluetooth non è supportato o disponibile</value>
   </data>
@@ -86,9 +82,6 @@
   </data>
   <data name="Text_Battery_Error" xml:space="preserve">
     <value>Tentativo di aggiornare il livello di ricarica fallito</value>
-  </data>
-  <data name="Text_Mute_VoiceOver" xml:space="preserve">
-    <value>Disabilita VoiceOver</value>
   </data>
   <data name="Battery_Short_Left" xml:space="preserve">
     <value>S</value>

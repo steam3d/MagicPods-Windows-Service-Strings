@@ -120,9 +120,6 @@
   <data name="Text_Exit" xml:space="preserve">
     <value>退出</value>
   </data>
-  <data name="Text_Icon_Connected" xml:space="preserve">
-    <value>左右</value>
-  </data>
   <data name="Text_Icon_Default" xml:space="preserve">
     <value>AirPods 已断开连接</value>
   </data>
@@ -144,9 +141,6 @@
   <data name="Text_Battery_Single" xml:space="preserve">
     <value>已充电 {0}% {1}</value>
     <comment>{0} will be replaced to battery level, {1} to charge status.</comment>
-  </data>
-  <data name="Text_Mute_VoiceOver" xml:space="preserve">
-    <value>关闭旁白</value>
   </data>
   <data name="Text_ContextMenu_Headphones_Connect" xml:space="preserve">
     <value>连接 {0}</value>

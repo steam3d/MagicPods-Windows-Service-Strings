@@ -120,9 +120,6 @@
   <data name="Text_Exit" xml:space="preserve">
     <value>Salir</value>
   </data>
-  <data name="Text_Icon_Connected" xml:space="preserve">
-    <value>ID</value>
-  </data>
   <data name="Text_Icon_Default" xml:space="preserve">
     <value>AirPods Desconectados</value>
   </data>
@@ -144,9 +141,6 @@
   </data>
   <data name="Text_Battery_Error" xml:space="preserve">
     <value>No se puede actualizar la batería</value>
-  </data>
-  <data name="Text_Mute_VoiceOver" xml:space="preserve">
-    <value>Voz fuera de tono</value>
   </data>
   <data name="Battery_Short_Left" xml:space="preserve">
     <value>I</value>

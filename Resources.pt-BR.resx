@@ -120,9 +120,6 @@
   <data name="Text_Exit" xml:space="preserve">
     <value>Sair</value>
   </data>
-  <data name="Text_Icon_Connected" xml:space="preserve">
-    <value>ED</value>
-  </data>
   <data name="Text_Icon_Default" xml:space="preserve">
     <value>AirPods não conectados</value>
   </data>
@@ -144,9 +141,6 @@
   </data>
   <data name="Text_Battery_Error" xml:space="preserve">
     <value>Falha na atualização da carga da bateria</value>
-  </data>
-  <data name="Text_Mute_VoiceOver" xml:space="preserve">
-    <value>VoiceOver mudo</value>
   </data>
   <data name="Battery_Short_Left" xml:space="preserve">
     <value>E</value>

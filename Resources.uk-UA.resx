@@ -67,10 +67,6 @@
   <data name="Text_Exit" xml:space="preserve">
     <value>Вихід</value>
   </data>
-  <data name="Text_Icon_Connected" xml:space="preserve">
-    <value>ЛП</value>
-    <comment>LR - Short name Left and Right. Used to show battery information: L: 100% R: 100%.</comment>
-  </data>
   <data name="Text_Icon_Error" xml:space="preserve">
     <value>Bluetooth не підтримується або недоступний</value>
   </data>
@@ -86,9 +82,6 @@
   </data>
   <data name="Text_Battery_Error" xml:space="preserve">
     <value>Не вдалося оновити заряд акумулятора</value>
-  </data>
-  <data name="Text_Mute_VoiceOver" xml:space="preserve">
-    <value>Вимкнути голос VoiceOver</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
     <value>Озвучувати сповіщення</value>

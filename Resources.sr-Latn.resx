@@ -61,10 +61,6 @@
   <data name="Text_Exit" xml:space="preserve">
     <value>Izlaz</value>
   </data>
-  <data name="Text_Icon_Connected" xml:space="preserve">
-    <value>LD</value>
-    <comment>LR - Short name Left and Right. Used to show battery information: L: 100% R: 100%.</comment>
-  </data>
   <data name="Text_Icon_Default" xml:space="preserve">
     <value>AirPods diskonektovane</value>
   </data>
@@ -79,9 +75,6 @@
   </data>
   <data name="Text_Icon_Search" xml:space="preserve">
     <value>Traži AirPods</value>
-  </data>
-  <data name="Text_Mute_VoiceOver" xml:space="preserve">
-    <value>Mutiraj VoiceOver</value>
   </data>
   <data name="Text_Battery_Single" xml:space="preserve">
     <value>Napunjenost {0}% {1}</value>

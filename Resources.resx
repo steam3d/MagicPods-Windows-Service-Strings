@@ -120,10 +120,6 @@
   <data name="Text_Exit" xml:space="preserve">
     <value>Exit</value>
   </data>
-  <data name="Text_Icon_Connected" xml:space="preserve">
-    <value>LR</value>
-    <comment>Deprecated</comment>
-  </data>
   <data name="Text_Icon_Default" xml:space="preserve">
     <value>AirPods disconnected</value>
   </data>
@@ -138,10 +134,6 @@
   </data>
   <data name="Text_Icon_Search" xml:space="preserve">
     <value>Searching AirPods</value>
-  </data>
-  <data name="Text_Mute_VoiceOver" xml:space="preserve">
-    <value>Mute VoiceOver</value>
-    <comment>Deprecated</comment>
   </data>
   <data name="Text_Battery_Single" xml:space="preserve">
     <value>Charge {0}% {1}</value>
