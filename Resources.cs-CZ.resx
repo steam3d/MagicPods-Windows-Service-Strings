@@ -59,10 +59,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Text_Exit" xml:space="preserve">
-    <value>Výstup</value>
+    <value>Odejít</value>
   </data>
   <data name="Text_Icon_Default" xml:space="preserve">
-    <value>AirPody odpojeny</value>
+    <value>AirPods odpojeny</value>
   </data>
   <data name="Text_Icon_Error" xml:space="preserve">
     <value>Bluetooth není k dispozici, nebo není zapnutý</value>
@@ -107,5 +107,13 @@
   <data name="Battery_Short_Right" xml:space="preserve">
     <value>P</value>
     <comment>Abbreviation of the word «Right»</comment>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Connecting" xml:space="preserve">
+    <value>Připojuji {0}</value>
+    <comment>{0} will be replaced to AirPods name. The headphones are connecting right now</comment>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Disconnecting" xml:space="preserve">
+    <value>Odpojuji {0}</value>
+    <comment>{0} will be replaced to AirPods name. The headphones are disconnecting right now</comment>
   </data>
 </root>
