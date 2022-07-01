@@ -133,7 +133,7 @@
     <value>연결</value>
   </data>
   <data name="Text_Icon_Search" xml:space="preserve">
-    <value>AirPods 검색중</value>
+    <value>AirPods 검색 중</value>
   </data>
   <data name="Text_Battery_Error" xml:space="preserve">
     <value>충전 상태 갱신에 실패했습니다</value>
@@ -166,5 +166,13 @@
   <data name="Battery_Short_Right" xml:space="preserve">
     <value>우</value>
     <comment>Abbreviation of the word «Right»</comment>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Connecting" xml:space="preserve">
+    <value>연결 중 {0}</value>
+    <comment>{0} will be replaced to AirPods name. The headphones are connecting right now</comment>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Disconnecting" xml:space="preserve">
+    <value>연결 해제 중 {0}</value>
+    <comment>{0} will be replaced to AirPods name. The headphones are disconnecting right now</comment>
   </data>
 </root>
