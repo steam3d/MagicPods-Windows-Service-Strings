@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Text_Icon_Default" xml:space="preserve">
-    <value>AirPods'y rozłączone</value>
+    <value>AirPodsy rozłączone</value>
   </data>
   <data name="Text_Icon_Error" xml:space="preserve">
     <value>Bluetooth nie jest wspierany lub dostępny</value>
@@ -71,17 +71,17 @@
     <value>Połącz</value>
   </data>
   <data name="Text_Icon_Search" xml:space="preserve">
-    <value>Szukanie AirPods'ów</value>
+    <value>Szukanie AirPodsów</value>
   </data>
   <data name="Text_Exit" xml:space="preserve">
     <value>Zamknij</value>
   </data>
   <data name="Text_Battery_Single" xml:space="preserve">
-    <value>Stan baterii: {0}% {1}</value>
+    <value>Naładowanie baterii: {0}% {1}</value>
     <comment>{0} will be replaced to battery level, {1} to charge status.</comment>
   </data>
   <data name="Text_Battery_Error" xml:space="preserve">
-    <value>Błąd pobierania stanu naładowania baterii</value>
+    <value>Błąd aktualizacji stanu naładowania baterii</value>
   </data>
   <data name="Text_ContextMenu_Headphones_Connect" xml:space="preserve">
     <value>Połącz {0}</value>
@@ -92,13 +92,13 @@
     <comment>{0} will be replaced to AirPods name</comment>
   </data>
   <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
-    <value>Wył</value>
+    <value>Wyłącz</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver_Enabled" xml:space="preserve">
-    <value>Wł</value>
+    <value>Włącz</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
-    <value>Voice-Over</value>
+    <value>Asystent głosowy</value>
   </data>
   <data name="Battery_Short_Left" xml:space="preserve">
     <value>L</value>
@@ -107,5 +107,13 @@
   <data name="Battery_Short_Right" xml:space="preserve">
     <value>R</value>
     <comment>Abbreviation of the word «Right»</comment>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Disconnecting" xml:space="preserve">
+    <value>Rozłączanie {0}</value>
+    <comment>{0} will be replaced to AirPods name. The headphones are disconnecting right now</comment>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Connecting" xml:space="preserve">
+    <value>Łączenie {0}</value>
+    <comment>{0} will be replaced to AirPods name. The headphones are connecting right now</comment>
   </data>
 </root>
