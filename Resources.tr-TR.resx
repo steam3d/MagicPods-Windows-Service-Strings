@@ -147,7 +147,7 @@
     <comment>{0} will be replaced to AirPods name</comment>
   </data>
   <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
-    <value>VoiceOver</value>
+    <value>Ses Yürütme</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver_Enabled" xml:space="preserve">
     <value>Açık</value>
@@ -166,5 +166,13 @@
   <data name="Battery_Short_Left" xml:space="preserve">
     <value>L</value>
     <comment>Abbreviation of the word «Left»</comment>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Disconnecting" xml:space="preserve">
+    <value>{0} Bağlantısı kesiliyor</value>
+    <comment>{0} will be replaced to AirPods name. The headphones are disconnecting right now</comment>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Connecting" xml:space="preserve">
+    <value>{0} Bağlanıyor</value>
+    <comment>{0} will be replaced to AirPods name. The headphones are connecting right now</comment>
   </data>
 </root>
