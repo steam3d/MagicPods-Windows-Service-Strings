@@ -124,7 +124,7 @@
     <value>AirPods déconnectés</value>
   </data>
   <data name="Text_Icon_Error" xml:space="preserve">
-    <value>Bluetooth n'est pas pris en charge ou disponible</value>
+    <value>Le Bluetooth n'est pas pris en charge ou disponible</value>
   </data>
   <data name="Text_Settings" xml:space="preserve">
     <value>Réglages</value>
@@ -136,11 +136,11 @@
     <value>Recherche des AirPods</value>
   </data>
   <data name="Text_Battery_Single" xml:space="preserve">
-    <value>Charge {0}% {1}</value>
+    <value>Chargé à {0}% {1}</value>
     <comment>{0} will be replaced to battery level, {1} to charge status.</comment>
   </data>
   <data name="Text_Battery_Error" xml:space="preserve">
-    <value>Echec du chargement du niveau de charge</value>
+    <value>Échec du chargement du niveau de charge</value>
   </data>
   <data name="Text_ContextMenu_Headphones_Connect" xml:space="preserve">
     <value>Connecter {0}</value>
@@ -151,10 +151,10 @@
     <comment>{0} will be replaced to AirPods name</comment>
   </data>
   <data name="Text_ContextMenu_VoiceOver_Enabled" xml:space="preserve">
-    <value>On</value>
+    <value>Activé</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
-    <value>Off</value>
+    <value>Désactivé</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
     <value>VoiceOver</value>
