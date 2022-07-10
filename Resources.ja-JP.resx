@@ -91,7 +91,7 @@
     <comment>{0} will be replaced to AirPods name</comment>
   </data>
   <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
-    <value>ボイスオーバー</value>
+    <value>VoiceOver</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver_Enabled" xml:space="preserve">
     <value>オン</value>
@@ -101,11 +101,11 @@
     <comment>{0} will be replaced to AirPods name</comment>
   </data>
   <data name="Battery_Short_Right" xml:space="preserve">
-    <value>右</value>
+    <value>R</value>
     <comment>Abbreviation of the word «Right»</comment>
   </data>
   <data name="Battery_Short_Left" xml:space="preserve">
-    <value>左</value>
+    <value>L</value>
     <comment>Abbreviation of the word «Left»</comment>
   </data>
   <data name="Text_ContextMenu_Headphones_Connecting" xml:space="preserve">
