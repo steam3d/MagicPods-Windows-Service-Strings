@@ -127,7 +127,7 @@
     <value>Le Bluetooth n'est pas pris en charge ou disponible</value>
   </data>
   <data name="Text_Settings" xml:space="preserve">
-    <value>Réglages</value>
+    <value>Paramètres</value>
   </data>
   <data name="Text_Button_Connect" xml:space="preserve">
     <value>Connecter</value>
@@ -140,7 +140,7 @@
     <comment>{0} will be replaced to battery level, {1} to charge status.</comment>
   </data>
   <data name="Text_Battery_Error" xml:space="preserve">
-    <value>Échec du chargement du niveau de charge</value>
+    <value>Échec du chargement du noveau de charge</value>
   </data>
   <data name="Text_ContextMenu_Headphones_Connect" xml:space="preserve">
     <value>Connecter {0}</value>
