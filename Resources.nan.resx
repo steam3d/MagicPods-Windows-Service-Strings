@@ -62,13 +62,13 @@
     <value>退 出</value>
   </data>
   <data name="Text_Icon_Default" xml:space="preserve">
-    <value>AirPods 无 法 连 接</value>
+    <value>AirPods 已断开</value>
   </data>
   <data name="Text_Icon_Error" xml:space="preserve">
-    <value>蓝 牙 无 受支 持 或无 会得通 用</value>
+    <value>蓝 牙 无 受支 持 或不可用</value>
   </data>
   <data name="Text_Settings" xml:space="preserve">
-    <value>设人 置</value>
+    <value>设人置</value>
   </data>
   <data name="Text_Button_Connect" xml:space="preserve">
     <value>连 接</value>
@@ -77,10 +77,40 @@
     <value>搜索 AirPods 中</value>
   </data>
   <data name="Text_Battery_Single" xml:space="preserve">
-    <value>电荷{0}%{1}</value>
+    <value>电量{0}%{1}</value>
     <comment>{0} will be replaced to battery level, {1} to charge status.</comment>
   </data>
   <data name="Text_Battery_Error" xml:space="preserve">
     <value>无法更新电池电量</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Connect" xml:space="preserve">
+    <value>已连接 {0}</value>
+    <comment>{0} will be replaced to AirPods name. I recommend using an abbreviation so that the name of the headphones can be seen.</comment>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Disconnect" xml:space="preserve">
+    <value>已断开 {0}</value>
+    <comment>{0} will be replaced to AirPods name. I recommend using an abbreviation so that the name of the headphones can be seen</comment>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver_Enabled" xml:space="preserve">
+    <value>开</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
+    <value>关</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Disconnecting" xml:space="preserve">
+    <value>正在断开 {0}</value>
+    <comment>{0} will be replaced to AirPods name. The headphones are disconnecting right now</comment>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Connecting" xml:space="preserve">
+    <value>正在连接 {0}</value>
+    <comment>{0} will be replaced to AirPods name. The headphones are connecting right now</comment>
+  </data>
+  <data name="Battery_Short_Left" xml:space="preserve">
+    <value>左</value>
+    <comment>Abbreviation of the word «Left»</comment>
+  </data>
+  <data name="Battery_Short_Right" xml:space="preserve">
+    <value>右</value>
+    <comment>Abbreviation of the word «Right»</comment>
   </data>
 </root>
