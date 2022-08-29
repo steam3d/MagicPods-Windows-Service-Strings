@@ -73,4 +73,47 @@
   <data name="Text_Exit" xml:space="preserve">
     <value>बाहर निकलना</value>
   </data>
+  <data name="Text_ContextMenu_Headphones_Connect" xml:space="preserve">
+    <value>जुडिये{0}</value>
+    <comment>{0} will be replaced to AirPods name. I recommend using an abbreviation so that the name of the headphones can be seen.</comment>
+  </data>
+  <data name="Text_Icon_Search" xml:space="preserve">
+    <value>खोज कर ऐरपोडस</value>
+  </data>
+  <data name="Text_Battery_Error" xml:space="preserve">
+    <value>बैटरी चार्ज अपडेट करने में विफल</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Disconnect" xml:space="preserve">
+    <value>डिस्कनेक्ट{0}</value>
+    <comment>{0} will be replaced to AirPods name. I recommend using an abbreviation so that the name of the headphones can be seen</comment>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
+    <value>पार्श्व स्वर</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver_Enabled" xml:space="preserve">
+    <value>पर</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
+    <value>बंद</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Connecting" xml:space="preserve">
+    <value>कनेक्ट{0}</value>
+    <comment>{0} will be replaced to AirPods name. The headphones are connecting right now</comment>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Disconnecting" xml:space="preserve">
+    <value>डिस्कनेक्ट कर रहा है{0}</value>
+    <comment>{0} will be replaced to AirPods name. The headphones are disconnecting right now</comment>
+  </data>
+  <data name="Battery_Short_Left" xml:space="preserve">
+    <value>ली</value>
+    <comment>Abbreviation of the word «Left»</comment>
+  </data>
+  <data name="Battery_Short_Right" xml:space="preserve">
+    <value>आर</value>
+    <comment>Abbreviation of the word «Right»</comment>
+  </data>
+  <data name="Text_Battery_Single" xml:space="preserve">
+    <value>शुल्क{0}%{1}</value>
+    <comment>{0} will be replaced to battery level, {1} to charge status.</comment>
+  </data>
 </root>
