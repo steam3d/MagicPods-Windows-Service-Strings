@@ -65,10 +65,10 @@
     <value>AirPods 已断开</value>
   </data>
   <data name="Text_Icon_Error" xml:space="preserve">
-    <value>蓝 牙 无 受支 持 或不可用</value>
+    <value>蓝牙不受支持或不可用</value>
   </data>
   <data name="Text_Settings" xml:space="preserve">
-    <value>设人置</value>
+    <value>设 置</value>
   </data>
   <data name="Text_Button_Connect" xml:space="preserve">
     <value>连 接</value>
