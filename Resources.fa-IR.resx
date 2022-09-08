@@ -59,6 +59,61 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Text_Exit" xml:space="preserve">
-    <value>خارج شوید</value>
+    <value>خروج</value>
+  </data>
+  <data name="Text_Icon_Default" xml:space="preserve">
+    <value>AirPods قطع شد</value>
+  </data>
+  <data name="Text_Battery_Single" xml:space="preserve">
+    <value>شارژ{0}% {1}</value>
+    <comment>{0} will be replaced to battery level, {1} to charge status.</comment>
+  </data>
+  <data name="Text_Battery_Error" xml:space="preserve">
+    <value>بروزرسانی شارژ باتری ناموفق بود</value>
+  </data>
+  <data name="Text_Icon_Error" xml:space="preserve">
+    <value>بلوتوث در دسترس نیست</value>
+  </data>
+  <data name="Text_Settings" xml:space="preserve">
+    <value>تنظیمات</value>
+  </data>
+  <data name="Text_Button_Connect" xml:space="preserve">
+    <value>اتصال</value>
+  </data>
+  <data name="Text_Icon_Search" xml:space="preserve">
+    <value>درجستجوی AirPods</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Connect" xml:space="preserve">
+    <value>اتصال {0}</value>
+    <comment>{0} will be replaced to AirPods name. I recommend using an abbreviation so that the name of the headphones can be seen.</comment>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
+    <value>VoiceOver</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver_Enabled" xml:space="preserve">
+    <value>روشن</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
+    <value>خاموش</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Disconnect" xml:space="preserve">
+    <value>قطع ارتباط {0}</value>
+    <comment>{0} will be replaced to AirPods name. I recommend using an abbreviation so that the name of the headphones can be seen</comment>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Connecting" xml:space="preserve">
+    <value>درحال اتصال {0}</value>
+    <comment>{0} will be replaced to AirPods name. The headphones are connecting right now</comment>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Disconnecting" xml:space="preserve">
+    <value>درحال قطع ارتباط {0}</value>
+    <comment>{0} will be replaced to AirPods name. The headphones are disconnecting right now</comment>
+  </data>
+  <data name="Battery_Short_Left" xml:space="preserve">
+    <value>چ</value>
+    <comment>Abbreviation of the word «Left»</comment>
+  </data>
+  <data name="Battery_Short_Right" xml:space="preserve">
+    <value>ر</value>
+    <comment>Abbreviation of the word «Right»</comment>
   </data>
 </root>
