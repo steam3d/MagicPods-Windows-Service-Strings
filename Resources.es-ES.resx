@@ -68,7 +68,7 @@
     <value>Bluetooth no es compatible o no está disponible</value>
   </data>
   <data name="Text_Settings" xml:space="preserve">
-    <value>Configuracion</value>
+    <value>Configuración</value>
   </data>
   <data name="Text_Button_Connect" xml:space="preserve">
     <value>Conectar</value>
@@ -81,24 +81,24 @@
     <comment>{0} will be replaced to battery level, {1} to charge status.</comment>
   </data>
   <data name="Text_Battery_Error" xml:space="preserve">
-    <value>Falló la actualización de la carga de la batería</value>
+    <value>Fallo al actualizar el porcentaje de batería</value>
   </data>
   <data name="Text_ContextMenu_Headphones_Connect" xml:space="preserve">
     <value>Conectar{0}</value>
     <comment>{0} will be replaced to AirPods name</comment>
   </data>
   <data name="Text_ContextMenu_Headphones_Disconnect" xml:space="preserve">
-    <value>desConectar {0}</value>
+    <value>Desconectar {0}</value>
     <comment>{0} will be replaced to AirPods name</comment>
   </data>
   <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
     <value>Narración</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver_Enabled" xml:space="preserve">
-    <value>sobre</value>
+    <value>Activado</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
-    <value>apagado</value>
+    <value>Apagado</value>
   </data>
   <data name="Battery_Short_Left" xml:space="preserve">
     <value>I</value>
