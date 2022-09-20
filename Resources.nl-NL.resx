@@ -143,7 +143,7 @@
     <value>Kan de batterijlading niet updaten</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
-    <value>VoiceOver</value>
+    <value>Voice Over</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver_Enabled" xml:space="preserve">
     <value>Aan</value>
@@ -166,5 +166,13 @@
   <data name="Battery_Short_Right" xml:space="preserve">
     <value>R</value>
     <comment>Abbreviation of the word «Right»</comment>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Disconnecting" xml:space="preserve">
+    <value>Loskoppelen {0}</value>
+    <comment>{0} will be replaced to AirPods name. The headphones are disconnecting right now</comment>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Connecting" xml:space="preserve">
+    <value>Verbinden {0}</value>
+    <comment>{0} will be replaced to AirPods name. The headphones are connecting right now</comment>
   </data>
 </root>
