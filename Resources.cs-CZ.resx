@@ -92,7 +92,7 @@
     <comment>{0} will be replaced to AirPods name</comment>
   </data>
   <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
-    <value>VoiceOver</value>
+    <value>Komentování</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver_Enabled" xml:space="preserve">
     <value>Zapnuto</value>
