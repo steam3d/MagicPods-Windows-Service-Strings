@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,62 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Text_Icon_Error" xml:space="preserve">
+    <value>ப்ளுடூத ஆதரிக்க படவில்லை</value>
+  </data>
+  <data name="Text_Settings" xml:space="preserve">
+    <value>அமைப்புகள்</value>
+  </data>
+  <data name="Text_Icon_Search" xml:space="preserve">
+    <value>தேடுகிறது</value>
+  </data>
+  <data name="Text_Battery_Error" xml:space="preserve">
+    <value>மின்விசை சேமிப்பை காட்டமுடியவில்லை</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver_Enabled" xml:space="preserve">
+    <value>இயக்கு</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
+    <value>அமுக்கு</value>
+  </data>
+  <data name="Battery_Short_Left" xml:space="preserve">
+    <value>இடது</value>
+    <comment>Abbreviation of the word «Left»</comment>
+  </data>
+  <data name="Battery_Short_Right" xml:space="preserve">
+    <value>வலது</value>
+    <comment>Abbreviation of the word «Right»</comment>
+  </data>
+  <data name="Text_Exit" xml:space="preserve">
+    <value>வெளியேறு</value>
+  </data>
+  <data name="Text_Icon_Default" xml:space="preserve">
+    <value>எர்பாட்ஸ் துண்டிக்கபட்டுள்ளது</value>
+  </data>
+  <data name="Text_Button_Connect" xml:space="preserve">
+    <value>இணைக்கபடு</value>
+  </data>
+  <data name="Text_Battery_Single" xml:space="preserve">
+    <value>மின்விசை வசம் {0}%{1}</value>
+    <comment>{0} will be replaced to battery level, {1} to charge status.</comment>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Connect" xml:space="preserve">
+    <value>{0} இணைந்தது</value>
+    <comment>{0} will be replaced to AirPods name. I recommend using an abbreviation so that the name of the headphones can be seen.</comment>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Disconnect" xml:space="preserve">
+    <value>{0} துண்டிக்கபட்டது</value>
+    <comment>{0} will be replaced to AirPods name. I recommend using an abbreviation so that the name of the headphones can be seen</comment>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
+    <value>குரலெழுப்பு</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Connecting" xml:space="preserve">
+    <value>{0} இணைக்கிறது</value>
+    <comment>{0} will be replaced to AirPods name. The headphones are connecting right now</comment>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Disconnecting" xml:space="preserve">
+    <value>துண்டிக்கிறது {0}</value>
+    <comment>{0} will be replaced to AirPods name. The headphones are disconnecting right now</comment>
+  </data>
 </root>
