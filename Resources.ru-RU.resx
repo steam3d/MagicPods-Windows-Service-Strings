@@ -124,7 +124,7 @@
     <value>AirPods отключены</value>
   </data>
   <data name="Text_Icon_Error" xml:space="preserve">
-    <value>Блютус не поддерживается / не доступен</value>
+    <value>Bluetooth не поддерживается или недоступен</value>
   </data>
   <data name="Text_Settings" xml:space="preserve">
     <value>Настройки</value>
@@ -148,7 +148,7 @@
     <value>Отключить {0}</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
-    <value>Озвучивать уведомления</value>
+    <value>Озвучивать уведомления приложений</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
     <value>Откл.</value>
