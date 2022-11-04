@@ -113,4 +113,7 @@
     <value>右</value>
     <comment>Abbreviation of the word «Right»</comment>
   </data>
+  <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
+    <value>讲千讲万述人</value>
+  </data>
 </root>
