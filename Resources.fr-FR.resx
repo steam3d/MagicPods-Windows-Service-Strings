@@ -157,7 +157,7 @@
     <value>Désactivé</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
-    <value>VoiceOver</value>
+    <value>Voix Off</value>
   </data>
   <data name="Battery_Short_Right" xml:space="preserve">
     <value>D</value>
