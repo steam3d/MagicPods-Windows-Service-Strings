@@ -82,7 +82,7 @@
     <comment>{0} will be replaced to AirPods name. I recommend using an abbreviation so that the name of the headphones can be seen</comment>
   </data>
   <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
-    <value>VoiceOver</value>
+    <value>Narração</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver_Enabled" xml:space="preserve">
     <value>Ligado</value>
