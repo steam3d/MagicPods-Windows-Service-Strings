@@ -62,7 +62,7 @@
     <value>Indstillinger</value>
   </data>
   <data name="Text_Button_Connect" xml:space="preserve">
-    <value>Forbinde</value>
+    <value>Forbind</value>
   </data>
   <data name="Text_Exit" xml:space="preserve">
     <value>Udgang</value>
@@ -74,7 +74,7 @@
     <value>Bluetooth understøttes eller er ikke tilgængelig</value>
   </data>
   <data name="Text_Icon_Search" xml:space="preserve">
-    <value>Søge i AirPods</value>
+    <value>Søg efter AirPods</value>
   </data>
   <data name="Text_Battery_Single" xml:space="preserve">
     <value>Oplad {0}% {1}</value>
@@ -84,17 +84,17 @@
     <value>Batteriopladningen kunne ikke opdateres</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
-    <value>Off</value>
+    <value>Fra</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
     <value>VoiceOver</value>
   </data>
   <data name="Text_ContextMenu_Headphones_Disconnect" xml:space="preserve">
-    <value>Koblet fra</value>
+    <value>Frakoblet {0}</value>
     <comment>{0} will be replaced to AirPods name. I recommend using an abbreviation so that the name of the headphones can be seen</comment>
   </data>
   <data name="Text_ContextMenu_Headphones_Connecting" xml:space="preserve">
-    <value>Tilslutter</value>
+    <value>Tilslutter {0}</value>
     <comment>{0} will be replaced to AirPods name. The headphones are connecting right now</comment>
   </data>
   <data name="Battery_Short_Left" xml:space="preserve">
@@ -106,14 +106,14 @@
     <comment>Abbreviation of the word «Right»</comment>
   </data>
   <data name="Text_ContextMenu_Headphones_Disconnecting" xml:space="preserve">
-    <value>Kobler fra</value>
+    <value>Frakobler {0}</value>
     <comment>{0} will be replaced to AirPods name. The headphones are disconnecting right now</comment>
   </data>
   <data name="Text_ContextMenu_VoiceOver_Enabled" xml:space="preserve">
-    <value>On</value>
+    <value>Til</value>
   </data>
   <data name="Text_ContextMenu_Headphones_Connect" xml:space="preserve">
-    <value>Tilslut</value>
+    <value>Tilslut {0}</value>
     <comment>{0} will be replaced to AirPods name. I recommend using an abbreviation so that the name of the headphones can be seen.</comment>
   </data>
 </root>
