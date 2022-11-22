@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,62 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Text_Icon_Error" xml:space="preserve">
+    <value>A ko satilehin Bluetooth yi</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Connect" xml:space="preserve">
+    <value>Sopo {0}</value>
+    <comment>{0} will be replaced to AirPods name. I recommend using an abbreviation so that the name of the headphones can be seen.</comment>
+  </data>
+  <data name="Text_Battery_Single" xml:space="preserve">
+    <value>Agbara Batiri {0}%{1}</value>
+    <comment>{0} will be replaced to battery level, {1} to charge status.</comment>
+  </data>
+  <data name="Text_Settings" xml:space="preserve">
+    <value>Seto</value>
+  </data>
+  <data name="Text_Button_Connect" xml:space="preserve">
+    <value>Sopọ</value>
+  </data>
+  <data name="Text_Icon_Search" xml:space="preserve">
+    <value>A nwa AirPods</value>
+  </data>
+  <data name="Text_Battery_Error" xml:space="preserve">
+    <value>Kuna lati wo agbara batiri</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Disconnect" xml:space="preserve">
+    <value>Yo {0}</value>
+    <comment>{0} will be replaced to AirPods name. I recommend using an abbreviation so that the name of the headphones can be seen</comment>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver_Enabled" xml:space="preserve">
+    <value>Tan</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
+    <value>Pa</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Connecting" xml:space="preserve">
+    <value>O n sopo {0}</value>
+    <comment>{0} will be replaced to AirPods name. The headphones are connecting right now</comment>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Disconnecting" xml:space="preserve">
+    <value>A n yo kuro {0}</value>
+    <comment>{0} will be replaced to AirPods name. The headphones are disconnecting right now</comment>
+  </data>
+  <data name="Battery_Short_Left" xml:space="preserve">
+    <value>Osin</value>
+    <comment>Abbreviation of the word «Left»</comment>
+  </data>
+  <data name="Battery_Short_Right" xml:space="preserve">
+    <value>Otun</value>
+    <comment>Abbreviation of the word «Right»</comment>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
+    <value>ohun lori</value>
+  </data>
+  <data name="Text_Exit" xml:space="preserve">
+    <value>Kuro</value>
+  </data>
+  <data name="Text_Icon_Default" xml:space="preserve">
+    <value>A kori Airpod</value>
+  </data>
 </root>
