@@ -100,4 +100,12 @@
   <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
     <value>إيقاف</value>
   </data>
+  <data name="Text_ContextMenu_Headphones_Connecting" xml:space="preserve">
+    <value>جارٍ الاتصال{0}</value>
+    <comment>{0} will be replaced to AirPods name. The headphones are connecting right now</comment>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Disconnecting" xml:space="preserve">
+    <value>جارٍ إلغاء الاتصال {0}</value>
+    <comment>{0} will be replaced to AirPods name. The headphones are disconnecting right now</comment>
+  </data>
 </root>
