@@ -175,4 +175,19 @@
     <value>正在断开 {0}</value>
     <comment>{0} will be replaced to AirPods name. The headphones are disconnecting right now</comment>
   </data>
+  <data name="Text_Icon_Bluetooth_Multiple_Adapters_Found" xml:space="preserve">
+    <value>关</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_Classic" xml:space="preserve">
+    <value>蓝牙设备适配器不支持经典蓝牙</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Off" xml:space="preserve">
+    <value>蓝牙关闭</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Initialization_Error" xml:space="preserve">
+    <value>蓝牙设备适配器初始化错误</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_LE" xml:space="preserve">
+    <value>蓝牙设备适配器不支持低功耗蓝牙</value>
+  </data>
 </root>
