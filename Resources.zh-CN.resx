@@ -190,4 +190,7 @@
   <data name="Text_Icon_Bluetooth_Not_Supported_LE" xml:space="preserve">
     <value>蓝牙设备适配器不支持低功耗蓝牙</value>
   </data>
+  <data name="Text_Icon_Bluetooth_Not_Found" xml:space="preserve">
+    <value>未找到蓝牙硬件</value>
+  </data>
 </root>
