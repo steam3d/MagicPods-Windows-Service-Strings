@@ -116,4 +116,22 @@
     <value>P</value>
     <comment>Abbreviation of the word «Right»</comment>
   </data>
+  <data name="Text_Icon_Bluetooth_Off" xml:space="preserve">
+    <value>Bluetooth vypnutý</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Multiple_Adapters_Found" xml:space="preserve">
+    <value>Pripojených viacero Bluetooth adaptérov</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_LE" xml:space="preserve">
+    <value>Bluetooth adaptér nepodpruje Bluetooth LE</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Found" xml:space="preserve">
+    <value>Bluetooth adaptér nenájdený</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_Classic" xml:space="preserve">
+    <value>Bluetooth adaptér nepodporuje Bluetooth Classic</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Initialization_Error" xml:space="preserve">
+    <value>Inicializačná chyba Bluetooth adaptéra</value>
+  </data>
 </root>
