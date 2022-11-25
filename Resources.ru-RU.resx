@@ -169,7 +169,25 @@
     <comment>Abbreviation of the word «Left»</comment>
   </data>
   <data name="Battery_Short_Right" xml:space="preserve">
-    <value>Р</value>
+    <value>П</value>
     <comment>Abbreviation of the word «Right»</comment>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Found" xml:space="preserve">
+    <value>Bluetooth адаптер не найден</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Multiple_Adapters_Found" xml:space="preserve">
+    <value>Подключено несколько Bluetooth адаптеров</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_LE" xml:space="preserve">
+    <value>Bluetooth адаптер не поддерживает Bluetooth LE</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Off" xml:space="preserve">
+    <value>Bluetooth выключен</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Initialization_Error" xml:space="preserve">
+    <value>Ошибка инициализации Bluetooth адаптера</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_Classic" xml:space="preserve">
+    <value>Bluetooth адаптер не поддерживает Bluetooth Classic</value>
   </data>
 </root>
