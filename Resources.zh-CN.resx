@@ -176,7 +176,7 @@
     <comment>{0} will be replaced to AirPods name. The headphones are disconnecting right now</comment>
   </data>
   <data name="Text_Icon_Bluetooth_Multiple_Adapters_Found" xml:space="preserve">
-    <value></value>
+    <value>多个蓝牙适配器已连接</value>
   </data>
   <data name="Text_Icon_Bluetooth_Not_Supported_Classic" xml:space="preserve">
     <value>蓝牙设备适配器不支持经典蓝牙</value>
