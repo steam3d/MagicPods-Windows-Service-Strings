@@ -116,4 +116,7 @@
     <value>Kopplar ifrån {0}</value>
     <comment>{0} will be replaced to AirPods name. The headphones are disconnecting right now</comment>
   </data>
+  <data name="Text_Icon_Bluetooth_Not_Found" xml:space="preserve">
+    <value>Bluetooth-adapter hittades inte</value>
+  </data>
 </root>
