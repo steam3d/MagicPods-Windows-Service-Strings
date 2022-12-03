@@ -87,10 +87,10 @@
     <value>Озвучувати сповіщення</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver_Enabled" xml:space="preserve">
-    <value>Вкл.</value>
+    <value>Увімк.</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
-    <value>Викл.</value>
+    <value>Вимк.</value>
   </data>
   <data name="Text_ContextMenu_Headphones_Disconnect" xml:space="preserve">
     <value>Від'єднати {0}</value>
@@ -115,5 +115,23 @@
   <data name="Text_ContextMenu_Headphones_Disconnecting" xml:space="preserve">
     <value>Від'єднання {0}</value>
     <comment>{0} will be replaced to AirPods name. The headphones are disconnecting right now</comment>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Found" xml:space="preserve">
+    <value>Bluetooth-адаптер не знайдено</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Multiple_Adapters_Found" xml:space="preserve">
+    <value>Підключено декілька Bluetooth-адаптерів</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_Classic" xml:space="preserve">
+    <value>Bluetooth-адаптер не підтримує Bluetooth Classiс</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_LE" xml:space="preserve">
+    <value>Bluetooth-адаптер не підтримує Bluetooth LE</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Off" xml:space="preserve">
+    <value>Bluetooth вимкнено</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Initialization_Error" xml:space="preserve">
+    <value>Помилка ініціалізації Bluetooth-адаптера</value>
   </data>
 </root>
