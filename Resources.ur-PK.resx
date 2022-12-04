@@ -116,4 +116,22 @@
     <value>مربوط کریں {0}</value>
     <comment>{0} will be replaced to AirPods name. I recommend using an abbreviation so that the name of the headphones can be seen.</comment>
   </data>
+  <data name="Text_Icon_Bluetooth_Not_Found" xml:space="preserve">
+    <value>"Bluetooth Adapter" نہیں ملا</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Multiple_Adapters_Found" xml:space="preserve">
+    <value>متعدد "Bluetooth Adapters" منسلک ہیں</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_Classic" xml:space="preserve">
+    <value>"Bluetooth Adapter" "Bluetooth Classic", کو سپورٹ نہیں کرتا ہے</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Off" xml:space="preserve">
+    <value>بلوٹوتھ آف</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Initialization_Error" xml:space="preserve">
+    <value>بلوٹوتھ اڈاپٹر شروع کرنے میں خرابی۔بلوٹوتھ اڈاپٹر شروع کرنے میں خرابی</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_LE" xml:space="preserve">
+    <value>بلوٹوتھ اڈاپٹر بلوٹوتھ ایل ای کو سپورٹ نہیں کرتا ہے۔بلوٹوتھ اڈاپٹر بلوٹوتھ ایل ای کو سپورٹ نہیں کرتا ہے</value>
+  </data>
 </root>
