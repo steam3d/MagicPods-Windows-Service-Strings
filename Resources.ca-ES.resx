@@ -62,16 +62,16 @@
     <value>Sortir</value>
   </data>
   <data name="Text_Icon_Error" xml:space="preserve">
-    <value>Bluetooth no suportad o disponible</value>
+    <value>Bluetooth no suportat o no disponible</value>
   </data>
   <data name="Text_Settings" xml:space="preserve">
     <value>Configuració</value>
   </data>
   <data name="Text_Icon_Search" xml:space="preserve">
-    <value>Buscan Airpods</value>
+    <value>Buscant Airpods</value>
   </data>
   <data name="Text_Battery_Error" xml:space="preserve">
-    <value>Falla al actualizar el porcentaje de la bateria</value>
+    <value>Error al actualitzar el porcentatje de bateria</value>
   </data>
   <data name="Text_ContextMenu_Headphones_Connect" xml:space="preserve">
     <value>Connectar {0}</value>
@@ -85,7 +85,7 @@
     <value>Activada</value>
   </data>
   <data name="Text_ContextMenu_Headphones_Connecting" xml:space="preserve">
-    <value>Connectan {0}</value>
+    <value>Connectant {0}</value>
     <comment>{0} will be replaced to AirPods name. The headphones are connecting right now</comment>
   </data>
   <data name="Battery_Short_Left" xml:space="preserve">
@@ -103,17 +103,35 @@
     <value>Connectar</value>
   </data>
   <data name="Text_Battery_Single" xml:space="preserve">
-    <value>Carga {0}%{1}</value>
+    <value>Càrrega {0}%{1}</value>
     <comment>{0} will be replaced to battery level, {1} to charge status.</comment>
   </data>
   <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
     <value>Narració</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
-    <value>Desactivada</value>
+    <value>Desactivat</value>
   </data>
   <data name="Text_ContextMenu_Headphones_Disconnecting" xml:space="preserve">
-    <value>Desconectan {0}</value>
+    <value>Desconectant {0}</value>
     <comment>{0} will be replaced to AirPods name. The headphones are disconnecting right now</comment>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Found" xml:space="preserve">
+    <value>L'adaptador Bluetooth no s'ha trobat</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Multiple_Adapters_Found" xml:space="preserve">
+    <value>Multiples adaptadors Bluetooth connectats</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_Classic" xml:space="preserve">
+    <value>L'adaptador Bluethooth no te suport per Bluetooth Classic</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_LE" xml:space="preserve">
+    <value>L'adaptador Bluetooth no te suport per Bluetooth LE</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Initialization_Error" xml:space="preserve">
+    <value>Error al inicialitzar l'adaptador Bluetooth</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Off" xml:space="preserve">
+    <value>Bluetooth desactivat</value>
   </data>
 </root>
