@@ -116,4 +116,22 @@
   <data name="Text_Icon_Default" xml:space="preserve">
     <value>A kori Airpod</value>
   </data>
+  <data name="Text_Icon_Bluetooth_Not_Found" xml:space="preserve">
+    <value>A ko ri ohun ti nmu badọgba Bluetooth</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Multiple_Adapters_Found" xml:space="preserve">
+    <value>Awọn oluyipada Bluetooth lọpọlọpọ ti a ti sopọ</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_Classic" xml:space="preserve">
+    <value>Ohun ti nmu badọgba Bluetooth ko ṣe atilẹyin Ayebaye Bluetooth</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_LE" xml:space="preserve">
+    <value>Ohun ti nmu badọgba Bluetooth ko ṣe atilẹyin Bluetooth LE</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Off" xml:space="preserve">
+    <value>Bluetooth kuro</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Initialization_Error" xml:space="preserve">
+    <value>Aṣiṣe ohun ti nmu badọgba Bluetooth</value>
+  </data>
 </root>
