@@ -157,7 +157,7 @@
     <value>Désactivé</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
-    <value>VoiceOver</value>
+    <value>Voix Off</value>
   </data>
   <data name="Battery_Short_Right" xml:space="preserve">
     <value>D</value>
@@ -174,5 +174,23 @@
   <data name="Text_ContextMenu_Headphones_Disconnecting" xml:space="preserve">
     <value>Déconnexion {0}</value>
     <comment>{0} will be replaced to AirPods name. The headphones are disconnecting right now</comment>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Found" xml:space="preserve">
+    <value>Adaptateur Bluetooth introuvable</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Multiple_Adapters_Found" xml:space="preserve">
+    <value>Plusieurs adaptateurs Bluetooth connectés</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_Classic" xml:space="preserve">
+    <value>L'adaptateur Bluetooth ne prend pas en charge Bluetooth Classic</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Off" xml:space="preserve">
+    <value>Bluetooth désactivé</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Initialization_Error" xml:space="preserve">
+    <value>Erreur d'initialisation de l'adaptateur Bluetooth</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_LE" xml:space="preserve">
+    <value>L'adaptateur Bluetooth ne prend pas en charge Bluetooth LE</value>
   </data>
 </root>
