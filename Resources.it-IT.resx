@@ -92,7 +92,7 @@
     <comment>Abbreviation of the word «Right»</comment>
   </data>
   <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
-    <value>Off</value>
+    <value>Spento</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver_Enabled" xml:space="preserve">
     <value>On</value>
@@ -115,5 +115,23 @@
   <data name="Text_ContextMenu_Headphones_Connecting" xml:space="preserve">
     <value>Mi sto collegando a {0}</value>
     <comment>{0} will be replaced to AirPods name. The headphones are connecting right now</comment>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Found" xml:space="preserve">
+    <value>Scheda bluetooth non trovata</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Multiple_Adapters_Found" xml:space="preserve">
+    <value>Più schede bluetooth collegate</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_Classic" xml:space="preserve">
+    <value>La scheda bluetooth non supporta Bluetooth Classic</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_LE" xml:space="preserve">
+    <value>La scheda bluetooth non supporta Bluetooth LE</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Off" xml:space="preserve">
+    <value>Bluetooth spento</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Initialization_Error" xml:space="preserve">
+    <value>Errore durante l'inizializzazione della scheda bluetooth</value>
   </data>
 </root>
