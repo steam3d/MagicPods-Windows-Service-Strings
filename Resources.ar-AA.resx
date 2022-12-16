@@ -108,4 +108,10 @@
     <value>جارٍ إلغاء الاتصال {0}</value>
     <comment>{0} will be replaced to AirPods name. The headphones are disconnecting right now</comment>
   </data>
+  <data name="Text_Icon_Bluetooth_Off" xml:space="preserve">
+    <value>تم إغلاقالبلوتوث</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Initialization_Error" xml:space="preserve">
+    <value>فشل في تشغيل البلوتوث</value>
+  </data>
 </root>
