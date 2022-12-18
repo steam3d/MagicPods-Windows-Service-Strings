@@ -175,4 +175,22 @@
     <value>연결 해제 중 {0}</value>
     <comment>{0} will be replaced to AirPods name. The headphones are disconnecting right now</comment>
   </data>
+  <data name="Text_Icon_Bluetooth_Not_Found" xml:space="preserve">
+    <value>블루투스 어답터가 발견되지 않았습니다</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Multiple_Adapters_Found" xml:space="preserve">
+    <value>다중 블루투스 어답터 연결됨</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_Classic" xml:space="preserve">
+    <value>블루투스 어답터가 블루투스 클래식을 지원하지 않습니다</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_LE" xml:space="preserve">
+    <value>블루투스 어답터가 블루투스 LE 를 지원하지 않습니다</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Off" xml:space="preserve">
+    <value>블루투스 끔</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Initialization_Error" xml:space="preserve">
+    <value>블루투스 어답터 초기화 오류</value>
+  </data>
 </root>
