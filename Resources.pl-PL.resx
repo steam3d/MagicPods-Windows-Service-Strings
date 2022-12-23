@@ -116,4 +116,22 @@
     <value>Łączenie {0}</value>
     <comment>{0} will be replaced to AirPods name. The headphones are connecting right now</comment>
   </data>
+  <data name="Text_Icon_Bluetooth_Not_Found" xml:space="preserve">
+    <value>Nie znaleziono adaptera bluetooth</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Multiple_Adapters_Found" xml:space="preserve">
+    <value>Podłączono wiele adapterów bluetooth</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_Classic" xml:space="preserve">
+    <value>Adapter bluetooth nie wspiera klasycznego bluetooth</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_LE" xml:space="preserve">
+    <value>Adapter bluetooth nie wspiera energooszczędnego bluetooth</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Off" xml:space="preserve">
+    <value>Bluetooth wyłączony</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Initialization_Error" xml:space="preserve">
+    <value>Błąd podczas inicjalizacji adaptera bluetooth</value>
+  </data>
 </root>
