@@ -119,4 +119,7 @@
   <data name="Text_Icon_Bluetooth_Not_Found" xml:space="preserve">
     <value>Bluetooth-adapter hittades inte</value>
   </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_Classic" xml:space="preserve">
+    <value>Bluetooth enheten stödjer inte Blutetooh Classic</value>
+  </data>
 </root>
