@@ -96,7 +96,7 @@
     <comment>{0} will be replaced to AirPods name. I recommend using an abbreviation so that the name of the headphones can be seen.</comment>
   </data>
   <data name="Text_ContextMenu_Headphones_Disconnect" xml:space="preserve">
-    <value>Odveži{0}</value>
+    <value>Odveži {0}</value>
     <comment>{0} will be replaced to AirPods name. I recommend using an abbreviation so that the name of the headphones can be seen</comment>
   </data>
   <data name="Text_ContextMenu_VoiceOver_Enabled" xml:space="preserve">
@@ -106,11 +106,11 @@
     <value>Isključeno</value>
   </data>
   <data name="Text_ContextMenu_Headphones_Connecting" xml:space="preserve">
-    <value>Povezivanje{0}</value>
+    <value>Povezivanje {0}</value>
     <comment>{0} will be replaced to AirPods name. The headphones are connecting right now</comment>
   </data>
   <data name="Text_ContextMenu_Headphones_Disconnecting" xml:space="preserve">
-    <value>Odvezivanje{0}</value>
+    <value>Odvezivanje {0}</value>
     <comment>{0} will be replaced to AirPods name. The headphones are disconnecting right now</comment>
   </data>
   <data name="Text_Icon_Bluetooth_Not_Found" xml:space="preserve">
