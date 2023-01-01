@@ -116,4 +116,7 @@
     <value>กำลังหยุดเชื่อมต่อ {0}</value>
     <comment>{0} will be replaced to AirPods name. The headphones are disconnecting right now</comment>
   </data>
+  <data name="Text_Icon_Bluetooth_Off" xml:space="preserve">
+    <value>Bluetooth ปิดอยู่</value>
+  </data>
 </root>
