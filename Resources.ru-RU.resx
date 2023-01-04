@@ -190,4 +190,12 @@
   <data name="Text_Icon_Bluetooth_Not_Supported_Classic" xml:space="preserve">
     <value>Bluetooth адаптер не поддерживает Bluetooth Classic</value>
   </data>
+  <data name="Text_ContextMenu_StreamingDevice_Disconnect" xml:space="preserve">
+    <value>Остановить трансляцию с {0}</value>
+    <comment>0} will be replaced to streaming device name.</comment>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Connect" xml:space="preserve">
+    <value>Транслировать с {0}</value>
+    <comment>{0} will be replaced to streaming device name.</comment>
+  </data>
 </root>
