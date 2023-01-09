@@ -193,4 +193,12 @@
   <data name="Text_Icon_Bluetooth_Not_Supported_LE" xml:space="preserve">
     <value>L'adaptateur Bluetooth ne prend pas en charge Bluetooth LE</value>
   </data>
+  <data name="Text_ContextMenu_StreamingDevice_Disconnect" xml:space="preserve">
+    <value>Arrêt de la diffusion depuis {0}</value>
+    <comment>0} will be replaced to streaming device name.</comment>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Connect" xml:space="preserve">
+    <value>Diffusion audio depuis {0}</value>
+    <comment>{0} will be replaced to streaming device name.</comment>
+  </data>
 </root>
