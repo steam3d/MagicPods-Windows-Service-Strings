@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Text_Exit" xml:space="preserve">
-    <value>退 出</value>
+    <value>退出</value>
   </data>
   <data name="Text_Icon_Default" xml:space="preserve">
     <value>AirPods 已断开</value>
@@ -68,16 +68,16 @@
     <value>蓝牙不受支持或不可用</value>
   </data>
   <data name="Text_Settings" xml:space="preserve">
-    <value>设 置</value>
+    <value>设置</value>
   </data>
   <data name="Text_Button_Connect" xml:space="preserve">
-    <value>连 接</value>
+    <value>连接</value>
   </data>
   <data name="Text_Icon_Search" xml:space="preserve">
-    <value>搜索 AirPods 中</value>
+    <value>正在搜索 AirPods</value>
   </data>
   <data name="Text_Battery_Single" xml:space="preserve">
-    <value>电量{0}%{1}</value>
+    <value>当前电量{0}%{1}</value>
     <comment>{0} will be replaced to battery level, {1} to charge status.</comment>
   </data>
   <data name="Text_Battery_Error" xml:space="preserve">
@@ -114,6 +114,32 @@
     <comment>Abbreviation of the word «Right»</comment>
   </data>
   <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
-    <value>讲千讲万述人</value>
+    <value>旁白</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Found" xml:space="preserve">
+    <value>未找到蓝牙适配器</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Multiple_Adapters_Found" xml:space="preserve">
+    <value>多个蓝牙适配器已连接</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_Classic" xml:space="preserve">
+    <value>蓝牙设备适配器不支持经典蓝牙</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_LE" xml:space="preserve">
+    <value>蓝牙设备适配器不支持低功耗蓝牙</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Off" xml:space="preserve">
+    <value>蓝牙已关闭</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Initialization_Error" xml:space="preserve">
+    <value>蓝牙设备适配器初始化错误</value>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Connect" xml:space="preserve">
+    <value>正在播放 {0}</value>
+    <comment>{0} will be replaced to streaming device name.</comment>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Disconnect" xml:space="preserve">
+    <value>停止播放 {0}</value>
+    <comment>0} will be replaced to streaming device name.</comment>
   </data>
 </root>
