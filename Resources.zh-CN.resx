@@ -124,7 +124,7 @@
     <value>AirPods 已断开连接</value>
   </data>
   <data name="Text_Icon_Error" xml:space="preserve">
-    <value>蓝牙功能不支持或未启用</value>
+    <value>蓝牙功能不支持或不可用</value>
   </data>
   <data name="Text_Settings" xml:space="preserve">
     <value>设置</value>
@@ -136,22 +136,22 @@
     <value>正在搜索 AirPods</value>
   </data>
   <data name="Text_Battery_Error" xml:space="preserve">
-    <value>更新充电状态失败</value>
+    <value>无法更新电池电量</value>
   </data>
   <data name="Text_Battery_Single" xml:space="preserve">
-    <value>已充电 {0}% {1}</value>
+    <value>当前电量 {0}% {1}</value>
     <comment>{0} will be replaced to battery level, {1} to charge status.</comment>
   </data>
   <data name="Text_ContextMenu_Headphones_Connect" xml:space="preserve">
-    <value>连接 {0}</value>
+    <value>已连接 {0}</value>
     <comment>{0} will be replaced to AirPods name</comment>
   </data>
   <data name="Text_ContextMenu_Headphones_Disconnect" xml:space="preserve">
-    <value>断开与 {0} 的连接</value>
+    <value>已断开 {0}</value>
     <comment>{0} will be replaced to AirPods name</comment>
   </data>
   <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
-    <value>讲述人</value>
+    <value>旁白</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver_Enabled" xml:space="preserve">
     <value>开</value>
@@ -182,7 +182,7 @@
     <value>蓝牙设备适配器不支持经典蓝牙</value>
   </data>
   <data name="Text_Icon_Bluetooth_Off" xml:space="preserve">
-    <value>蓝牙关闭</value>
+    <value>蓝牙已关闭</value>
   </data>
   <data name="Text_Icon_Bluetooth_Initialization_Error" xml:space="preserve">
     <value>蓝牙设备适配器初始化错误</value>
@@ -191,6 +191,14 @@
     <value>蓝牙设备适配器不支持低功耗蓝牙</value>
   </data>
   <data name="Text_Icon_Bluetooth_Not_Found" xml:space="preserve">
-    <value>未找到蓝牙硬件</value>
+    <value>未找到蓝牙适配器</value>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Connect" xml:space="preserve">
+    <value>正在播放 {0}</value>
+    <comment>{0} will be replaced to streaming device name.</comment>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Disconnect" xml:space="preserve">
+    <value>停止播放 {0}</value>
+    <comment>0} will be replaced to streaming device name.</comment>
   </data>
 </root>
