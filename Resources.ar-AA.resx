@@ -101,7 +101,7 @@
     <value>إيقاف</value>
   </data>
   <data name="Text_ContextMenu_Headphones_Connecting" xml:space="preserve">
-    <value>جارٍ الاتصال{0}</value>
+    <value>جارٍ الاتصال ب{0}</value>
     <comment>{0} will be replaced to AirPods name. The headphones are connecting right now</comment>
   </data>
   <data name="Text_ContextMenu_Headphones_Disconnecting" xml:space="preserve">
@@ -109,9 +109,37 @@
     <comment>{0} will be replaced to AirPods name. The headphones are disconnecting right now</comment>
   </data>
   <data name="Text_Icon_Bluetooth_Off" xml:space="preserve">
-    <value>تم إغلاقالبلوتوث</value>
+    <value>ايقاف تشغيل البلوتوث</value>
   </data>
   <data name="Text_Icon_Bluetooth_Initialization_Error" xml:space="preserve">
-    <value>فشل في تشغيل البلوتوث</value>
+    <value>خطأ في تهيئة محول البلوتوث</value>
+  </data>
+  <data name="Battery_Short_Left" xml:space="preserve">
+    <value>الايسر</value>
+    <comment>Abbreviation of the word «Left»</comment>
+  </data>
+  <data name="Battery_Short_Right" xml:space="preserve">
+    <value>الايمن</value>
+    <comment>Abbreviation of the word «Right»</comment>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Found" xml:space="preserve">
+    <value>لم نجد محول البلوتوث</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Multiple_Adapters_Found" xml:space="preserve">
+    <value>عدة محولات بلوتوث متصلات</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_Classic" xml:space="preserve">
+    <value>محول البلوثوث لا يدعم بلوثوث كلاسيك</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_LE" xml:space="preserve">
+    <value>محول البلوتوث لا يدعم بلوتوث LE</value>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Connect" xml:space="preserve">
+    <value>بث من {0}</value>
+    <comment>{0} will be replaced to streaming device name.</comment>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Disconnect" xml:space="preserve">
+    <value>وقف البث من {0}</value>
+    <comment>0} will be replaced to streaming device name.</comment>
   </data>
 </root>
