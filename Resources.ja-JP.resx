@@ -116,4 +116,30 @@
     <value>{0} 切断中</value>
     <comment>{0} will be replaced to AirPods name. The headphones are disconnecting right now</comment>
   </data>
+  <data name="Text_Icon_Bluetooth_Not_Found" xml:space="preserve">
+    <value>Bluetoothアダプターが見つかりませんでした</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Multiple_Adapters_Found" xml:space="preserve">
+    <value>複数のBluetoothアダプターが接続されています</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_Classic" xml:space="preserve">
+    <value>BluetoothアダプターがBluetooth Classicに対応していません</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_LE" xml:space="preserve">
+    <value>BluetoothアダプターがBluetooth LEに対応していません</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Off" xml:space="preserve">
+    <value>Bluetooth オフ</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Initialization_Error" xml:space="preserve">
+    <value>Bluetooth アダプターのイニシャライズに失敗</value>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Disconnect" xml:space="preserve">
+    <value>{0}からのストリーミングを停止</value>
+    <comment>0} will be replaced to streaming device name.</comment>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Connect" xml:space="preserve">
+    <value>{0} からストリーミングする</value>
+    <comment>{0} will be replaced to streaming device name.</comment>
+  </data>
 </root>
