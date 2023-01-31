@@ -193,4 +193,12 @@
   <data name="Text_Icon_Bluetooth_Initialization_Error" xml:space="preserve">
     <value>Lỗi khởi tạo trình điều khiển Bluetooth</value>
   </data>
+  <data name="Text_ContextMenu_StreamingDevice_Connect" xml:space="preserve">
+    <value>Phát âm thanh từ {0}</value>
+    <comment>{0} will be replaced to streaming device name.</comment>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Disconnect" xml:space="preserve">
+    <value>Dừng phát âm thanh từ {0}</value>
+    <comment>0} will be replaced to streaming device name.</comment>
+  </data>
 </root>
