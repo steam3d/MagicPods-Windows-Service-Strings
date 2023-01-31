@@ -122,4 +122,7 @@
   <data name="Text_Icon_Bluetooth_Not_Supported_Classic" xml:space="preserve">
     <value>Bluetooth enheten stödjer inte Blutetooh Classic</value>
   </data>
+  <data name="Text_Icon_Bluetooth_Multiple_Adapters_Found" xml:space="preserve">
+    <value>Flera Bluetooth enheter är anslutna</value>
+  </data>
 </root>
