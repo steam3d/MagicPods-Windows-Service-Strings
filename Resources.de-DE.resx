@@ -193,4 +193,12 @@
   <data name="Text_Icon_Bluetooth_Initialization_Error" xml:space="preserve">
     <value>Initialisierung des Bluetooth-Adapters ist fehlgeschlagen</value>
   </data>
+  <data name="Text_ContextMenu_StreamingDevice_Disconnect" xml:space="preserve">
+    <value>Streaming von {0} stoppen</value>
+    <comment>0} will be replaced to streaming device name.</comment>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Connect" xml:space="preserve">
+    <value>Stream von {0}</value>
+    <comment>{0} will be replaced to streaming device name.</comment>
+  </data>
 </root>
