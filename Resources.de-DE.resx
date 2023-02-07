@@ -153,11 +153,11 @@
     <value>Aus</value>
   </data>
   <data name="Text_ContextMenu_Headphones_Connect" xml:space="preserve">
-    <value>Verbinden{0}</value>
+    <value>Verbinden mit {0}</value>
     <comment>{0} will be replaced to AirPods name</comment>
   </data>
   <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
-    <value>Voice-over</value>
+    <value>VoiceOver</value>
   </data>
   <data name="Battery_Short_Left" xml:space="preserve">
     <value>L</value>
@@ -168,7 +168,7 @@
     <comment>Abbreviation of the word «Right»</comment>
   </data>
   <data name="Text_ContextMenu_Headphones_Connecting" xml:space="preserve">
-    <value>Verbinden {0}</value>
+    <value>Verbindung mit {0} wird hergestellt</value>
     <comment>{0} will be replaced to AirPods name. The headphones are connecting right now</comment>
   </data>
   <data name="Text_ContextMenu_Headphones_Disconnecting" xml:space="preserve">
@@ -179,7 +179,7 @@
     <value>Mehrere Bluetooth-Adapter verbunden</value>
   </data>
   <data name="Text_Icon_Bluetooth_Not_Supported_Classic" xml:space="preserve">
-    <value>Bluetooth Classic wird vom Bluetooth-Adapter nicht unterstütz</value>
+    <value>Bluetooth Classic wird vom Bluetooth-Adapter nicht unterstützt</value>
   </data>
   <data name="Text_Icon_Bluetooth_Not_Supported_LE" xml:space="preserve">
     <value>Bluetooth LE wird vom Bluetooth-Adapter nicht unterstützt</value>
