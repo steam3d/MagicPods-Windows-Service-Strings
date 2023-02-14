@@ -117,6 +117,29 @@
     <comment>{0} will be replaced to AirPods name. The headphones are disconnecting right now</comment>
   </data>
   <data name="Text_Icon_Bluetooth_Off" xml:space="preserve">
-    <value>Bluetooth ปิดอยู่</value>
+    <value>บลูทูธปิดอยู่</value>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Disconnect" xml:space="preserve">
+    <value>หยุดสตรีมจาก {0}</value>
+    <comment>0} will be replaced to streaming device name.</comment>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Found" xml:space="preserve">
+    <value>ไม่พบอะแดปเตอร์บลูทูธ</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Multiple_Adapters_Found" xml:space="preserve">
+    <value>เชื่อมต่ออะแดปเตอร์บลูทูธหลายอุปกรณ์</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_Classic" xml:space="preserve">
+    <value>อะแดปเตอร์บลูทูธของคุณไม่รองรับบลูทูธคลาสสิค</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_LE" xml:space="preserve">
+    <value>อะแดปเตอร์บลูทูธของคุณไม่รองรับบลูทูธ LE</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Initialization_Error" xml:space="preserve">
+    <value>ไม่สามารถเริ่มต้นอะแดปเตอร์บลูทูธได้</value>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Connect" xml:space="preserve">
+    <value>สตรีมจาก {0}</value>
+    <comment>{0} will be replaced to streaming device name.</comment>
   </data>
 </root>
