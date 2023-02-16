@@ -131,4 +131,15 @@
   <data name="Text_Icon_Bluetooth_Off" xml:space="preserve">
     <value>Bluetooth apagado</value>
   </data>
+  <data name="Text_Icon_Bluetooth_Initialization_Error" xml:space="preserve">
+    <value>Error de inicialización del adaptador Bluetooth</value>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Connect" xml:space="preserve">
+    <value>Stream desde {0}</value>
+    <comment>{0} will be replaced to streaming device name.</comment>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Disconnect" xml:space="preserve">
+    <value>Detener streaming desde{0}</value>
+    <comment>0} will be replaced to streaming device name.</comment>
+  </data>
 </root>
