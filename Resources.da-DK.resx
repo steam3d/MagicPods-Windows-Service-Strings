@@ -65,7 +65,7 @@
     <value>Forbind</value>
   </data>
   <data name="Text_Exit" xml:space="preserve">
-    <value>Udgang</value>
+    <value>Afslut</value>
   </data>
   <data name="Text_Icon_Default" xml:space="preserve">
     <value>AirPods frakoblet</value>
@@ -74,14 +74,14 @@
     <value>Bluetooth understøttes eller er ikke tilgængelig</value>
   </data>
   <data name="Text_Icon_Search" xml:space="preserve">
-    <value>Søg efter AirPods</value>
+    <value>Søger efter AirPods</value>
   </data>
   <data name="Text_Battery_Single" xml:space="preserve">
     <value>Oplad {0}% {1}</value>
     <comment>{0} will be replaced to battery level, {1} to charge status.</comment>
   </data>
   <data name="Text_Battery_Error" xml:space="preserve">
-    <value>Batteriopladningen kunne ikke opdateres</value>
+    <value>Batteriniveauet kunne ikke opdateres</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
     <value>Fra</value>
@@ -90,7 +90,7 @@
     <value>VoiceOver</value>
   </data>
   <data name="Text_ContextMenu_Headphones_Disconnect" xml:space="preserve">
-    <value>Frakoblet {0}</value>
+    <value>Frakobl {0}</value>
     <comment>{0} will be replaced to AirPods name. I recommend using an abbreviation so that the name of the headphones can be seen</comment>
   </data>
   <data name="Text_ContextMenu_Headphones_Connecting" xml:space="preserve">
