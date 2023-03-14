@@ -92,7 +92,7 @@
     <comment>Abbreviation of the word «Right»</comment>
   </data>
   <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
-    <value>Selostus</value>
+    <value>VoiceOver</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver_Enabled" xml:space="preserve">
     <value>Päällä</value>
@@ -109,11 +109,37 @@
     <comment>{0} will be replaced to AirPods name. The headphones are disconnecting right now</comment>
   </data>
   <data name="Text_ContextMenu_Headphones_Connect" xml:space="preserve">
-    <value>Kytkeä {0}</value>
+    <value>Yhdistä {0}</value>
     <comment>{0} will be replaced to AirPods name. I recommend using an abbreviation so that the name of the headphones can be seen.</comment>
   </data>
   <data name="Text_ContextMenu_Headphones_Disconnect" xml:space="preserve">
-    <value>Katkaista {0}</value>
+    <value>Katkaise yhteys laitteeseen {0}</value>
     <comment>{0} will be replaced to AirPods name. I recommend using an abbreviation so that the name of the headphones can be seen</comment>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Connect" xml:space="preserve">
+    <value>Suoratoista laitteesta {0}</value>
+    <comment>{0} will be replaced to streaming device name.</comment>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Found" xml:space="preserve">
+    <value>Bluetooth -sovitinta ei löydy</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Multiple_Adapters_Found" xml:space="preserve">
+    <value>Yhdistetty useisiin Bluetooth -sovittimiin</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_Classic" xml:space="preserve">
+    <value>Bluetooth -sovitin ei tue Bluetooth Classicia</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_LE" xml:space="preserve">
+    <value>Bluetooth -sovitin ei tue Bluetooth LE:tä</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Off" xml:space="preserve">
+    <value>Bluetooth pois päältä</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Initialization_Error" xml:space="preserve">
+    <value>Bluetooth -sovittimen alustusvirhe</value>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Disconnect" xml:space="preserve">
+    <value>Lopeta suoratoisto laitteesta {0}</value>
+    <comment>0} will be replaced to streaming device name.</comment>
   </data>
 </root>
