@@ -193,4 +193,12 @@
   <data name="Text_Icon_Bluetooth_Not_Found" xml:space="preserve">
     <value>Kan geen Bluetooth-adapter vinden</value>
   </data>
+  <data name="Text_ContextMenu_StreamingDevice_Connect" xml:space="preserve">
+    <value>Streamen vanaf {0}</value>
+    <comment>{0} will be replaced to streaming device name.</comment>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Disconnect" xml:space="preserve">
+    <value>Stop met streamen vanaf {0}</value>
+    <comment>0} will be replaced to streaming device name.</comment>
+  </data>
 </root>
