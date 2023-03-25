@@ -193,4 +193,12 @@
   <data name="Text_Icon_Bluetooth_Initialization_Error" xml:space="preserve">
     <value>블루투스 어답터 초기화 오류</value>
   </data>
+  <data name="Text_ContextMenu_StreamingDevice_Disconnect" xml:space="preserve">
+    <value>에서 스트리밍 중지 {0}</value>
+    <comment>0} will be replaced to streaming device name.</comment>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Connect" xml:space="preserve">
+    <value>에서 스트리밍{0}</value>
+    <comment>{0} will be replaced to streaming device name.</comment>
+  </data>
 </root>
