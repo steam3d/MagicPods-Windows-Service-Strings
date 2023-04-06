@@ -116,4 +116,30 @@
     <value>शुल्क{0}%{1}</value>
     <comment>{0} will be replaced to battery level, {1} to charge status.</comment>
   </data>
+  <data name="Text_Icon_Bluetooth_Initialization_Error" xml:space="preserve">
+    <value>ब्लूटूथ एडाप्टर इनिशियलाइज़ेशन त्रुटि</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Found" xml:space="preserve">
+    <value>ब्लूटूथ एडाप्टर नहीं मिला</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Multiple_Adapters_Found" xml:space="preserve">
+    <value>एकाधिक ब्लूटूथ एडेप्टर जुड़े हुए हैं</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_Classic" xml:space="preserve">
+    <value>ब्लूटूथ एडेप्टर ब्लूटूथ क्लासिक का समर्थन नहीं करता है</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_LE" xml:space="preserve">
+    <value>ब्लूटूथ एडेप्टर ब्लूटूथ LE का समर्थन नहीं करता है</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Off" xml:space="preserve">
+    <value>ब्लूटूथ बंद</value>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Connect" xml:space="preserve">
+    <value>{0} से स्ट्रीम करें</value>
+    <comment>{0} will be replaced to streaming device name.</comment>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Disconnect" xml:space="preserve">
+    <value>{0} से स्ट्रीमिंग बंद करें</value>
+    <comment>0} will be replaced to streaming device name.</comment>
+  </data>
 </root>
