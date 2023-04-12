@@ -121,7 +121,7 @@
     <value>Выход</value>
   </data>
   <data name="Text_Icon_Default" xml:space="preserve">
-    <value>AirPods отключены</value>
+    <value>Наушники отключены</value>
   </data>
   <data name="Text_Icon_Error" xml:space="preserve">
     <value>Bluetooth не поддерживается или недоступен</value>
@@ -148,7 +148,7 @@
     <value>Отключить {0}</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
-    <value>Озвучивать уведомления</value>
+    <value>Проговаривание</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
     <value>Откл.</value>
@@ -197,5 +197,8 @@
   <data name="Text_ContextMenu_StreamingDevice_Connect" xml:space="preserve">
     <value>Транслировать с {0}</value>
     <comment>{0} will be replaced to streaming device name.</comment>
+  </data>
+  <data name="Text_Icon_Connected" xml:space="preserve">
+    <value>Устройство {0} подключено</value>
   </data>
 </root>
