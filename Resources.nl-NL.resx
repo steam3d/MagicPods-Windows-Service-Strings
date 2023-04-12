@@ -201,4 +201,7 @@
     <value>Stop met streamen vanaf {0}</value>
     <comment>0} will be replaced to streaming device name.</comment>
   </data>
+  <data name="Text_Icon_Connected" xml:space="preserve">
+    <value>Verbonden {0}</value>
+  </data>
 </root>
