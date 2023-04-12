@@ -148,7 +148,7 @@
     <value>Отключить {0}</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
-    <value>Проговаривание</value>
+    <value>Озвучивать уведомления</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
     <value>Откл.</value>
@@ -199,6 +199,6 @@
     <comment>{0} will be replaced to streaming device name.</comment>
   </data>
   <data name="Text_Icon_Connected" xml:space="preserve">
-    <value>Устройство {0} подключено</value>
+    <value>Подключено {0}</value>
   </data>
 </root>
