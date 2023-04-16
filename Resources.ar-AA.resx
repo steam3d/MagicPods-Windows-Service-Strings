@@ -65,7 +65,7 @@
     <value>الإعدادات</value>
   </data>
   <data name="Text_Icon_Default" xml:space="preserve">
-    <value>السماعات منقطعة</value>
+    <value>سماعات الرأس غير متصلة</value>
   </data>
   <data name="Text_Icon_Error" xml:space="preserve">
     <value>البلوتوث غير مدعوم أو متوفر</value>
@@ -141,5 +141,8 @@
   <data name="Text_ContextMenu_StreamingDevice_Disconnect" xml:space="preserve">
     <value>وقف البث من {0}</value>
     <comment>0} will be replaced to streaming device name.</comment>
+  </data>
+  <data name="Text_Icon_Connected" xml:space="preserve">
+    <value>{0} متصل</value>
   </data>
 </root>
