@@ -121,7 +121,7 @@
     <value>Quitter</value>
   </data>
   <data name="Text_Icon_Default" xml:space="preserve">
-    <value>AirPods déconnectés</value>
+    <value>Écouteurs déconnectés</value>
   </data>
   <data name="Text_Icon_Error" xml:space="preserve">
     <value>Le Bluetooth n'est pas pris en charge ou disponible</value>
@@ -200,5 +200,8 @@
   <data name="Text_ContextMenu_StreamingDevice_Connect" xml:space="preserve">
     <value>Diffusion audio depuis {0}</value>
     <comment>{0} will be replaced to streaming device name.</comment>
+  </data>
+  <data name="Text_Icon_Connected" xml:space="preserve">
+    <value>Connecté {0}</value>
   </data>
 </root>
