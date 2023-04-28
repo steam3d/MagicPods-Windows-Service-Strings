@@ -121,7 +121,7 @@
     <value>退出</value>
   </data>
   <data name="Text_Icon_Default" xml:space="preserve">
-    <value>AirPods 已断开连接</value>
+    <value>耳机断开连接</value>
   </data>
   <data name="Text_Icon_Error" xml:space="preserve">
     <value>蓝牙功能不支持或不可用</value>
@@ -200,5 +200,8 @@
   <data name="Text_ContextMenu_StreamingDevice_Disconnect" xml:space="preserve">
     <value>停止播放 {0}</value>
     <comment>0} will be replaced to streaming device name.</comment>
+  </data>
+  <data name="Text_Icon_Connected" xml:space="preserve">
+    <value>连接的 {0}</value>
   </data>
 </root>
