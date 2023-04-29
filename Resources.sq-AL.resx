@@ -62,7 +62,7 @@
     <value>Dilni</value>
   </data>
   <data name="Text_Icon_Default" xml:space="preserve">
-    <value>AirPods janë shkëputur</value>
+    <value>AirPods u shkëputën</value>
   </data>
   <data name="Text_Icon_Error" xml:space="preserve">
     <value>Bluetooth nuk mbështetet ose disponohet</value>
@@ -115,5 +115,34 @@
   <data name="Battery_Short_Right" xml:space="preserve">
     <value>R</value>
     <comment>Abbreviation of the word «Right»</comment>
+  </data>
+  <data name="Text_Icon_Connected" xml:space="preserve">
+    <value>Lidhur {0}</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Found" xml:space="preserve">
+    <value>Përshtatësi Bluetooth nuk u gjet</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Multiple_Adapters_Found" xml:space="preserve">
+    <value>Shumë përshtatës Bluetooth të lidhur</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_Classic" xml:space="preserve">
+    <value>Përshtatësi Bluetooth nuk e mbështet Bluetooth Classic</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_LE" xml:space="preserve">
+    <value>Përshtatësi Bluetooth nuk mbështet Bluetooth LE</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Off" xml:space="preserve">
+    <value>Bluetooth është fikur</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Initialization_Error" xml:space="preserve">
+    <value>Gabim gjatë inicializimit të përshtatësit Bluetooth</value>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Connect" xml:space="preserve">
+    <value>Transmetoni nga {0}</value>
+    <comment>{0} will be replaced to streaming device name.</comment>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Disconnect" xml:space="preserve">
+    <value>Ndalo transmetimin nga {0}</value>
+    <comment>{0} will be replaced to streaming device name.</comment>
   </data>
 </root>
