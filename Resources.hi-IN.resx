@@ -142,4 +142,7 @@
     <value>{0} से स्ट्रीमिंग बंद करें</value>
     <comment>0} will be replaced to streaming device name.</comment>
   </data>
+  <data name="Text_Icon_Connected" xml:space="preserve">
+    <value>जुड़े हुए {0}</value>
+  </data>
 </root>
