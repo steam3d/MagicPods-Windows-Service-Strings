@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Text_Icon_Default" xml:space="preserve">
-    <value>Ngắt kết nối AirPods</value>
+    <value>Ngắt kết nối tai nghe</value>
   </data>
   <data name="Text_Icon_Error" xml:space="preserve">
     <value>Bluetooth không được hỗ trợ hoặc không sẵn sàng</value>
@@ -200,5 +200,8 @@
   <data name="Text_ContextMenu_StreamingDevice_Disconnect" xml:space="preserve">
     <value>Dừng phát âm thanh từ {0}</value>
     <comment>0} will be replaced to streaming device name.</comment>
+  </data>
+  <data name="Text_Icon_Connected" xml:space="preserve">
+    <value>Đã kết nối {0}</value>
   </data>
 </root>
