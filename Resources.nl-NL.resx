@@ -121,7 +121,7 @@
     <value>Sluiten</value>
   </data>
   <data name="Text_Icon_Default" xml:space="preserve">
-    <value>AirPods losgekoppeld</value>
+    <value>Koptelefoon losgekoppeld</value>
   </data>
   <data name="Text_Icon_Error" xml:space="preserve">
     <value>Bluetooth wordt niet ondersteund of is niet beschikbaar</value>
