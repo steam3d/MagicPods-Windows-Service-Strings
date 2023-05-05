@@ -121,7 +121,7 @@
     <value>Beenden</value>
   </data>
   <data name="Text_Icon_Default" xml:space="preserve">
-    <value>AirPods getrennt</value>
+    <value>Kopfhörer getrennt</value>
   </data>
   <data name="Text_Icon_Error" xml:space="preserve">
     <value>Bluetooth wird nicht unterstützt oder ist nicht verfügbar</value>
@@ -200,5 +200,8 @@
   <data name="Text_ContextMenu_StreamingDevice_Connect" xml:space="preserve">
     <value>Stream von {0}</value>
     <comment>{0} will be replaced to streaming device name.</comment>
+  </data>
+  <data name="Text_Icon_Connected" xml:space="preserve">
+    <value>Verbunden {0}</value>
   </data>
 </root>
