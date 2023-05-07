@@ -68,7 +68,7 @@
     <value>יְצִיאָה</value>
   </data>
   <data name="Text_Icon_Default" xml:space="preserve">
-    <value>Airpods מנותקים</value>
+    <value>Airpods מנותקים.</value>
   </data>
   <data name="Text_Icon_Error" xml:space="preserve">
     <value>Bluetooth אינו נתמך או זמין</value>
@@ -133,5 +133,16 @@
   </data>
   <data name="Text_Icon_Bluetooth_Initialization_Error" xml:space="preserve">
     <value>שגיאת אתחול מתאם Bluetooth</value>
+  </data>
+  <data name="Text_Icon_Connected" xml:space="preserve">
+    <value>מחובר {0}</value>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Connect" xml:space="preserve">
+    <value>נגן מ{0}</value>
+    <comment>{0} will be replaced to streaming device name.</comment>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Disconnect" xml:space="preserve">
+    <value>הפסק לנגן מ{0}</value>
+    <comment>{0} will be replaced to streaming device name.</comment>
   </data>
 </root>
