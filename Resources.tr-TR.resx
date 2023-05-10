@@ -121,7 +121,7 @@
     <value>Çıkış</value>
   </data>
   <data name="Text_Icon_Default" xml:space="preserve">
-    <value>AirPods bağlantısı kesildi</value>
+    <value>Kulaklık bağlantısı kesildi</value>
   </data>
   <data name="Text_Icon_Error" xml:space="preserve">
     <value>Bluetooth desteklenmiyor veya mevcut değil</value>
@@ -200,5 +200,8 @@
   <data name="Text_ContextMenu_StreamingDevice_Connect" xml:space="preserve">
     <value>Buradan aktar {0}</value>
     <comment>{0} will be replaced to streaming device name.</comment>
+  </data>
+  <data name="Text_Icon_Connected" xml:space="preserve">
+    <value>Bağlandı {0}</value>
   </data>
 </root>
