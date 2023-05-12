@@ -62,7 +62,7 @@
     <value>Odejít</value>
   </data>
   <data name="Text_Icon_Default" xml:space="preserve">
-    <value>AirPods odpojeny</value>
+    <value>Sluchátka odpojena</value>
   </data>
   <data name="Text_Icon_Error" xml:space="preserve">
     <value>Bluetooth není k dispozici, nebo není zapnutý</value>
