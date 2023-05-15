@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Text_Icon_Default" xml:space="preserve">
-    <value>AirPods หยุดเชื่อมต่อ</value>
+    <value>AirPods ถูกตัดการเชื่อมต่อ</value>
   </data>
   <data name="Text_Icon_Error" xml:space="preserve">
     <value>บลูทูธไม่รองรับหรือพร้อมใช้งาน</value>
@@ -141,5 +141,8 @@
   <data name="Text_ContextMenu_StreamingDevice_Connect" xml:space="preserve">
     <value>สตรีมจาก {0}</value>
     <comment>{0} will be replaced to streaming device name.</comment>
+  </data>
+  <data name="Text_Icon_Connected" xml:space="preserve">
+    <value>เชื่อมต่อแล้ว {0}</value>
   </data>
 </root>
