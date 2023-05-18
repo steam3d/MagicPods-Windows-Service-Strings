@@ -78,7 +78,7 @@
     <value>閉じる</value>
   </data>
   <data name="Text_Icon_Default" xml:space="preserve">
-    <value>AirPodsが接続されていません</value>
+    <value>ヘッドフォンが切断されました</value>
   </data>
   <data name="Text_Icon_Error" xml:space="preserve">
     <value>Bluetoothがサポートされていないか利用できません</value>
