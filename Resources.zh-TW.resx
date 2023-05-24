@@ -121,7 +121,7 @@
     <value>離開</value>
   </data>
   <data name="Text_Icon_Default" xml:space="preserve">
-    <value>AirPods 已中斷連線</value>
+    <value>耳機已中斷連線</value>
   </data>
   <data name="Text_Icon_Error" xml:space="preserve">
     <value>沒有支援或可用的藍牙</value>
@@ -176,19 +176,19 @@
     <comment>{0} will be replaced to AirPods name. The headphones are disconnecting right now</comment>
   </data>
   <data name="Text_Icon_Bluetooth_Not_Found" xml:space="preserve">
-    <value>沒有藍牙傳輸器</value>
+    <value>找不到藍芽接收器</value>
   </data>
   <data name="Text_Icon_Bluetooth_Multiple_Adapters_Found" xml:space="preserve">
-    <value>多個藍牙傳輸器已連接</value>
+    <value>多個藍牙接收器已連接</value>
   </data>
   <data name="Text_Icon_Bluetooth_Off" xml:space="preserve">
     <value>藍牙已關閉</value>
   </data>
   <data name="Text_Icon_Bluetooth_Initialization_Error" xml:space="preserve">
-    <value>藍牙傳輸器初始化錯誤</value>
+    <value>初始化藍芽接收器時發生錯誤</value>
   </data>
   <data name="Text_Icon_Bluetooth_Not_Supported_LE" xml:space="preserve">
-    <value>藍牙傳輸器不支援低功耗藍牙</value>
+    <value>此藍牙接收器不支援低功耗藍牙技術</value>
   </data>
   <data name="Text_ContextMenu_StreamingDevice_Connect" xml:space="preserve">
     <value>從 {0} 串流</value>
@@ -199,6 +199,9 @@
     <comment>0} will be replaced to streaming device name.</comment>
   </data>
   <data name="Text_Icon_Bluetooth_Not_Supported_Classic" xml:space="preserve">
-    <value>藍牙傳輸器不支援傳統藍牙</value>
+    <value>此藍牙接收器不支援傳統藍牙技術</value>
+  </data>
+  <data name="Text_Icon_Connected" xml:space="preserve">
+    <value>已連線至 {0}</value>
   </data>
 </root>
