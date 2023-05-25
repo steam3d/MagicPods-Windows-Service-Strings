@@ -121,7 +121,7 @@
     <value>Sair</value>
   </data>
   <data name="Text_Icon_Default" xml:space="preserve">
-    <value>AirPods não conectados</value>
+    <value>Fone de ouvido desconectado</value>
   </data>
   <data name="Text_Icon_Error" xml:space="preserve">
     <value>Bluetooth não suportado ou disponível</value>
@@ -200,5 +200,8 @@
   <data name="Text_ContextMenu_StreamingDevice_Disconnect" xml:space="preserve">
     <value>Parar de reproduzir em {0}</value>
     <comment>0} will be replaced to streaming device name.</comment>
+  </data>
+  <data name="Text_Icon_Connected" xml:space="preserve">
+    <value>Conectado {0}</value>
   </data>
 </root>
