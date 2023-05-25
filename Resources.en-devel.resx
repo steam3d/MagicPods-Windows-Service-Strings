@@ -70,7 +70,7 @@
     <comment>{0} will be replaced to AirPods name. The headphones are disconnecting right now</comment>
   </data>
   <data name="Text_Icon_Default" xml:space="preserve">
-    <value>AirPods disconnected</value>
+    <value>Headphones disconnected</value>
   </data>
   <data name="Text_Icon_Error" xml:space="preserve">
     <value>Bluetooth is not supported or available</value>
