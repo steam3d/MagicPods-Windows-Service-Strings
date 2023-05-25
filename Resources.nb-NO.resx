@@ -142,4 +142,7 @@
     <value>Stoppe strømmen fra {0}</value>
     <comment>0} will be replaced to streaming device name.</comment>
   </data>
+  <data name="Text_Icon_Connected" xml:space="preserve">
+    <value>Tilkoblet {0}</value>
+  </data>
 </root>
