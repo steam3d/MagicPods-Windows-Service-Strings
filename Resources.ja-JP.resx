@@ -142,4 +142,7 @@
     <value>{0} からストリーミングする</value>
     <comment>{0} will be replaced to streaming device name.</comment>
   </data>
+  <data name="Text_Icon_Connected" xml:space="preserve">
+    <value>{0}接続済み</value>
+  </data>
 </root>
