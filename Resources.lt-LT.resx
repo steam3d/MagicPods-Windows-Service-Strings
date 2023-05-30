@@ -99,7 +99,7 @@
     <comment>Abbreviation of the word «Right»</comment>
   </data>
   <data name="Text_Exit" xml:space="preserve">
-    <value>Išeiti</value>
+    <value>Uždaryti</value>
   </data>
   <data name="Text_Icon_Error" xml:space="preserve">
     <value>Bluetooth nepalaikomas arba nepasiekiamas</value>
@@ -124,5 +124,25 @@
   </data>
   <data name="Text_Icon_Bluetooth_Multiple_Adapters_Found" xml:space="preserve">
     <value>Prijungti keli Bluetooth adapteriai</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_LE" xml:space="preserve">
+    <value>Bluetooth adapteris nepalaiko Bluetooth LE</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Off" xml:space="preserve">
+    <value>Bluetooth išjungtas</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Initialization_Error" xml:space="preserve">
+    <value>Bluetooth adapterio paleidimo klaida</value>
+  </data>
+  <data name="Text_Icon_Connected" xml:space="preserve">
+    <value>Prijungtos {0}</value>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Disconnect" xml:space="preserve">
+    <value>Sustabdyti transliacija iš {0}</value>
+    <comment>{0} will be replaced to streaming device name.</comment>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Connect" xml:space="preserve">
+    <value>Transliuoti iš {0}</value>
+    <comment>{0} will be replaced to streaming device name.</comment>
   </data>
 </root>
