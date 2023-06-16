@@ -62,7 +62,7 @@
     <value>Kilépés</value>
   </data>
   <data name="Text_Icon_Default" xml:space="preserve">
-    <value>AirPods lecsatlakoztatva</value>
+    <value>Fejhallgatók lecsatlakoztatva</value>
   </data>
   <data name="Text_Icon_Error" xml:space="preserve">
     <value>Bluetooth nem támogatott vagy elérhető</value>
@@ -103,7 +103,7 @@
     <comment>{0} will be replaced to AirPods name. I recommend using an abbreviation so that the name of the headphones can be seen</comment>
   </data>
   <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
-    <value>Kommentár</value>
+    <value>VoiceOver</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver_Enabled" xml:space="preserve">
     <value>Tovább</value>
