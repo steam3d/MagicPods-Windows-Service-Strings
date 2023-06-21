@@ -65,7 +65,7 @@
     <value>Esci</value>
   </data>
   <data name="Text_Icon_Default" xml:space="preserve">
-    <value>AirPods scollegati</value>
+    <value>Nessun dispositivo connesso</value>
   </data>
   <data name="Text_Settings" xml:space="preserve">
     <value>Impostazioni</value>
@@ -95,7 +95,7 @@
     <value>Spento</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver_Enabled" xml:space="preserve">
-    <value>On</value>
+    <value>Acceso</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
     <value>VoiceOver</value>
@@ -141,5 +141,8 @@
   <data name="Text_ContextMenu_StreamingDevice_Disconnect" xml:space="preserve">
     <value>Termina trasmissione da {0}</value>
     <comment>0} will be replaced to streaming device name.</comment>
+  </data>
+  <data name="Text_Icon_Connected" xml:space="preserve">
+    <value>Connesso a {0}</value>
   </data>
 </root>
