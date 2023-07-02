@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Text_Icon_Default" xml:space="preserve">
-    <value>एयरपॉड्स डिस्कनेक्ट हो गया</value>
+    <value>हेडफोन डिस्कनेक्ट हो गए</value>
   </data>
   <data name="Text_Icon_Error" xml:space="preserve">
     <value>ब्लूटूथ उपलब्ध नहीं है</value>
