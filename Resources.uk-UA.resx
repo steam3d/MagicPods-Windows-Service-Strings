@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Text_Icon_Default" xml:space="preserve">
-    <value>AirPods від'єднано</value>
+    <value>Навушники від'єднано</value>
   </data>
   <data name="Text_Settings" xml:space="preserve">
     <value>Налаштування</value>
@@ -133,5 +133,16 @@
   </data>
   <data name="Text_Icon_Bluetooth_Initialization_Error" xml:space="preserve">
     <value>Помилка ініціалізації Bluetooth-адаптера</value>
+  </data>
+  <data name="Text_Icon_Connected" xml:space="preserve">
+    <value>Під'єднано {0}</value>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Disconnect" xml:space="preserve">
+    <value>Зупинити трансляцію з {0}</value>
+    <comment>{0} will be replaced to streaming device name.</comment>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Connect" xml:space="preserve">
+    <value>Транслювати з {0}</value>
+    <comment>{0} will be replaced to streaming device name.</comment>
   </data>
 </root>
