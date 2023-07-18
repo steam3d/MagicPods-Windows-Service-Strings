@@ -201,4 +201,13 @@
   <data name="Text_Icon_Connected" xml:space="preserve">
     <value>Подключено {0}</value>
   </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
+    <value>Выключено</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
+    <value>Прозрачность</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_NoiseCancellation" xml:space="preserve">
+    <value>Шумоподавление</value>
+  </data>
 </root>
