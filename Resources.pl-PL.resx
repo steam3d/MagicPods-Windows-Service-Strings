@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Text_Icon_Default" xml:space="preserve">
-    <value>AirPodsy rozłączone</value>
+    <value>Słuchawki rozłączone</value>
   </data>
   <data name="Text_Icon_Error" xml:space="preserve">
     <value>Bluetooth nie jest wspierany lub dostępny</value>
@@ -117,7 +117,7 @@
     <comment>{0} will be replaced to AirPods name. The headphones are connecting right now</comment>
   </data>
   <data name="Text_Icon_Bluetooth_Not_Found" xml:space="preserve">
-    <value>Nie odnaleziono adaptera Bluetooth</value>
+    <value>Adapter Bluetooth nie został odnaleziony</value>
   </data>
   <data name="Text_Icon_Bluetooth_Multiple_Adapters_Found" xml:space="preserve">
     <value>Podłączono wiele adapterów bluetooth</value>
@@ -141,5 +141,8 @@
   <data name="Text_ContextMenu_StreamingDevice_Connect" xml:space="preserve">
     <value>streamowanie z {0}</value>
     <comment>{0} will be replaced to streaming device name.</comment>
+  </data>
+  <data name="Text_Icon_Connected" xml:space="preserve">
+    <value>Połączono {0}</value>
   </data>
 </root>
