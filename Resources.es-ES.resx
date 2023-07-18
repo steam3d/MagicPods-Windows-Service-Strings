@@ -62,7 +62,7 @@
     <value>Salir</value>
   </data>
   <data name="Text_Icon_Default" xml:space="preserve">
-    <value>AirPods desconectados</value>
+    <value>Audífonos desconectados</value>
   </data>
   <data name="Text_Icon_Error" xml:space="preserve">
     <value>Bluetooth no es compatible o no está disponible</value>
@@ -141,5 +141,8 @@
   <data name="Text_ContextMenu_StreamingDevice_Disconnect" xml:space="preserve">
     <value>Detener streaming desde {0}</value>
     <comment>0} will be replaced to streaming device name.</comment>
+  </data>
+  <data name="Text_Icon_Connected" xml:space="preserve">
+    <value>Conectado {0}</value>
   </data>
 </root>
