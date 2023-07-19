@@ -145,4 +145,13 @@
   <data name="Text_Icon_Connected" xml:space="preserve">
     <value>{0}接続済み</value>
   </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
+    <value>オフ</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
+    <value>外部音取り込み</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_NoiseCancellation" xml:space="preserve">
+    <value>ノイズキャンセリング</value>
+  </data>
 </root>
