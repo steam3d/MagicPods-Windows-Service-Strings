@@ -204,4 +204,13 @@
   <data name="Text_Icon_Connected" xml:space="preserve">
     <value>连接的 {0}</value>
   </data>
+  <data name="Text_ContextMenu_NoiseCancellation_NoiseCancellation" xml:space="preserve">
+    <value>降噪</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
+    <value>关闭</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
+    <value>通透模式</value>
+  </data>
 </root>
