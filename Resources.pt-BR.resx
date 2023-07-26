@@ -133,14 +133,14 @@
     <value>Conectar</value>
   </data>
   <data name="Text_Icon_Search" xml:space="preserve">
-    <value>Pesquisando AirPods</value>
+    <value>Procurando AirPods</value>
   </data>
   <data name="Text_Battery_Single" xml:space="preserve">
-    <value>Carga{0}%{1}</value>
+    <value>Carga {0}% {1}</value>
     <comment>{0} will be replaced to battery level, {1} to charge status.</comment>
   </data>
   <data name="Text_Battery_Error" xml:space="preserve">
-    <value>Falha na atualização da carga da bateria</value>
+    <value>Falha ao obter a carga da bateria</value>
   </data>
   <data name="Battery_Short_Left" xml:space="preserve">
     <value>E</value>
@@ -159,13 +159,13 @@
     <comment>{0} will be replaced to AirPods name. I recommend using an abbreviation so that the name of the headphones can be seen</comment>
   </data>
   <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
-    <value>VoiceOver</value>
+    <value>Narração</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver_Enabled" xml:space="preserve">
-    <value>Ligado</value>
+    <value>Ativada</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
-    <value>Desligado</value>
+    <value>Desativada</value>
   </data>
   <data name="Text_ContextMenu_Headphones_Connecting" xml:space="preserve">
     <value>Conectando {0}</value>
@@ -188,20 +188,29 @@
     <value>Adaptador Bluetooth não suporta Bluetooth LE</value>
   </data>
   <data name="Text_Icon_Bluetooth_Off" xml:space="preserve">
-    <value>Bluetooth desligado</value>
+    <value>Bluetooth desativado</value>
   </data>
   <data name="Text_Icon_Bluetooth_Initialization_Error" xml:space="preserve">
     <value>Erro ao inicializar adaptador Bluetooth</value>
   </data>
   <data name="Text_ContextMenu_StreamingDevice_Connect" xml:space="preserve">
-    <value>Reproduzindo em {0}</value>
+    <value>Reproduzindo de {0}</value>
     <comment>{0} will be replaced to streaming device name.</comment>
   </data>
   <data name="Text_ContextMenu_StreamingDevice_Disconnect" xml:space="preserve">
-    <value>Parar de reproduzir em {0}</value>
+    <value>Parar de reproduzir de {0}</value>
     <comment>0} will be replaced to streaming device name.</comment>
   </data>
   <data name="Text_Icon_Connected" xml:space="preserve">
     <value>Conectado {0}</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
+    <value>Desativado</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
+    <value>Transparente</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_NoiseCancellation" xml:space="preserve">
+    <value>Cancelamento de ruído</value>
   </data>
 </root>
