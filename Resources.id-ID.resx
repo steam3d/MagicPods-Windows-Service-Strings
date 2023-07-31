@@ -62,7 +62,7 @@
     <value>Keluar</value>
   </data>
   <data name="Text_Icon_Default" xml:space="preserve">
-    <value>AirPods terputus</value>
+    <value>Headphone terputus</value>
   </data>
   <data name="Text_Icon_Error" xml:space="preserve">
     <value>Bluetooth tidak didukung atau tidak tersedia</value>
@@ -115,5 +115,43 @@
   </data>
   <data name="Text_Icon_Search" xml:space="preserve">
     <value>Mencari AirPods</value>
+  </data>
+  <data name="Text_Icon_Connected" xml:space="preserve">
+    <value>Terhubung {0}</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Found" xml:space="preserve">
+    <value>Adaptor Bluetooth tidak ditemukan</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Multiple_Adapters_Found" xml:space="preserve">
+    <value>Beberapa adaptor Bluetooth terhubung</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Off" xml:space="preserve">
+    <value>Bluetooth mati</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_LE" xml:space="preserve">
+    <value>Bluetooth LE tidak didukung adaptor Bluetooth</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Initialization_Error" xml:space="preserve">
+    <value>Inisialisasi adaptor Bluetooth error</value>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Connect" xml:space="preserve">
+    <value>Dimainkan dari {0}</value>
+    <comment>{0} will be replaced to streaming device name.</comment>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Disconnect" xml:space="preserve">
+    <value>Berhenti memainkan dari {0}</value>
+    <comment>{0} will be replaced to streaming device name.</comment>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_NoiseCancellation" xml:space="preserve">
+    <value>Pembatalan kebisingan</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
+    <value>Mati</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
+    <value>Transparansi</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_Classic" xml:space="preserve">
+    <value>Bluetooth klasik tidak didukung adaptor Bluetooth</value>
   </data>
 </root>
