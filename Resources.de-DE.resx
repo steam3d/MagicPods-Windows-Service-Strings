@@ -157,7 +157,7 @@
     <comment>{0} will be replaced to AirPods name</comment>
   </data>
   <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
-    <value>VoiceOver</value>
+    <value>Sprachausgabe</value>
   </data>
   <data name="Battery_Short_Left" xml:space="preserve">
     <value>L</value>
@@ -203,5 +203,14 @@
   </data>
   <data name="Text_Icon_Connected" xml:space="preserve">
     <value>Verbunden {0}</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_NoiseCancellation" xml:space="preserve">
+    <value>Geräuschunterdrückung</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
+    <value>Aus</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
+    <value>Transparenz</value>
   </data>
 </root>
