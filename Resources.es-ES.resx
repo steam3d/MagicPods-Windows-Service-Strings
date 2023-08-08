@@ -146,12 +146,12 @@
     <value>Conectado {0}</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
-    <value>Apagado</value>
+    <value>Apagar</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_NoiseCancellation" xml:space="preserve">
-    <value>Anulación del ruido</value>
+    <value>Cancelación de Ruido</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
-    <value>Transparente</value>
+    <value>Transparencia</value>
   </data>
 </root>
