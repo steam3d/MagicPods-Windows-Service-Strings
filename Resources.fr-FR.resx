@@ -204,4 +204,10 @@
   <data name="Text_Icon_Connected" xml:space="preserve">
     <value>Connecté {0}</value>
   </data>
+  <data name="Text_ContextMenu_NoiseCancellation_NoiseCancellation" xml:space="preserve">
+    <value>Annulation active du bruit</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
+    <value>Transparence</value>
+  </data>
 </root>
