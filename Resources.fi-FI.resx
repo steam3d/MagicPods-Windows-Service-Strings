@@ -62,7 +62,7 @@
     <value>Poistu</value>
   </data>
   <data name="Text_Icon_Default" xml:space="preserve">
-    <value>AirPods-kuuloke irrotettu</value>
+    <value>Kuulokkeiden yhteys katkaistu</value>
   </data>
   <data name="Text_Icon_Error" xml:space="preserve">
     <value>Bluetoothia ei tueta tai se ei ole käytettävissä</value>
@@ -141,5 +141,17 @@
   <data name="Text_ContextMenu_StreamingDevice_Disconnect" xml:space="preserve">
     <value>Lopeta suoratoisto laitteesta {0}</value>
     <comment>0} will be replaced to streaming device name.</comment>
+  </data>
+  <data name="Text_Icon_Connected" xml:space="preserve">
+    <value>Yhdistetty {0}</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_NoiseCancellation" xml:space="preserve">
+    <value>Vastamelu</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
+    <value>Pois päältä</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
+    <value>Läpikuuluminen</value>
   </data>
 </root>
