@@ -194,14 +194,23 @@
     <value>블루투스 어답터 초기화 오류</value>
   </data>
   <data name="Text_ContextMenu_StreamingDevice_Disconnect" xml:space="preserve">
-    <value>에서 스트리밍 중지 {0}</value>
+    <value>{0} 에서 스트리밍 중지</value>
     <comment>0} will be replaced to streaming device name.</comment>
   </data>
   <data name="Text_ContextMenu_StreamingDevice_Connect" xml:space="preserve">
-    <value>에서 스트리밍{0}</value>
+    <value>{0} 에서 스트리밍</value>
     <comment>{0} will be replaced to streaming device name.</comment>
   </data>
   <data name="Text_Icon_Connected" xml:space="preserve">
-    <value>연결됨 {0}</value>
+    <value>{0} 연결됨</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_NoiseCancellation" xml:space="preserve">
+    <value>노이즈 캔슬링</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
+    <value>끔</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
+    <value>주변음 허용</value>
   </data>
 </root>
