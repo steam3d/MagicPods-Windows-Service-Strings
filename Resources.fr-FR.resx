@@ -210,4 +210,7 @@
   <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
     <value>Transparence</value>
   </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
+    <value>Désactivé</value>
+  </data>
 </root>
