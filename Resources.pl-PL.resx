@@ -74,7 +74,7 @@
     <value>Szukanie AirPodsów</value>
   </data>
   <data name="Text_Exit" xml:space="preserve">
-    <value>Zamknij</value>
+    <value>Wyjdź</value>
   </data>
   <data name="Text_Battery_Single" xml:space="preserve">
     <value>Naładowanie baterii: {0}% {1}</value>
@@ -144,5 +144,14 @@
   </data>
   <data name="Text_Icon_Connected" xml:space="preserve">
     <value>Połączono {0}</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_NoiseCancellation" xml:space="preserve">
+    <value>Wyciszenie otoczenia</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
+    <value>Wyłącz</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
+    <value>tryb transparentny</value>
   </data>
 </root>
