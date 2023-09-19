@@ -95,7 +95,7 @@
     <value>Wyłącz</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver_Enabled" xml:space="preserve">
-    <value>Włącz</value>
+    <value>Włączone</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
     <value>Asystent głosowy</value>
