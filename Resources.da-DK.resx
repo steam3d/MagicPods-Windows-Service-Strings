@@ -142,4 +142,13 @@
     <value>Stopp strømming fra {0}</value>
     <comment>0} will be replaced to streaming device name.</comment>
   </data>
+  <data name="Text_ContextMenu_NoiseCancellation_NoiseCancellation" xml:space="preserve">
+    <value>Støjdæmpning</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
+    <value>Fra</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
+    <value>Transprarens</value>
+  </data>
 </root>
