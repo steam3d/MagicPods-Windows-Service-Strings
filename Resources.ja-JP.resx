@@ -123,10 +123,10 @@
     <value>複数のBluetoothアダプターが接続されています</value>
   </data>
   <data name="Text_Icon_Bluetooth_Not_Supported_Classic" xml:space="preserve">
-    <value>BluetoothアダプターがBluetooth Classicに対応していません</value>
+    <value>BluetoothアダプターはBluetooth Classocに対応していません</value>
   </data>
   <data name="Text_Icon_Bluetooth_Not_Supported_LE" xml:space="preserve">
-    <value>BluetoothアダプターがBluetooth LEに対応していません</value>
+    <value>Bluetooth アダプターは Bluetooth LE に対応していません</value>
   </data>
   <data name="Text_Icon_Bluetooth_Off" xml:space="preserve">
     <value>Bluetooth オフ</value>
