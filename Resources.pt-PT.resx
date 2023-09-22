@@ -142,4 +142,7 @@
     <value>Parar a transmissão de {0}</value>
     <comment>0} will be replaced to streaming device name.</comment>
   </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
+    <value>Desligado</value>
+  </data>
 </root>
