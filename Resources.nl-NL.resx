@@ -140,7 +140,7 @@
     <comment>{0} will be replaced to battery level, {1} to charge status.</comment>
   </data>
   <data name="Text_Battery_Error" xml:space="preserve">
-    <value>Kan de batterijlading niet updaten</value>
+    <value>Kan de batterij niveau niet updaten</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
     <value>Voice Over</value>
@@ -203,5 +203,8 @@
   </data>
   <data name="Text_Icon_Connected" xml:space="preserve">
     <value>Verbonden {0}</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
+    <value>Uit</value>
   </data>
 </root>
