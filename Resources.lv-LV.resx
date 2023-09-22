@@ -61,4 +61,7 @@
   <data name="Text_Exit" xml:space="preserve">
     <value>Iziet</value>
   </data>
+  <data name="Text_Icon_Search" xml:space="preserve">
+    <value>Meklē AirPods</value>
+  </data>
 </root>
