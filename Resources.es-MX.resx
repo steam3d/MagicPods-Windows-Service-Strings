@@ -204,4 +204,13 @@
     <value>Detener la transmisión de {0}</value>
     <comment>{0} will be replaced to streaming device name.</comment>
   </data>
+  <data name="Text_ContextMenu_NoiseCancellation_NoiseCancellation" xml:space="preserve">
+    <value>Cancelación de ruido</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
+    <value>Apagar</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
+    <value>Transparencia</value>
+  </data>
 </root>
