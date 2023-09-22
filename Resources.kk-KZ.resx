@@ -61,4 +61,30 @@
   <data name="Text_Exit" xml:space="preserve">
     <value>Шығу</value>
   </data>
+  <data name="Text_Icon_Search" xml:space="preserve">
+    <value>AirPods ізденуде</value>
+  </data>
+  <data name="Battery_Short_Left" xml:space="preserve">
+    <value>L</value>
+    <comment>Abbreviation of the word «Left»</comment>
+  </data>
+  <data name="Battery_Short_Right" xml:space="preserve">
+    <value>R</value>
+    <comment>Abbreviation of the word «Right»</comment>
+  </data>
+  <data name="Text_Icon_Bluetooth_Off" xml:space="preserve">
+    <value>Bluetooth өшірілген</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Initialization_Error" xml:space="preserve">
+    <value>Bluetooth адаптерін баптау қатесі</value>
+  </data>
+  <data name="Text_Button_Connect" xml:space="preserve">
+    <value>Қосу</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Found" xml:space="preserve">
+    <value>Bluetooth адаптері табылмады</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Multiple_Adapters_Found" xml:space="preserve">
+    <value>Бірнеше Bluetooth адаптері қосылған</value>
+  </data>
 </root>
