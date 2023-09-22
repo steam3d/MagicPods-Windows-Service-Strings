@@ -142,4 +142,13 @@
     <value>Streamelés leállítása erről {0}</value>
     <comment>0} will be replaced to streaming device name.</comment>
   </data>
+  <data name="Text_ContextMenu_NoiseCancellation_NoiseCancellation" xml:space="preserve">
+    <value>Zajszűrés</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
+    <value>Kikapcsolva</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
+    <value>Átengedés</value>
+  </data>
 </root>
