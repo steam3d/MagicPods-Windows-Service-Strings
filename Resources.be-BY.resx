@@ -137,4 +137,7 @@
   <data name="Text_Icon_Bluetooth_Initialization_Error" xml:space="preserve">
     <value>Памылка ініцыялізацыі адаптара Bluetooth</value>
   </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
+    <value>Выкл</value>
+  </data>
 </root>
