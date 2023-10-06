@@ -62,7 +62,7 @@
     <value>Выхад</value>
   </data>
   <data name="Text_Icon_Default" xml:space="preserve">
-    <value>AirPods адключаны</value>
+    <value>Навушники адключаны</value>
   </data>
   <data name="Text_Icon_Error" xml:space="preserve">
     <value>Bluetooth не падтрымліваецца або недаступны</value>
@@ -139,5 +139,19 @@
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
     <value>Выкл</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_NoiseCancellation" xml:space="preserve">
+    <value>Шумападавленне</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
+    <value>Празрыстасць</value>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Disconnect" xml:space="preserve">
+    <value>Спыніць трансляцыю з {0}</value>
+    <comment>{0} will be replaced to streaming device name.</comment>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Connect" xml:space="preserve">
+    <value>Трансляваць з {0}</value>
+    <comment>{0} will be replaced to streaming device name.</comment>
   </data>
 </root>
