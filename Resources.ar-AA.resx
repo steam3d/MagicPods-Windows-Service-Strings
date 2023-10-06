@@ -95,7 +95,7 @@
     <value>التعليق الصوتي</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver_Enabled" xml:space="preserve">
-    <value>تشغيل</value>
+    <value>تفعيل</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
     <value>إيقاف</value>
@@ -123,7 +123,7 @@
     <comment>Abbreviation of the word «Right»</comment>
   </data>
   <data name="Text_Icon_Bluetooth_Not_Found" xml:space="preserve">
-    <value>لم نجد محول البلوتوث</value>
+    <value>البلوتوث غير متاح</value>
   </data>
   <data name="Text_Icon_Bluetooth_Multiple_Adapters_Found" xml:space="preserve">
     <value>عدة محولات بلوتوث متصلات</value>
@@ -144,5 +144,14 @@
   </data>
   <data name="Text_Icon_Connected" xml:space="preserve">
     <value>{0} متصل</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_NoiseCancellation" xml:space="preserve">
+    <value>عزل الصوت</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
+    <value>مطفئ</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
+    <value>الشفافيه</value>
   </data>
 </root>
