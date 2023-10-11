@@ -145,4 +145,7 @@
   <data name="Text_Icon_Connected" xml:space="preserve">
     <value>Připojeno {0}</value>
   </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
+    <value>Vypnuto</value>
+  </data>
 </root>
