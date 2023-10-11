@@ -151,4 +151,7 @@
   <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
     <value>Transprarens</value>
   </data>
+  <data name="Text_Icon_Connected" xml:space="preserve">
+    <value>Forbundet {0}</value>
+  </data>
 </root>
