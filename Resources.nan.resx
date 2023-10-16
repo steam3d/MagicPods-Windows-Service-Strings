@@ -145,4 +145,7 @@
   <data name="Text_Icon_Connected" xml:space="preserve">
     <value>已連接{0}</value>
   </data>
+  <data name="Text_ContextMenu_NoiseCancellation_NoiseCancellation" xml:space="preserve">
+    <value>降噪</value>
+  </data>
 </root>
