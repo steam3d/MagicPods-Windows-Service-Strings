@@ -149,7 +149,7 @@
     <value>عزل الصوت</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
-    <value>مطفئ</value>
+    <value>إيقاف</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
     <value>الشفافيه</value>
