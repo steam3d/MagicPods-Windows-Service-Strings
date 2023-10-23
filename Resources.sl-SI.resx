@@ -145,7 +145,7 @@
     <value>Odpravljanje hrupa</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
-    <value />
+    <value>Preglednost</value>
   </data>
   <data name="Text_Icon_Bluetooth_Not_Supported_LE" xml:space="preserve">
     <value>Bluetooth adapter ne podpira Bluetooth LE</value>
