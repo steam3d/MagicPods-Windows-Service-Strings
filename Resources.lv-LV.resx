@@ -64,4 +64,94 @@
   <data name="Text_Icon_Search" xml:space="preserve">
     <value>Meklē AirPods</value>
   </data>
+  <data name="Text_Icon_Bluetooth_Multiple_Adapters_Found" xml:space="preserve">
+    <value>Pieslēgti vairāki Bluetooth adapteri</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Off" xml:space="preserve">
+    <value>Bluetooth izslēgts</value>
+  </data>
+  <data name="Text_Icon_Connected" xml:space="preserve">
+    <value>Savienots {0}</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Initialization_Error" xml:space="preserve">
+    <value>Bluetooth adaptera inicializācijas kļūda</value>
+  </data>
+  <data name="Text_Icon_Error" xml:space="preserve">
+    <value>Bluetooth nav pieejams vai netiek atbalstīts</value>
+  </data>
+  <data name="Text_Battery_Single" xml:space="preserve">
+    <value>Uzlāde {0}% {1}</value>
+    <comment>{0} will be replaced to battery level, {1} to charge status.</comment>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Disconnect" xml:space="preserve">
+    <value>Atvienots {0}</value>
+    <comment>{0} will be replaced to AirPods name. I recommend using an abbreviation so that the name of the headphones can be seen</comment>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Found" xml:space="preserve">
+    <value>Bluetooth adapteris nav atrasts</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_Classic" xml:space="preserve">
+    <value>Bluetooth adapteris neatbalsta Bluetooth Classic</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_LE" xml:space="preserve">
+    <value>Bluetooth adapteris neatbalsta Bluetooth LE</value>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Connect" xml:space="preserve">
+    <value>Straumēt no {0}</value>
+    <comment>{0} will be replaced to streaming device name.</comment>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Disconnect" xml:space="preserve">
+    <value>Apturēt straumēšanu no {0}</value>
+    <comment>{0} will be replaced to streaming device name.</comment>
+  </data>
+  <data name="Text_Settings" xml:space="preserve">
+    <value>Iestatījumi</value>
+  </data>
+  <data name="Text_Button_Connect" xml:space="preserve">
+    <value>Savienot</value>
+  </data>
+  <data name="Text_Battery_Error" xml:space="preserve">
+    <value>Neizdevās atjaunot akumulatora statusu</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Connect" xml:space="preserve">
+    <value>Savienots ar {0}</value>
+    <comment>{0} will be replaced to AirPods name. I recommend using an abbreviation so that the name of the headphones can be seen.</comment>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
+    <value>BalssPalīdzība</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver_Enabled" xml:space="preserve">
+    <value>Ieslēgts</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
+    <value>Izslēgts</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Connecting" xml:space="preserve">
+    <value>Notiek savienošana ar {0}</value>
+    <comment>{0} will be replaced to AirPods name. The headphones are connecting right now</comment>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Disconnecting" xml:space="preserve">
+    <value>Notiek atvienošana no {0}</value>
+    <comment>{0} will be replaced to AirPods name. The headphones are disconnecting right now</comment>
+  </data>
+  <data name="Battery_Short_Left" xml:space="preserve">
+    <value>L</value>
+    <comment>Abbreviation of the word «Left»</comment>
+  </data>
+  <data name="Battery_Short_Right" xml:space="preserve">
+    <value>R</value>
+    <comment>Abbreviation of the word «Right»</comment>
+  </data>
+  <data name="Text_Icon_Default" xml:space="preserve">
+    <value>Austiņas atvienotas</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_NoiseCancellation" xml:space="preserve">
+    <value>Trokšņu novēršana</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
+    <value>Izslēgts</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
+    <value>Caurredzamība</value>
+  </data>
 </root>
