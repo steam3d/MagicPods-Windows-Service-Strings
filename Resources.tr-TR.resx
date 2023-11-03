@@ -208,7 +208,7 @@
     <value>Gürültü önleyici</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
-    <value>Kapa</value>
+    <value>Kapalı</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
     <value>Şeffaflık</value>
