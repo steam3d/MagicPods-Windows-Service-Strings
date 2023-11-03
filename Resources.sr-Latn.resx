@@ -131,4 +131,7 @@
   <data name="Text_Icon_Bluetooth_Multiple_Adapters_Found" xml:space="preserve">
     <value>Više Bluetooth adaptera povezano</value>
   </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
+    <value>Isključeno</value>
+  </data>
 </root>
