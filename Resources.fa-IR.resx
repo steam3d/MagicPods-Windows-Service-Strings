@@ -116,4 +116,10 @@
     <value>ر</value>
     <comment>Abbreviation of the word «Right»</comment>
   </data>
+  <data name="Text_Icon_Bluetooth_Multiple_Adapters_Found" xml:space="preserve">
+    <value>چند Bluetooth adapter متصل شدند</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Off" xml:space="preserve">
+    <value>بلوتوث خاموش است</value>
+  </data>
 </root>
