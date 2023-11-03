@@ -154,7 +154,7 @@
     <value>已啟用</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
-    <value>已停用</value>
+    <value>關閉</value>
   </data>
   <data name="Battery_Short_Left" xml:space="preserve">
     <value>左</value>
@@ -211,6 +211,6 @@
     <value>通透模式</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_NoiseCancellation" xml:space="preserve">
-    <value>降造</value>
+    <value>降噪</value>
   </data>
 </root>
