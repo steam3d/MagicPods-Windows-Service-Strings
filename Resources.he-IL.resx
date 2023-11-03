@@ -68,7 +68,7 @@
     <value>יְצִיאָה</value>
   </data>
   <data name="Text_Icon_Default" xml:space="preserve">
-    <value>האוזניות מנותקות</value>
+    <value>האוזניות מנותקים</value>
   </data>
   <data name="Text_Icon_Error" xml:space="preserve">
     <value>Bluetooth אינו נתמך או זמין</value>
