@@ -146,7 +146,7 @@
     <value>Połączono {0}</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_NoiseCancellation" xml:space="preserve">
-    <value>Wyciszenie otoczenia</value>
+    <value>Redukcja szumów</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
     <value>Wyłącz</value>
