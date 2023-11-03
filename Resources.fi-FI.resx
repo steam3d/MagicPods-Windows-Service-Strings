@@ -98,7 +98,7 @@
     <value>Päällä</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
-    <value>Vinossa</value>
+    <value>Pois päältä</value>
   </data>
   <data name="Text_ContextMenu_Headphones_Connecting" xml:space="preserve">
     <value>Yhdistetään {0}</value>
@@ -146,7 +146,7 @@
     <value>Yhdistetty {0}</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_NoiseCancellation" xml:space="preserve">
-    <value>Vastamelu</value>
+    <value>Melunvaimennus</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
     <value>Pois päältä</value>
