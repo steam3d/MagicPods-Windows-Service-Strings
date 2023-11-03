@@ -134,4 +134,13 @@
   <data name="Text_Icon_Bluetooth_Not_Supported_LE" xml:space="preserve">
     <value>بلوٹوتھ اڈاپٹر بلوٹوتھ ایل ای کو سپورٹ نہیں کرتا ہے۔بلوٹوتھ اڈاپٹر بلوٹوتھ ایل ای کو سپورٹ نہیں کرتا ہے</value>
   </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
+    <value>بند</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
+    <value>شفافیت</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_NoiseCancellation" xml:space="preserve">
+    <value>شور کی منسوخی</value>
+  </data>
 </root>
