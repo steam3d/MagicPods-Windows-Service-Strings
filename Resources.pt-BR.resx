@@ -165,7 +165,7 @@
     <value>Ativada</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
-    <value>Desativada</value>
+    <value>Desligado</value>
   </data>
   <data name="Text_ContextMenu_Headphones_Connecting" xml:space="preserve">
     <value>Conectando {0}</value>
@@ -205,7 +205,7 @@
     <value>Conectado {0}</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
-    <value>Desativado</value>
+    <value>Desligado</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
     <value>Transparente</value>
