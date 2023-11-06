@@ -213,4 +213,10 @@
   <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
     <value>通透模式</value>
   </data>
+  <data name="Text_ContextMenu_NoiseCancellation_AmbientSound" xml:space="preserve">
+    <value>环境声</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_WindCancellation" xml:space="preserve">
+    <value>风噪</value>
+  </data>
 </root>
