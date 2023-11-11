@@ -213,4 +213,10 @@
   <data name="Text_ContextMenu_NoiseCancellation_NoiseCancellation" xml:space="preserve">
     <value>降噪</value>
   </data>
+  <data name="Text_ContextMenu_NoiseCancellation_AmbientSound" xml:space="preserve">
+    <value>環境聲模式</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_WindCancellation" xml:space="preserve">
+    <value>風噪消除</value>
+  </data>
 </root>
