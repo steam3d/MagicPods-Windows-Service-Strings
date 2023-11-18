@@ -154,4 +154,10 @@
   <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
     <value>Spegni</value>
   </data>
+  <data name="Text_ContextMenu_NoiseCancellation_AmbientSound" xml:space="preserve">
+    <value>Suono Ambientale</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_WindCancellation" xml:space="preserve">
+    <value>Cancellazione del vento</value>
+  </data>
 </root>
