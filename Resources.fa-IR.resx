@@ -62,7 +62,7 @@
     <value>خروج</value>
   </data>
   <data name="Text_Icon_Default" xml:space="preserve">
-    <value>AirPods قطع شد</value>
+    <value>هدفون قطع شد</value>
   </data>
   <data name="Text_Battery_Single" xml:space="preserve">
     <value>شارژ{0}% {1}</value>
@@ -121,5 +121,43 @@
   </data>
   <data name="Text_Icon_Bluetooth_Off" xml:space="preserve">
     <value>بلوتوث خاموش است</value>
+  </data>
+  <data name="Text_Icon_Connected" xml:space="preserve">
+    <value>متصل {0}</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_NoiseCancellation" xml:space="preserve">
+    <value>نویز کنسلیشن</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Found" xml:space="preserve">
+    <value>آداپتور بلوتوث پیدا نشد</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_Classic" xml:space="preserve">
+    <value>آداپتور بلوتوث از بلوتوث کلاسیک پشتیبانی نمی کند</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_LE" xml:space="preserve">
+    <value>آداپتور بلوتوث از بلوتوث LE پشتیبانی نمی کند</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Initialization_Error" xml:space="preserve">
+    <value>خطا در راه اندازی آداپتور بلوتوث</value>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Connect" xml:space="preserve">
+    <value>پخش از {0}</value>
+    <comment>{0} will be replaced to streaming device name.</comment>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Disconnect" xml:space="preserve">
+    <value>توقف پخش از {0}</value>
+    <comment>{0} will be replaced to streaming device name.</comment>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
+    <value>خاموش</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
+    <value>شفاف سازی</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_AmbientSound" xml:space="preserve">
+    <value>صدای محیط</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_WindCancellation" xml:space="preserve">
+    <value>کنسل کردن نویز باد</value>
   </data>
 </root>
