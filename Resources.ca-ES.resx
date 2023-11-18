@@ -97,7 +97,7 @@
     <comment>Abbreviation of the word «Right»</comment>
   </data>
   <data name="Text_Icon_Default" xml:space="preserve">
-    <value>Airpods desconectats</value>
+    <value>Auriculars desconectats</value>
   </data>
   <data name="Text_Button_Connect" xml:space="preserve">
     <value>Connectar</value>
@@ -133,5 +133,31 @@
   </data>
   <data name="Text_Icon_Bluetooth_Off" xml:space="preserve">
     <value>Bluetooth desactivat</value>
+  </data>
+  <data name="Text_Icon_Connected" xml:space="preserve">
+    <value>Connectat {0}</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
+    <value>Transparència</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
+    <value>Desactivat</value>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Connect" xml:space="preserve">
+    <value>Transmet del de {0}</value>
+    <comment>{0} will be replaced to streaming device name.</comment>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Disconnect" xml:space="preserve">
+    <value>Atura la transmissió des de {0}</value>
+    <comment>{0} will be replaced to streaming device name.</comment>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_AmbientSound" xml:space="preserve">
+    <value>So ambiental</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_WindCancellation" xml:space="preserve">
+    <value>Cancel·lació del vent</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_NoiseCancellation" xml:space="preserve">
+    <value>Cancel·lació de soroll</value>
   </data>
 </root>
