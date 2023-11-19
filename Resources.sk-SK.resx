@@ -62,7 +62,7 @@
     <value>Odísť</value>
   </data>
   <data name="Text_Icon_Default" xml:space="preserve">
-    <value>AirPods odpojené</value>
+    <value>Slúchadlá odpojené</value>
   </data>
   <data name="Text_Icon_Error" xml:space="preserve">
     <value>Bluetooth nie je k dispozícii, alebo nie je zapnutý</value>
@@ -74,7 +74,7 @@
     <value>Pripojiť</value>
   </data>
   <data name="Text_Icon_Search" xml:space="preserve">
-    <value>Hľadám AirPody</value>
+    <value>Hľadám slúchadlá AirPods</value>
   </data>
   <data name="Text_Battery_Single" xml:space="preserve">
     <value>Batéria {0}% {1}</value>
