@@ -202,7 +202,7 @@
     <comment>0} will be replaced to streaming device name.</comment>
   </data>
   <data name="Text_Icon_Connected" xml:space="preserve">
-    <value>连接的 {0}</value>
+    <value>已连接至 {0}</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_NoiseCancellation" xml:space="preserve">
     <value>降噪</value>
