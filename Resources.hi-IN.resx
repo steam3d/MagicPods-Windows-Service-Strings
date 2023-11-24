@@ -148,4 +148,16 @@
   <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
     <value>बंद</value>
   </data>
+  <data name="Text_ContextMenu_NoiseCancellation_NoiseCancellation" xml:space="preserve">
+    <value>शोर रद्द</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
+    <value>पारदर्शिता</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_AmbientSound" xml:space="preserve">
+    <value>परिवेशीय ध्वनि</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_WindCancellation" xml:space="preserve">
+    <value>पवन रद्दीकरण</value>
+  </data>
 </root>
