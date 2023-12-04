@@ -84,7 +84,7 @@
     <value>Įjungtas</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
-    <value>Išjungta</value>
+    <value>Neaktyvus</value>
   </data>
   <data name="Text_ContextMenu_Headphones_Connecting" xml:space="preserve">
     <value>Jungiamasi prie {0}</value>
@@ -99,7 +99,7 @@
     <comment>Abbreviation of the word «Right»</comment>
   </data>
   <data name="Text_Exit" xml:space="preserve">
-    <value>Uždaryti</value>
+    <value>Išeiti</value>
   </data>
   <data name="Text_Icon_Error" xml:space="preserve">
     <value>Bluetooth nepalaikomas arba nepasiekiamas</value>
@@ -146,6 +146,18 @@
     <comment>{0} will be replaced to streaming device name.</comment>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
-    <value>Išjungta</value>
+    <value>Neaktyvuotas</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
+    <value>Skaidrumas</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_AmbientSound" xml:space="preserve">
+    <value>Aplinkos garsas</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_WindCancellation" xml:space="preserve">
+    <value>Vėjo slopinimas</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_NoiseCancellation" xml:space="preserve">
+    <value>Triukšmo slopinimas</value>
   </data>
 </root>
