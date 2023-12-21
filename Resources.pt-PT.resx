@@ -160,4 +160,10 @@
   <data name="Text_ContextMenu_NoiseCancellation_WindCancellation" xml:space="preserve">
     <value>Cancelamento do vento</value>
   </data>
+  <data name="Text_Widget_Battery_Single" xml:space="preserve">
+    <value>Bateria</value>
+  </data>
+  <data name="Text_Widget_Battery_Case" xml:space="preserve">
+    <value>Caixa</value>
+  </data>
 </root>
