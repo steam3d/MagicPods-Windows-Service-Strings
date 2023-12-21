@@ -148,4 +148,10 @@
   <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
     <value>Vypnuto</value>
   </data>
+  <data name="Text_Widget_Battery_Case" xml:space="preserve">
+    <value>Pouzdro</value>
+  </data>
+  <data name="Text_Widget_Battery_Single" xml:space="preserve">
+    <value>Nabito</value>
+  </data>
 </root>
