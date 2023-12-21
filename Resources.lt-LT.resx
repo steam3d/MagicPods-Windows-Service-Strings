@@ -160,4 +160,10 @@
   <data name="Text_ContextMenu_NoiseCancellation_NoiseCancellation" xml:space="preserve">
     <value>Triukšmo slopinimas</value>
   </data>
+  <data name="Text_Widget_Battery_Case" xml:space="preserve">
+    <value>Dėklas</value>
+  </data>
+  <data name="Text_Widget_Battery_Single" xml:space="preserve">
+    <value>Įkrovimo lygis</value>
+  </data>
 </root>
