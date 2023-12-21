@@ -143,4 +143,16 @@
   <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
     <value>Priepustnosť zvuku</value>
   </data>
+  <data name="Text_ContextMenu_NoiseCancellation_AmbientSound" xml:space="preserve">
+    <value>Zvuky okolia</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_WindCancellation" xml:space="preserve">
+    <value>Potlačenie šumu vetra</value>
+  </data>
+  <data name="Text_Widget_Battery_Case" xml:space="preserve">
+    <value>Puzdro</value>
+  </data>
+  <data name="Text_Widget_Battery_Single" xml:space="preserve">
+    <value>Nabité</value>
+  </data>
 </root>
