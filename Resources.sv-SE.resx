@@ -154,4 +154,10 @@
   <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
     <value>Transparens</value>
   </data>
+  <data name="Text_Widget_Battery_Case" xml:space="preserve">
+    <value>Fodral</value>
+  </data>
+  <data name="Text_Widget_Battery_Single" xml:space="preserve">
+    <value>Laddning</value>
+  </data>
 </root>
