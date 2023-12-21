@@ -87,4 +87,7 @@
   <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
     <value>Naka patay</value>
   </data>
+  <data name="Text_Icon_Default" xml:space="preserve">
+    <value>Nadiskonekta ang headphones</value>
+  </data>
 </root>
