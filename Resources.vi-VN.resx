@@ -219,4 +219,10 @@
   <data name="Text_ContextMenu_NoiseCancellation_AmbientSound" xml:space="preserve">
     <value>Âm thanh xung quanh</value>
   </data>
+  <data name="Text_Widget_Battery_Case" xml:space="preserve">
+    <value>Hộp sạc</value>
+  </data>
+  <data name="Text_Widget_Battery_Single" xml:space="preserve">
+    <value>Sạc</value>
+  </data>
 </root>
