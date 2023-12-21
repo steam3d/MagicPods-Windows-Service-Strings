@@ -154,4 +154,10 @@
   <data name="Text_Icon_Bluetooth_Not_Supported_Classic" xml:space="preserve">
     <value>Bluetooth klasik tidak didukung adaptor Bluetooth</value>
   </data>
+  <data name="Text_Widget_Battery_Case" xml:space="preserve">
+    <value>Kotak</value>
+  </data>
+  <data name="Text_Widget_Battery_Single" xml:space="preserve">
+    <value>Isi daya</value>
+  </data>
 </root>
