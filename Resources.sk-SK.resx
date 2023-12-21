@@ -155,4 +155,13 @@
   <data name="Text_Widget_Battery_Single" xml:space="preserve">
     <value>Nabité</value>
   </data>
+  <data name="Text_Widget_Battery_Left" xml:space="preserve">
+    <value>Ľavé</value>
+  </data>
+  <data name="Text_Widget_Battery_Right" xml:space="preserve">
+    <value>Pravé</value>
+  </data>
+  <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
+    <value>Pripojte slúchadlá pre zobrazenie stavu batérie</value>
+  </data>
 </root>
