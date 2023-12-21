@@ -154,4 +154,10 @@
   <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
     <value>โหมดรับเสียง</value>
   </data>
+  <data name="Text_Widget_Battery_Single" xml:space="preserve">
+    <value>ชาร์จ</value>
+  </data>
+  <data name="Text_Widget_Battery_Case" xml:space="preserve">
+    <value>เคส</value>
+  </data>
 </root>
