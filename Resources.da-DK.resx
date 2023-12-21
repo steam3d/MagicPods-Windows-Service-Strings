@@ -154,4 +154,10 @@
   <data name="Text_Icon_Connected" xml:space="preserve">
     <value>Forbundet {0}</value>
   </data>
+  <data name="Text_Widget_Battery_Case" xml:space="preserve">
+    <value>Etui</value>
+  </data>
+  <data name="Text_Widget_Battery_Single" xml:space="preserve">
+    <value>Batteriniveau</value>
+  </data>
 </root>
