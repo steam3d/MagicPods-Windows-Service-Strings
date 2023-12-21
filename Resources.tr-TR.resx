@@ -219,4 +219,10 @@
   <data name="Text_ContextMenu_NoiseCancellation_WindCancellation" xml:space="preserve">
     <value>Rüzgar Sesi Engelleyici</value>
   </data>
+  <data name="Text_Widget_Battery_Case" xml:space="preserve">
+    <value>Kutu</value>
+  </data>
+  <data name="Text_Widget_Battery_Single" xml:space="preserve">
+    <value>Şarj</value>
+  </data>
 </root>
