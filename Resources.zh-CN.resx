@@ -229,7 +229,7 @@
     <value>充电盒</value>
   </data>
   <data name="Text_Widget_Battery_Single" xml:space="preserve">
-    <value>充电</value>
+    <value>已充电</value>
   </data>
   <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
     <value>连接耳机以显示充电情况</value>
