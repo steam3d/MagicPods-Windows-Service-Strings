@@ -148,4 +148,10 @@
   <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
     <value>Σβήνω</value>
   </data>
+  <data name="Text_Widget_Battery_Case" xml:space="preserve">
+    <value>Θήκη</value>
+  </data>
+  <data name="Text_Widget_Battery_Single" xml:space="preserve">
+    <value>Φώρτηση</value>
+  </data>
 </root>
