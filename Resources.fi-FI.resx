@@ -62,7 +62,7 @@
     <value>Poistu</value>
   </data>
   <data name="Text_Icon_Default" xml:space="preserve">
-    <value>Kuulokkeiden yhteys katkaistu</value>
+    <value>Kuulokeet irrotettu</value>
   </data>
   <data name="Text_Icon_Error" xml:space="preserve">
     <value>Bluetoothia ei tueta tai se ei ole käytettävissä</value>
@@ -165,5 +165,14 @@
   </data>
   <data name="Text_Widget_Battery_Case" xml:space="preserve">
     <value>kotelo</value>
+  </data>
+  <data name="Text_Widget_Battery_Left" xml:space="preserve">
+    <value>Vasen</value>
+  </data>
+  <data name="Text_Widget_Battery_Right" xml:space="preserve">
+    <value>Oikea</value>
+  </data>
+  <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
+    <value>Yhdistä kuulokkeet nähdäksesi lataustason</value>
   </data>
 </root>
