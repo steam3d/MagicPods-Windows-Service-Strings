@@ -160,4 +160,19 @@
   <data name="Text_Widget_Battery_Case" xml:space="preserve">
     <value>เคส</value>
   </data>
+  <data name="Text_Widget_Battery_Left" xml:space="preserve">
+    <value>ซ้าย</value>
+  </data>
+  <data name="Text_Widget_Battery_Right" xml:space="preserve">
+    <value>ขวา</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_AmbientSound" xml:space="preserve">
+    <value>เสียงรอบข้าง</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_WindCancellation" xml:space="preserve">
+    <value>ตัดเสียงรบกวนรอบข้าง</value>
+  </data>
+  <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
+    <value>เชื่อมต่อหูฟังเพื่อแสดงระดับการชาร์จ</value>
+  </data>
 </root>
