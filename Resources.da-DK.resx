@@ -160,4 +160,19 @@
   <data name="Text_Widget_Battery_Single" xml:space="preserve">
     <value>Batteriniveau</value>
   </data>
+  <data name="Text_ContextMenu_NoiseCancellation_WindCancellation" xml:space="preserve">
+    <value>vindreduktion</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_AmbientSound" xml:space="preserve">
+    <value>Baggrundslyd</value>
+  </data>
+  <data name="Text_Widget_Battery_Left" xml:space="preserve">
+    <value>Venstre</value>
+  </data>
+  <data name="Text_Widget_Battery_Right" xml:space="preserve">
+    <value>Højre</value>
+  </data>
+  <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
+    <value>Tilslut dine høretelefoner for at vise batteriniveauet</value>
+  </data>
 </root>
