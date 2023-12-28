@@ -120,26 +120,26 @@
     <value>Adapter Bluetooth nie został odnaleziony</value>
   </data>
   <data name="Text_Icon_Bluetooth_Multiple_Adapters_Found" xml:space="preserve">
-    <value>Podłączono wiele adapterów bluetooth</value>
+    <value>Podłączono wiele adapterów Bluetooth</value>
   </data>
   <data name="Text_Icon_Bluetooth_Not_Supported_Classic" xml:space="preserve">
-    <value>Adapter bluetooth nie wspiera klasycznego bluetooth</value>
+    <value>Adapter Bluetooth nie obsługuje Bluetooth Classic</value>
   </data>
   <data name="Text_Icon_Bluetooth_Not_Supported_LE" xml:space="preserve">
-    <value>Adapter bluetooth nie wspiera energooszczędnego bluetooth</value>
+    <value>Adapter Bluetooth nie obsługuje Bluetooth LE</value>
   </data>
   <data name="Text_Icon_Bluetooth_Off" xml:space="preserve">
     <value>Bluetooth wyłączony</value>
   </data>
   <data name="Text_Icon_Bluetooth_Initialization_Error" xml:space="preserve">
-    <value>Błąd podczas inicjalizacji adaptera bluetooth</value>
+    <value>Błąd inicjalizacji adaptera Bluetooth</value>
   </data>
   <data name="Text_ContextMenu_StreamingDevice_Disconnect" xml:space="preserve">
-    <value>zatrzymanie streamowania z {0}</value>
+    <value>Przestań strumieniować z {0}</value>
     <comment>0} will be replaced to streaming device name.</comment>
   </data>
   <data name="Text_ContextMenu_StreamingDevice_Connect" xml:space="preserve">
-    <value>streamowanie z {0}</value>
+    <value>Strumienuj z {0}</value>
     <comment>{0} will be replaced to streaming device name.</comment>
   </data>
   <data name="Text_Icon_Connected" xml:space="preserve">
@@ -152,12 +152,27 @@
     <value>Wyłącz</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
-    <value>tryb transparentny</value>
+    <value>Tryb kontaktu</value>
   </data>
   <data name="Text_Widget_Battery_Case" xml:space="preserve">
     <value>Etui</value>
   </data>
   <data name="Text_Widget_Battery_Single" xml:space="preserve">
-    <value>Ładowanie</value>
+    <value>Poziom naładowania</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_AmbientSound" xml:space="preserve">
+    <value>Dźwięki otoczenia</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_WindCancellation" xml:space="preserve">
+    <value>Redukcja hałasu wiatru</value>
+  </data>
+  <data name="Text_Widget_Battery_Left" xml:space="preserve">
+    <value>Lewy</value>
+  </data>
+  <data name="Text_Widget_Battery_Right" xml:space="preserve">
+    <value>Prawy</value>
+  </data>
+  <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
+    <value>Podłącz słuchawki, aby wyświetlić poziom naładowania</value>
   </data>
 </root>
