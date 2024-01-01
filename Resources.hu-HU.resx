@@ -166,4 +166,13 @@
   <data name="Text_Widget_Battery_Single" xml:space="preserve">
     <value>Töltés</value>
   </data>
+  <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
+    <value>Csatlakoztassa a fülhallgatót a töltöttség megtekintéséhez</value>
+  </data>
+  <data name="Text_Widget_Battery_Left" xml:space="preserve">
+    <value>Bal</value>
+  </data>
+  <data name="Text_Widget_Battery_Right" xml:space="preserve">
+    <value>Jobb</value>
+  </data>
 </root>
