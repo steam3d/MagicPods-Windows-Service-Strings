@@ -90,4 +90,7 @@
   <data name="Text_Icon_Default" xml:space="preserve">
     <value>Nadiskonekta ang headphones</value>
   </data>
+  <data name="Text_Exit" xml:space="preserve">
+    <value>I-exit</value>
+  </data>
 </root>
