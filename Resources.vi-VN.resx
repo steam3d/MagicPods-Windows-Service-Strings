@@ -225,4 +225,13 @@
   <data name="Text_Widget_Battery_Single" xml:space="preserve">
     <value>Sạc</value>
   </data>
+  <data name="Text_Widget_Battery_Left" xml:space="preserve">
+    <value>Trái</value>
+  </data>
+  <data name="Text_Widget_Battery_Right" xml:space="preserve">
+    <value>Phải</value>
+  </data>
+  <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
+    <value>Kết nối tai nghe để hiện mức pin</value>
+  </data>
 </root>
