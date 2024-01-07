@@ -101,7 +101,7 @@
     <value>إيقاف</value>
   </data>
   <data name="Text_ContextMenu_Headphones_Connecting" xml:space="preserve">
-    <value>جارٍ الاتصال ب{0}</value>
+    <value>جارٍ الاتصال {0}</value>
     <comment>{0} will be replaced to AirPods name. The headphones are connecting right now</comment>
   </data>
   <data name="Text_ContextMenu_Headphones_Disconnecting" xml:space="preserve">
@@ -119,7 +119,7 @@
     <comment>Abbreviation of the word «Left»</comment>
   </data>
   <data name="Battery_Short_Right" xml:space="preserve">
-    <value>الايمن</value>
+    <value>يمين</value>
     <comment>Abbreviation of the word «Right»</comment>
   </data>
   <data name="Text_Icon_Bluetooth_Not_Found" xml:space="preserve">
@@ -152,12 +152,27 @@
     <value>إيقاف</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
-    <value>الشفافيه</value>
+    <value>الشفافية</value>
   </data>
   <data name="Text_Widget_Battery_Single" xml:space="preserve">
     <value>شحن</value>
   </data>
   <data name="Text_Widget_Battery_Case" xml:space="preserve">
     <value>الحافظة</value>
+  </data>
+  <data name="Text_Widget_Battery_Left" xml:space="preserve">
+    <value>الأيسر</value>
+  </data>
+  <data name="Text_Widget_Battery_Right" xml:space="preserve">
+    <value>الأيمن</value>
+  </data>
+  <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
+    <value>قم بتوصيل سماعات الرأس لعرض مستوى شحن البطارية</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_AmbientSound" xml:space="preserve">
+    <value>الصوت المحيط</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_WindCancellation" xml:space="preserve">
+    <value>عزل الرياح</value>
   </data>
 </root>
