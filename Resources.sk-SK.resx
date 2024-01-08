@@ -164,4 +164,15 @@
   <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
     <value>Pripojte slúchadlá pre zobrazenie stavu batérie</value>
   </data>
+  <data name="Text_Icon_Connected" xml:space="preserve">
+    <value>Pripojené {0}</value>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Disconnect" xml:space="preserve">
+    <value>Zastaviť prehrávanie z {0}</value>
+    <comment>{0} will be replaced to streaming device name.</comment>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Connect" xml:space="preserve">
+    <value>Prehrávať z {0}</value>
+    <comment>{0} will be replaced to streaming device name.</comment>
+  </data>
 </root>
