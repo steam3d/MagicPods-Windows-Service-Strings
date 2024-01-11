@@ -225,4 +225,13 @@
   <data name="Text_Widget_Battery_Single" xml:space="preserve">
     <value>已充電</value>
   </data>
+  <data name="Text_Widget_Battery_Left" xml:space="preserve">
+    <value>左</value>
+  </data>
+  <data name="Text_Widget_Battery_Right" xml:space="preserve">
+    <value>右</value>
+  </data>
+  <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
+    <value>連接耳機以顯示電量</value>
+  </data>
 </root>
