@@ -205,13 +205,13 @@
     <value>Bağlandı {0}</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_NoiseCancellation" xml:space="preserve">
-    <value>Gürültü önleyici</value>
+    <value>Gürültü Engelleme</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
     <value>Kapalı</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
-    <value>Şeffaflık</value>
+    <value>Şeffaf Mod</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_AmbientSound" xml:space="preserve">
     <value>Ortam sesi (ambient sound)</value>
@@ -224,5 +224,14 @@
   </data>
   <data name="Text_Widget_Battery_Single" xml:space="preserve">
     <value>Şarj</value>
+  </data>
+  <data name="Text_Widget_Battery_Left" xml:space="preserve">
+    <value>Sol</value>
+  </data>
+  <data name="Text_Widget_Battery_Right" xml:space="preserve">
+    <value>Sağ</value>
+  </data>
+  <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
+    <value>Şarj seviyesini görüntülemek için kulaklıkları bağlayın</value>
   </data>
 </root>
