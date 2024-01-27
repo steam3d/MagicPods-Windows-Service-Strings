@@ -93,4 +93,10 @@
   <data name="Text_Widget_Battery_Case" xml:space="preserve">
     <value>Қалып</value>
   </data>
+  <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
+    <value>Өшірулі</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
+    <value>Өшірулі</value>
+  </data>
 </root>
