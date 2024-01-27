@@ -134,4 +134,10 @@
   <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
     <value>Isključeno</value>
   </data>
+  <data name="Text_Widget_Battery_Case" xml:space="preserve">
+    <value>Slučaj</value>
+  </data>
+  <data name="Text_Widget_Battery_Single" xml:space="preserve">
+    <value>Punjenje</value>
+  </data>
 </root>
