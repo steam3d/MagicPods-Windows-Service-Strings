@@ -149,16 +149,16 @@
     <value>Kikapcsolva</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
-    <value>Átengedés</value>
+    <value>Átlátszóság</value>
   </data>
   <data name="Text_Icon_Connected" xml:space="preserve">
     <value>Csatlakoztatva {0}</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_AmbientSound" xml:space="preserve">
-    <value>Adaptív</value>
+    <value>Környezeti hang</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_WindCancellation" xml:space="preserve">
-    <value>Zajkioltás</value>
+    <value>Szél kioltása</value>
   </data>
   <data name="Text_Widget_Battery_Case" xml:space="preserve">
     <value>Töltőtok</value>
