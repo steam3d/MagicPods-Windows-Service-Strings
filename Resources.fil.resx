@@ -93,4 +93,13 @@
   <data name="Text_Exit" xml:space="preserve">
     <value>I-exit</value>
   </data>
+  <data name="Text_Button_Connect" xml:space="preserve">
+    <value>Kumonekta</value>
+  </data>
+  <data name="Text_Widget_Battery_Case" xml:space="preserve">
+    <value>Kaso</value>
+  </data>
+  <data name="Text_Widget_Battery_Single" xml:space="preserve">
+    <value>Charging</value>
+  </data>
 </root>
