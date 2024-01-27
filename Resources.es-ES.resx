@@ -166,4 +166,13 @@
   <data name="Text_Widget_Battery_Single" xml:space="preserve">
     <value>Carga</value>
   </data>
+  <data name="Text_Widget_Battery_Left" xml:space="preserve">
+    <value>Izquierda</value>
+  </data>
+  <data name="Text_Widget_Battery_Right" xml:space="preserve">
+    <value>Derecho</value>
+  </data>
+  <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
+    <value>Conecte audiphonos para mostrar el nivel de carga</value>
+  </data>
 </root>
