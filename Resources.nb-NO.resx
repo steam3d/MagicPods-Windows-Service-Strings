@@ -62,7 +62,7 @@
     <value>Avslutt</value>
   </data>
   <data name="Text_Icon_Default" xml:space="preserve">
-    <value>AirPods er koblet fra</value>
+    <value>Hodetelefoner er koblet fra</value>
   </data>
   <data name="Text_Icon_Error" xml:space="preserve">
     <value>Bluetooth er ikke støttet eller tilgjengelig</value>
