@@ -62,7 +62,7 @@
     <value>Poistu</value>
   </data>
   <data name="Text_Icon_Default" xml:space="preserve">
-    <value>Kuulokeet irrotettu</value>
+    <value>Kuulokkeet irroitettu</value>
   </data>
   <data name="Text_Icon_Error" xml:space="preserve">
     <value>Bluetoothia ei tueta tai se ei ole käytettävissä</value>
@@ -71,16 +71,16 @@
     <value>Asetukset</value>
   </data>
   <data name="Text_Button_Connect" xml:space="preserve">
-    <value>Yhdistää</value>
+    <value>Yhdistä</value>
   </data>
   <data name="Text_Icon_Search" xml:space="preserve">
-    <value>AirPods-podeista etsiminen</value>
+    <value>Etsitään AirPodeja</value>
   </data>
   <data name="Text_Battery_Error" xml:space="preserve">
     <value>Akun latauksen päivittäminen epäonnistui</value>
   </data>
   <data name="Text_Battery_Single" xml:space="preserve">
-    <value>Veloita {0} % {1}</value>
+    <value>Lataus {0} % {1}</value>
     <comment>{0} will be replaced to battery level, {1} to charge status.</comment>
   </data>
   <data name="Battery_Short_Left" xml:space="preserve">
@@ -105,7 +105,7 @@
     <comment>{0} will be replaced to AirPods name. The headphones are connecting right now</comment>
   </data>
   <data name="Text_ContextMenu_Headphones_Disconnecting" xml:space="preserve">
-    <value>Katkaista {0}</value>
+    <value>Katkaistaan yhteyttä {0}</value>
     <comment>{0} will be replaced to AirPods name. The headphones are disconnecting right now</comment>
   </data>
   <data name="Text_ContextMenu_Headphones_Connect" xml:space="preserve">
@@ -113,7 +113,7 @@
     <comment>{0} will be replaced to AirPods name. I recommend using an abbreviation so that the name of the headphones can be seen.</comment>
   </data>
   <data name="Text_ContextMenu_Headphones_Disconnect" xml:space="preserve">
-    <value>Katkaise yhteys laitteeseen {0}</value>
+    <value>Katkaise yhteys {0}</value>
     <comment>{0} will be replaced to AirPods name. I recommend using an abbreviation so that the name of the headphones can be seen</comment>
   </data>
   <data name="Text_ContextMenu_StreamingDevice_Connect" xml:space="preserve">
@@ -121,7 +121,7 @@
     <comment>{0} will be replaced to streaming device name.</comment>
   </data>
   <data name="Text_Icon_Bluetooth_Not_Found" xml:space="preserve">
-    <value>Bluetooth -sovitinta ei löydy</value>
+    <value>Bluetooth -sovitinta ei löytynyt</value>
   </data>
   <data name="Text_Icon_Bluetooth_Multiple_Adapters_Found" xml:space="preserve">
     <value>Yhdistetty useisiin Bluetooth -sovittimiin</value>
@@ -161,10 +161,10 @@
     <value>Tuulen poisto</value>
   </data>
   <data name="Text_Widget_Battery_Single" xml:space="preserve">
-    <value>Veloita</value>
+    <value>Lataus</value>
   </data>
   <data name="Text_Widget_Battery_Case" xml:space="preserve">
-    <value>kotelo</value>
+    <value>Kotelo</value>
   </data>
   <data name="Text_Widget_Battery_Left" xml:space="preserve">
     <value>Vasen</value>
