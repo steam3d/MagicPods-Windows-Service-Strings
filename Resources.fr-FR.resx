@@ -225,4 +225,13 @@
   <data name="Text_Widget_Battery_Single" xml:space="preserve">
     <value>Batterie</value>
   </data>
+  <data name="Text_Widget_Battery_Left" xml:space="preserve">
+    <value>Gauche</value>
+  </data>
+  <data name="Text_Widget_Battery_Right" xml:space="preserve">
+    <value>Droit</value>
+  </data>
+  <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
+    <value>Brancher les écouteurs pour afficher le niveau de charge</value>
+  </data>
 </root>
