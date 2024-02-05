@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,121 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Text_Icon_Error" xml:space="preserve">
+    <value>బ్లూటూత్ మద్దతు లేదు లేదా అందుబాటులో లేదు</value>
+  </data>
+  <data name="Text_Exit" xml:space="preserve">
+    <value>బయటకి దారి</value>
+  </data>
+  <data name="Text_Button_Connect" xml:space="preserve">
+    <value>కనెక్ట్ చేయండి</value>
+  </data>
+  <data name="Text_Icon_Search" xml:space="preserve">
+    <value>AirPodలను శోధిస్తోంది</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
+    <value>వాయిస్ ఓవర్</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver_Enabled" xml:space="preserve">
+    <value>ఆన్</value>
+  </data>
+  <data name="Battery_Short_Left" xml:space="preserve">
+    <value>ఎల్</value>
+    <comment>Abbreviation of the word «Left»</comment>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Found" xml:space="preserve">
+    <value>బ్లూటూత్ అడాప్టర్ కనుగొనబడలేదు</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_Classic" xml:space="preserve">
+    <value>బ్లూటూత్ అడాప్టర్ బ్లూటూత్ క్లాసిక్‌కి మద్దతు ఇవ్వదు</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Off" xml:space="preserve">
+    <value>బ్లూటూత్ ఆఫ్ చేయబడింది</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Initialization_Error" xml:space="preserve">
+    <value>బ్లూటూత్ అడాప్టర్ ప్రారంభ లోపం</value>
+  </data>
+  <data name="Text_Icon_Connected" xml:space="preserve">
+    <value>కనెక్ట్ చేయబడింది {0}</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_AmbientSound" xml:space="preserve">
+    <value>పరిసర ధ్వని</value>
+  </data>
+  <data name="Text_Widget_Battery_Right" xml:space="preserve">
+    <value>కుడి</value>
+  </data>
+  <data name="Text_Widget_Battery_Case" xml:space="preserve">
+    <value>కేసు</value>
+  </data>
+  <data name="Text_Icon_Default" xml:space="preserve">
+    <value>హెడ్‌ఫోన్‌లు డిస్‌కనెక్ట్ చేయబడ్డాయి</value>
+  </data>
+  <data name="Text_Settings" xml:space="preserve">
+    <value>సెట్టింగ్‌లు</value>
+  </data>
+  <data name="Text_Battery_Single" xml:space="preserve">
+    <value>ఛార్జ్ {0}% {1}</value>
+    <comment>{0} will be replaced to battery level, {1} to charge status.</comment>
+  </data>
+  <data name="Text_Battery_Error" xml:space="preserve">
+    <value>బ్యాటరీ ఛార్జ్‌ని నవీకరించడంలో విఫలమైంది</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
+    <value>ఆఫ్</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Connect" xml:space="preserve">
+    <value>కనెక్ట్ చేయండి {0}</value>
+    <comment>{0} will be replaced to AirPods name. I recommend using an abbreviation so that the name of the headphones can be seen.</comment>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Disconnect" xml:space="preserve">
+    <value>డిస్‌కనెక్ట్ {0}</value>
+    <comment>{0} will be replaced to AirPods name. I recommend using an abbreviation so that the name of the headphones can be seen</comment>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Disconnecting" xml:space="preserve">
+    <value>డిస్‌కనెక్ట్ చేస్తోంది {0}</value>
+    <comment>{0} will be replaced to AirPods name. The headphones are disconnecting right now</comment>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Connecting" xml:space="preserve">
+    <value>{0}ని కనెక్ట్ చేస్తోంది</value>
+    <comment>{0} will be replaced to AirPods name. The headphones are connecting right now</comment>
+  </data>
+  <data name="Battery_Short_Right" xml:space="preserve">
+    <value>ఆర్</value>
+    <comment>Abbreviation of the word «Right»</comment>
+  </data>
+  <data name="Text_Icon_Bluetooth_Multiple_Adapters_Found" xml:space="preserve">
+    <value>బహుళ బ్లూటూత్ ఎడాప్టర్‌లు కనెక్ట్ చేయబడ్డాయి</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_LE" xml:space="preserve">
+    <value>బ్లూటూత్ అడాప్టర్ బ్లూటూత్ LEకి మద్దతు ఇవ్వదు</value>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Connect" xml:space="preserve">
+    <value>{0} నుండి ప్రసారం</value>
+    <comment>{0} will be replaced to streaming device name.</comment>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_NoiseCancellation" xml:space="preserve">
+    <value>నాయిస్ రద్దు</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
+    <value>ఆఫ్</value>
+  </data>
+  <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
+    <value>ఛార్జ్ స్థాయిని ప్రదర్శించడానికి హెడ్‌ఫోన్‌లను కనెక్ట్ చేయండి</value>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Disconnect" xml:space="preserve">
+    <value>{0} నుండి ప్రసారాన్ని ఆపివేయి</value>
+    <comment>{0} will be replaced to streaming device name.</comment>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
+    <value>పారదర్శకత</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_WindCancellation" xml:space="preserve">
+    <value>గాలి రద్దు</value>
+  </data>
+  <data name="Text_Widget_Battery_Left" xml:space="preserve">
+    <value>ఎడమ</value>
+  </data>
+  <data name="Text_Widget_Battery_Single" xml:space="preserve">
+    <value>ఛార్జ్</value>
+  </data>
 </root>
