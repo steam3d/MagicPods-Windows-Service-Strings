@@ -172,4 +172,7 @@
   <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
     <value>Підключіть навушники, щоб відобразити рівень заряду</value>
   </data>
+  <data name="Text_ContextMenu_NoiseCancellation_WindCancellation" xml:space="preserve">
+    <value>Подавлення шуму вітру</value>
+  </data>
 </root>
