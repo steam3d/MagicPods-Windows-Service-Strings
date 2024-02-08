@@ -225,4 +225,13 @@
   <data name="Text_Widget_Battery_Single" xml:space="preserve">
     <value>Opladen</value>
   </data>
+  <data name="Text_Widget_Battery_Left" xml:space="preserve">
+    <value>Links</value>
+  </data>
+  <data name="Text_Widget_Battery_Right" xml:space="preserve">
+    <value>Rechts</value>
+  </data>
+  <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
+    <value>Verbind de koptelefoon om het batterij percentage te zien</value>
+  </data>
 </root>
