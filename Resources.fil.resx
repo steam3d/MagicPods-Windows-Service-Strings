@@ -102,4 +102,77 @@
   <data name="Text_Widget_Battery_Single" xml:space="preserve">
     <value>Charging</value>
   </data>
+  <data name="Text_Icon_Error" xml:space="preserve">
+    <value>Hindi sinusuportahan ang Bluetooth</value>
+  </data>
+  <data name="Text_Settings" xml:space="preserve">
+    <value>Settings</value>
+  </data>
+  <data name="Text_Battery_Single" xml:space="preserve">
+    <value>Charge {0}% {1}</value>
+    <comment>{0} will be replaced to battery level, {1} to charge status.</comment>
+  </data>
+  <data name="Text_Battery_Error" xml:space="preserve">
+    <value>Nabigong mabago ang charge ng baterya</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Connect" xml:space="preserve">
+    <value>I-konekta ang {0}</value>
+    <comment>{0} will be replaced to AirPods name. I recommend using an abbreviation so that the name of the headphones can be seen.</comment>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Disconnect" xml:space="preserve">
+    <value>I-disconnect ang {0}</value>
+    <comment>{0} will be replaced to AirPods name. I recommend using an abbreviation so that the name of the headphones can be seen</comment>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
+    <value>Voiceover</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver_Enabled" xml:space="preserve">
+    <value>On</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Disconnecting" xml:space="preserve">
+    <value>Nagdi-disconnect sa {0}</value>
+    <comment>{0} will be replaced to AirPods name. The headphones are disconnecting right now</comment>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_Classic" xml:space="preserve">
+    <value>Ang adapter ng Bluetooth ay di sinusoportahan ang Bluetooth Classic</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_LE" xml:space="preserve">
+    <value>Ang adapter ng Bluetooth ay di sinusoportahan ang Bluetooth LE</value>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Connect" xml:space="preserve">
+    <value>Mag-stream galing sa {0}</value>
+    <comment>{0} will be replaced to streaming device name.</comment>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Disconnect" xml:space="preserve">
+    <value>Itigil ang pag-stream galing sa {0}</value>
+    <comment>{0} will be replaced to streaming device name.</comment>
+  </data>
+  <data name="Text_Icon_Connected" xml:space="preserve">
+    <value>Connected sa {0}</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_NoiseCancellation" xml:space="preserve">
+    <value>Pagkansela ng ingay</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
+    <value>Pagrinig ng paligid</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Connecting" xml:space="preserve">
+    <value>Kumokonekta sa {0}</value>
+    <comment>{0} will be replaced to AirPods name. The headphones are connecting right now</comment>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_AmbientSound" xml:space="preserve">
+    <value>Tunog ng paligid</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_WindCancellation" xml:space="preserve">
+    <value>Pagkansela ng ingay ng hangin</value>
+  </data>
+  <data name="Text_Widget_Battery_Left" xml:space="preserve">
+    <value>Kaliwa</value>
+  </data>
+  <data name="Text_Widget_Battery_Right" xml:space="preserve">
+    <value>Kanan</value>
+  </data>
+  <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
+    <value>I-konek ang headphones para makita ang charge ng baterya</value>
+  </data>
 </root>
