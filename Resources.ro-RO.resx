@@ -166,4 +166,13 @@
   <data name="Text_Widget_Battery_Single" xml:space="preserve">
     <value>Încărcat</value>
   </data>
+  <data name="Text_Widget_Battery_Left" xml:space="preserve">
+    <value>Stânga</value>
+  </data>
+  <data name="Text_Widget_Battery_Right" xml:space="preserve">
+    <value>Dreapta</value>
+  </data>
+  <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
+    <value>Conectați căștile pentru a afișa nivelul bateriei</value>
+  </data>
 </root>
