@@ -232,6 +232,6 @@
     <value>Rechts</value>
   </data>
   <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
-    <value>Verbind de koptelefoon om het batterij percentage te zien</value>
+    <value>Verbindt koptelefoon om het laadniveau te weergeven</value>
   </data>
 </root>
