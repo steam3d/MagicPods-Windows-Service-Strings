@@ -166,4 +166,13 @@
   <data name="Text_Widget_Battery_Case" xml:space="preserve">
     <value>Caixa</value>
   </data>
+  <data name="Text_Widget_Battery_Left" xml:space="preserve">
+    <value>Esquerdo</value>
+  </data>
+  <data name="Text_Widget_Battery_Right" xml:space="preserve">
+    <value>Direito</value>
+  </data>
+  <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
+    <value>Ligar os auriculares para mostrar o nível de carga</value>
+  </data>
 </root>
