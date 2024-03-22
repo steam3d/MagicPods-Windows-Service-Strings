@@ -219,4 +219,19 @@
   <data name="Text_Widget_Battery_Single" xml:space="preserve">
     <value>Carga</value>
   </data>
+  <data name="Text_ContextMenu_NoiseCancellation_WindCancellation" xml:space="preserve">
+    <value>Cancelamento de vento</value>
+  </data>
+  <data name="Text_Widget_Battery_Left" xml:space="preserve">
+    <value>Esquerda</value>
+  </data>
+  <data name="Text_Widget_Battery_Right" xml:space="preserve">
+    <value>Direita</value>
+  </data>
+  <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
+    <value>Conecte os fones de ouvido para exibir o nível da bateria</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_AmbientSound" xml:space="preserve">
+    <value>Som ambiente</value>
+  </data>
 </root>
