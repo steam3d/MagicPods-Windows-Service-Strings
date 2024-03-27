@@ -81,7 +81,7 @@
     <comment>{0} will be replaced to battery level, {1} to charge status.</comment>
   </data>
   <data name="Text_Battery_Error" xml:space="preserve">
-    <value>فشل تحديث وضح الشاحن</value>
+    <value>فشل تحديث شحن البطارية</value>
   </data>
   <data name="Text_ContextMenu_Headphones_Connect" xml:space="preserve">
     <value>ربط {0}</value>
@@ -119,7 +119,7 @@
     <comment>Abbreviation of the word «Left»</comment>
   </data>
   <data name="Battery_Short_Right" xml:space="preserve">
-    <value>يمين</value>
+    <value>الأيمن</value>
     <comment>Abbreviation of the word «Right»</comment>
   </data>
   <data name="Text_Icon_Bluetooth_Not_Found" xml:space="preserve">
@@ -155,7 +155,7 @@
     <value>الشفافية</value>
   </data>
   <data name="Text_Widget_Battery_Single" xml:space="preserve">
-    <value>شحن</value>
+    <value>مستوى البطارية</value>
   </data>
   <data name="Text_Widget_Battery_Case" xml:space="preserve">
     <value>الحافظة</value>
