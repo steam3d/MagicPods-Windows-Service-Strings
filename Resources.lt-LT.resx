@@ -166,4 +166,13 @@
   <data name="Text_Widget_Battery_Single" xml:space="preserve">
     <value>Įkrovimo lygis</value>
   </data>
+  <data name="Text_Widget_Battery_Left" xml:space="preserve">
+    <value>Kairė</value>
+  </data>
+  <data name="Text_Widget_Battery_Right" xml:space="preserve">
+    <value>Dešinė</value>
+  </data>
+  <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
+    <value>Prijunkite ausines, kad būtų rodomas įkrovimo lygis</value>
+  </data>
 </root>
