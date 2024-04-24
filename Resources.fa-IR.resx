@@ -166,4 +166,13 @@
   <data name="Text_Widget_Battery_Single" xml:space="preserve">
     <value>شارژ</value>
   </data>
+  <data name="Text_Widget_Battery_Left" xml:space="preserve">
+    <value>ویجت نمایش باطری_سمت چپ</value>
+  </data>
+  <data name="Text_Widget_Battery_Right" xml:space="preserve">
+    <value>ویجت نمایش باطری_سمت راست</value>
+  </data>
+  <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
+    <value>برای نمایش درصد شارژ هدفون ها را متصل کنید</value>
+  </data>
 </root>
