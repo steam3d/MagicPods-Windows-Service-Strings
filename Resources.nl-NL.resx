@@ -130,20 +130,20 @@
     <value>Instellingen</value>
   </data>
   <data name="Text_Button_Connect" xml:space="preserve">
-    <value>Verbind</value>
+    <value>Verbinden</value>
   </data>
   <data name="Text_Icon_Search" xml:space="preserve">
-    <value>Aan het zoeken naar AirPods</value>
+    <value>Bezig met zoeken naar AirPods</value>
   </data>
   <data name="Text_Battery_Single" xml:space="preserve">
-    <value>Opladen {0}% {1}</value>
+    <value>Batterijpercentage {0}% {1}</value>
     <comment>{0} will be replaced to battery level, {1} to charge status.</comment>
   </data>
   <data name="Text_Battery_Error" xml:space="preserve">
-    <value>Kan de batterij niveau niet updaten</value>
+    <value>Kan het batterijpercentage niet updaten</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
-    <value>Voice Over</value>
+    <value>VoiceOver</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver_Enabled" xml:space="preserve">
     <value>Aan</value>
@@ -152,11 +152,11 @@
     <value>Uit</value>
   </data>
   <data name="Text_ContextMenu_Headphones_Connect" xml:space="preserve">
-    <value>Verbind {0}</value>
+    <value>{0} verbinden</value>
     <comment>{0} will be replaced to AirPods name</comment>
   </data>
   <data name="Text_ContextMenu_Headphones_Disconnect" xml:space="preserve">
-    <value>Verbinding verbreken {0}</value>
+    <value>{0} verbinding verbreken</value>
     <comment>{0} will be replaced to AirPods name</comment>
   </data>
   <data name="Battery_Short_Left" xml:space="preserve">
@@ -168,41 +168,41 @@
     <comment>Abbreviation of the word «Right»</comment>
   </data>
   <data name="Text_ContextMenu_Headphones_Disconnecting" xml:space="preserve">
-    <value>Loskoppelen {0}</value>
+    <value>Bezig met {0} verbinding verbreken</value>
     <comment>{0} will be replaced to AirPods name. The headphones are disconnecting right now</comment>
   </data>
   <data name="Text_ContextMenu_Headphones_Connecting" xml:space="preserve">
-    <value>Verbinden {0}</value>
+    <value>Bezig met {0} verbinden</value>
     <comment>{0} will be replaced to AirPods name. The headphones are connecting right now</comment>
   </data>
   <data name="Text_Icon_Bluetooth_Off" xml:space="preserve">
     <value>Bluetooth uit</value>
   </data>
   <data name="Text_Icon_Bluetooth_Initialization_Error" xml:space="preserve">
-    <value>Bluetooth-adapter initialisatie error</value>
+    <value>Bluetooth-adapter initialisatiefout</value>
   </data>
   <data name="Text_Icon_Bluetooth_Multiple_Adapters_Found" xml:space="preserve">
     <value>Meerdere Bluetooth-adapters verbonden</value>
   </data>
   <data name="Text_Icon_Bluetooth_Not_Supported_LE" xml:space="preserve">
-    <value>Bluetooth-adapter ontbreekt ondersteuning voor Bluetooth LE</value>
+    <value>Bluetooth-adapter ondersteunt Bluetooth LE niet</value>
   </data>
   <data name="Text_Icon_Bluetooth_Not_Supported_Classic" xml:space="preserve">
     <value>Bluetooth-adapter ondersteunt Bluetooth Classic niet</value>
   </data>
   <data name="Text_Icon_Bluetooth_Not_Found" xml:space="preserve">
-    <value>Kan geen Bluetooth-adapter vinden</value>
+    <value>Bluetooth-adapter niet gevonden</value>
   </data>
   <data name="Text_ContextMenu_StreamingDevice_Connect" xml:space="preserve">
     <value>Streamen vanaf {0}</value>
     <comment>{0} will be replaced to streaming device name.</comment>
   </data>
   <data name="Text_ContextMenu_StreamingDevice_Disconnect" xml:space="preserve">
-    <value>Stop met streamen vanaf {0}</value>
+    <value>Stop streamen vanaf {0}</value>
     <comment>0} will be replaced to streaming device name.</comment>
   </data>
   <data name="Text_Icon_Connected" xml:space="preserve">
-    <value>Verbonden {0}</value>
+    <value>{0} verbonden</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
     <value>Uit</value>
@@ -214,7 +214,7 @@
     <value>Wind onderdrukking</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_AmbientSound" xml:space="preserve">
-    <value>Transparantie</value>
+    <value>Omgevingsgeluid</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
     <value>Transparantie</value>
@@ -223,7 +223,7 @@
     <value>Doosje</value>
   </data>
   <data name="Text_Widget_Battery_Single" xml:space="preserve">
-    <value>Opladen</value>
+    <value>Batterijpercentage</value>
   </data>
   <data name="Text_Widget_Battery_Left" xml:space="preserve">
     <value>Links</value>
@@ -232,6 +232,6 @@
     <value>Rechts</value>
   </data>
   <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
-    <value>Verbindt koptelefoon om het laadniveau te weergeven</value>
+    <value>Verbindt koptelefoon om het batterijpercentage weer te geven</value>
   </data>
 </root>
