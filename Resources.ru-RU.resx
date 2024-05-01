@@ -231,4 +231,7 @@
   <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
     <value>Подключите наушники для отображения уровня заряда</value>
   </data>
+  <data name="Text_License_LicenseNotFound" xml:space="preserve">
+    <value>Лицензия не найдена. Откройте {0} для подробностей</value>
+  </data>
 </root>

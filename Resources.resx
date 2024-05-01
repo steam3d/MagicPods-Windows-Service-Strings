@@ -234,4 +234,8 @@
   <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
     <value>Connect headphones to display the charge level</value>
   </data>
+  <data name="Text_License_LicenseNotFound" xml:space="preserve">
+    <value>License not found. Open {0} for details</value>
+    <comment>{0} will be replaced to app name.</comment>
+  </data>
 </root>
