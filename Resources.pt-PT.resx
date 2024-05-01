@@ -175,4 +175,8 @@
   <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
     <value>Ligar os auriculares para mostrar o nível de carga</value>
   </data>
+  <data name="Text_License_LicenseNotFound" xml:space="preserve">
+    <value>Licença não encontrada. Abra {0} para saber mais</value>
+    <comment>{0} will be replaced to app name.</comment>
+  </data>
 </root>
