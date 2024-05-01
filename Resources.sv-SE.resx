@@ -160,4 +160,10 @@
   <data name="Text_Widget_Battery_Single" xml:space="preserve">
     <value>Laddning</value>
   </data>
+  <data name="Text_ContextMenu_NoiseCancellation_AmbientSound" xml:space="preserve">
+    <value>Bakgrundsljud</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_WindCancellation" xml:space="preserve">
+    <value>vindreduktion</value>
+  </data>
 </root>
