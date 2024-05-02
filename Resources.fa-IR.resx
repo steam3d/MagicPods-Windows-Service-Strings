@@ -175,4 +175,8 @@
   <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
     <value>برای نمایش درصد شارژ هدفون ها را متصل کنید</value>
   </data>
+  <data name="Text_License_LicenseNotFound" xml:space="preserve">
+    <value>لایسنس برنامه یافت نشد. برای اطلاعت بیشتر، بخش {0} را بازکنید</value>
+    <comment>{0} will be replaced to app name.</comment>
+  </data>
 </root>
