@@ -175,4 +175,8 @@
   <data name="Text_ContextMenu_NoiseCancellation_WindCancellation" xml:space="preserve">
     <value>عزل الرياح</value>
   </data>
+  <data name="Text_License_LicenseNotFound" xml:space="preserve">
+    <value>لم يتم العثور على الترخيص. افتح {0} للحصول على التفاصيل</value>
+    <comment>{0} will be replaced to app name.</comment>
+  </data>
 </root>
