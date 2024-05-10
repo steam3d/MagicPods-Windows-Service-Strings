@@ -234,4 +234,8 @@
   <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
     <value>連接耳機以顯示電量</value>
   </data>
+  <data name="Text_License_LicenseNotFound" xml:space="preserve">
+    <value>未找到認證。請打開{0}獲取更多</value>
+    <comment>{0} will be replaced to app name.</comment>
+  </data>
 </root>
