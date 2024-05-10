@@ -234,4 +234,8 @@
   <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
     <value>连接耳机以显示充电情况</value>
   </data>
+  <data name="Text_License_LicenseNotFound" xml:space="preserve">
+    <value>未找到许可证。请打开{0}获取更多</value>
+    <comment>{0} will be replaced to app name.</comment>
+  </data>
 </root>
