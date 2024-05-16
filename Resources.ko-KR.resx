@@ -219,4 +219,23 @@
   <data name="Text_Widget_Battery_Single" xml:space="preserve">
     <value>잔량</value>
   </data>
+  <data name="Text_ContextMenu_NoiseCancellation_AmbientSound" xml:space="preserve">
+    <value>주변음</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_WindCancellation" xml:space="preserve">
+    <value>바람 차단</value>
+  </data>
+  <data name="Text_Widget_Battery_Left" xml:space="preserve">
+    <value>왼쪽</value>
+  </data>
+  <data name="Text_Widget_Battery_Right" xml:space="preserve">
+    <value>오른쪽</value>
+  </data>
+  <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
+    <value>충전 상태를 보기 위해 헤드폰 연결하기</value>
+  </data>
+  <data name="Text_License_LicenseNotFound" xml:space="preserve">
+    <value>라이센스를 찾지 못했습니다. {0}를 열어 자세히 확인하기</value>
+    <comment>{0} will be replaced to app name.</comment>
+  </data>
 </root>
