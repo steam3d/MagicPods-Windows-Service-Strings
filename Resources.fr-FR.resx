@@ -234,4 +234,8 @@
   <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
     <value>Brancher les écouteurs pour afficher le niveau de charge</value>
   </data>
+  <data name="Text_License_LicenseNotFound" xml:space="preserve">
+    <value>Licence non trouvé. Ouvrez {0} pour plus de détails</value>
+    <comment>{0} will be replaced to app name.</comment>
+  </data>
 </root>
