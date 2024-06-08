@@ -234,4 +234,7 @@
   <data name="Text_License_LicenseNotFound" xml:space="preserve">
     <value>Лицензия не найдена. Откройте {0} для подробностей</value>
   </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Adaptive" xml:space="preserve">
+    <value>Адаптивно</value>
+  </data>
 </root>
