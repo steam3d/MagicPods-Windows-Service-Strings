@@ -234,4 +234,8 @@
   <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
     <value>Şarj seviyesini görüntülemek için kulaklıkları bağlayın</value>
   </data>
+  <data name="Text_License_LicenseNotFound" xml:space="preserve">
+    <value>Lisans bulunamadı. Ayrıntılar için {0}'ı açın</value>
+    <comment>{0} will be replaced to app name.</comment>
+  </data>
 </root>
