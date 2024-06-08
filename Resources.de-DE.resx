@@ -234,4 +234,8 @@
   <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
     <value>Um den Batteriestand anzuzeigen, müssen die Kopfhörer verbunden werden</value>
   </data>
+  <data name="Text_License_LicenseNotFound" xml:space="preserve">
+    <value>Lizenz wurde nicht gefunden. Öffne {0} für weitere Details</value>
+    <comment>{0} will be replaced to app name.</comment>
+  </data>
 </root>
