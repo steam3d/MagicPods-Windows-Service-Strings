@@ -238,4 +238,7 @@
     <value>未找到認證。請打開{0}獲取更多</value>
     <comment>{0} will be replaced to app name.</comment>
   </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Adaptive" xml:space="preserve">
+    <value>適應性模式</value>
+  </data>
 </root>
