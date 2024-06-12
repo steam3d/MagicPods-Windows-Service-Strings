@@ -238,4 +238,7 @@
     <value>未找到许可证。请打开{0}获取更多</value>
     <comment>{0} will be replaced to app name.</comment>
   </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Adaptive" xml:space="preserve">
+    <value>适应性模式</value>
+  </data>
 </root>
