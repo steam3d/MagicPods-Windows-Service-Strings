@@ -234,4 +234,11 @@
   <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
     <value>Verbindt koptelefoon om het batterijpercentage weer te geven</value>
   </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Adaptive" xml:space="preserve">
+    <value>Adaptief</value>
+  </data>
+  <data name="Text_License_LicenseNotFound" xml:space="preserve">
+    <value>Licentie niet gevonden. Open {0} voor meer informatie</value>
+    <comment>{0} will be replaced to app name.</comment>
+  </data>
 </root>
