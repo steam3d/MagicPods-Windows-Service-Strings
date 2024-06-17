@@ -152,7 +152,7 @@
     <value>Шумопотискане</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
-    <value>Шумопропускане</value>
+    <value>Прозрачност</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_AmbientSound" xml:space="preserve">
     <value>Околен звук</value>
