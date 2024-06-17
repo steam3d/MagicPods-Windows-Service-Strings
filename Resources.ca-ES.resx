@@ -110,7 +110,7 @@
     <value>Narració</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
-    <value>Desactivat</value>
+    <value>Apagat</value>
   </data>
   <data name="Text_ContextMenu_Headphones_Disconnecting" xml:space="preserve">
     <value>Desconectant {0}</value>
@@ -141,7 +141,7 @@
     <value>Transparència</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
-    <value>Desactivat</value>
+    <value>Apagat</value>
   </data>
   <data name="Text_ContextMenu_StreamingDevice_Connect" xml:space="preserve">
     <value>Transmet del de {0}</value>
