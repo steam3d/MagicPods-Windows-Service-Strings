@@ -84,7 +84,7 @@
     <value>Įjungtas</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
-    <value>Neaktyvus</value>
+    <value>Išjunk</value>
   </data>
   <data name="Text_ContextMenu_Headphones_Connecting" xml:space="preserve">
     <value>Jungiamasi prie {0}</value>
@@ -146,7 +146,7 @@
     <comment>{0} will be replaced to streaming device name.</comment>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
-    <value>Neaktyvuotas</value>
+    <value>Išjunk</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
     <value>Skaidrumas</value>
