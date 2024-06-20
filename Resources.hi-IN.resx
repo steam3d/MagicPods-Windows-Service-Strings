@@ -166,4 +166,20 @@
   <data name="Text_Widget_Battery_Case" xml:space="preserve">
     <value>केस</value>
   </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Adaptive" xml:space="preserve">
+    <value>अनुकूलक</value>
+  </data>
+  <data name="Text_Widget_Battery_Left" xml:space="preserve">
+    <value>बाएं</value>
+  </data>
+  <data name="Text_Widget_Battery_Right" xml:space="preserve">
+    <value>दाएं</value>
+  </data>
+  <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
+    <value>चार्ज स्तर प्रदर्शित करने के लिए हेडफ़ोन कनेक्ट करें</value>
+  </data>
+  <data name="Text_License_LicenseNotFound" xml:space="preserve">
+    <value>लाइसेंस नहीं मिला. विवरण के लिए {0} खोलें</value>
+    <comment>{0} will be replaced to app name.</comment>
+  </data>
 </root>
