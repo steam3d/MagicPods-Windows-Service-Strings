@@ -238,4 +238,7 @@
     <value>Lisans bulunamadı. Ayrıntılar için {0}'ı açın</value>
     <comment>{0} will be replaced to app name.</comment>
   </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Adaptive" xml:space="preserve">
+    <value>Adaptif</value>
+  </data>
 </root>
