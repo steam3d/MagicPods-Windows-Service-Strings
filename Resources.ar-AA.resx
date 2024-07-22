@@ -164,7 +164,7 @@
     <value>الأيسر</value>
   </data>
   <data name="Text_Widget_Battery_Right" xml:space="preserve">
-    <value>الأيمن</value>
+    <value>اليمنى</value>
   </data>
   <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
     <value>قم بتوصيل سماعات الرأس لعرض مستوى شحن البطارية</value>
@@ -178,5 +178,8 @@
   <data name="Text_License_LicenseNotFound" xml:space="preserve">
     <value>لم يتم العثور على الترخيص. افتح {0} للحصول على التفاصيل</value>
     <comment>{0} will be replaced to app name.</comment>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Adaptive" xml:space="preserve">
+    <value>تكيفي</value>
   </data>
 </root>
