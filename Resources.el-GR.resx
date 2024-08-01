@@ -146,16 +146,16 @@
     <value>Συνδεδεμένο {0}</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
-    <value>Σβήνω</value>
+    <value>Ανενεργό</value>
   </data>
   <data name="Text_Widget_Battery_Case" xml:space="preserve">
     <value>Θήκη</value>
   </data>
   <data name="Text_Widget_Battery_Single" xml:space="preserve">
-    <value>Φώρτηση</value>
+    <value>Φόρτιση</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
-    <value>Λειτουργία Διαφάνειας</value>
+    <value>Διαφάνεια</value>
   </data>
   <data name="Text_Widget_Battery_Left" xml:space="preserve">
     <value>Αριστερό</value>
@@ -167,9 +167,19 @@
     <value>Λειτουργία Κατάργησης Θορύβου</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_WindCancellation" xml:space="preserve">
-    <value>Μείωση θορύβου ανέμου</value>
+    <value>Ακύρωση θορύβου ανέμου</value>
   </data>
   <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
     <value>Συνδέστε τα ακουστικά για να εμφανίσετε το επίπεδο φόρτισης</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_AmbientSound" xml:space="preserve">
+    <value>Περιβάλλων ήχος</value>
+  </data>
+  <data name="Text_License_LicenseNotFound" xml:space="preserve">
+    <value>Η άδεια χρήσης δεν βρέθηκε. Παρακαλώ ανοίξτε {0} για πληροφορίες</value>
+    <comment>{0} will be replaced to app name.</comment>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Adaptive" xml:space="preserve">
+    <value>Προσαρμοστικό</value>
   </data>
 </root>
