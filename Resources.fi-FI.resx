@@ -175,4 +175,11 @@
   <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
     <value>Yhdistä kuulokkeet nähdäksesi lataustason</value>
   </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Adaptive" xml:space="preserve">
+    <value>Mukautuva</value>
+  </data>
+  <data name="Text_License_LicenseNotFound" xml:space="preserve">
+    <value>Lisenssiä ei löydy. Avaa {0} saadaksesi lisätietoja</value>
+    <comment>{0} will be replaced to app name.</comment>
+  </data>
 </root>
