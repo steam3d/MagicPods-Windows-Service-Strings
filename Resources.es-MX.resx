@@ -238,4 +238,7 @@
     <value>No se encontró la licencia . Abre {0} para los detalles</value>
     <comment>{0} will be replaced to app name.</comment>
   </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Adaptive" xml:space="preserve">
+    <value>Adaptativo</value>
+  </data>
 </root>
