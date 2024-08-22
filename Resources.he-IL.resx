@@ -176,10 +176,10 @@
     <value>ימין</value>
   </data>
   <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
-    <value>ניתן לראות את  מצב הטעינה לאחר חיבור אוזניות</value>
+    <value>ניתן לראות את מצב הטעינה לאחר חיבור אוזניות</value>
   </data>
   <data name="Text_License_LicenseNotFound" xml:space="preserve">
-    <value>שמאל</value>
+    <value>הרישיון לא נמצא. פתח את {0} לפרטים</value>
     <comment>{0} will be replaced to app name.</comment>
   </data>
 </root>
