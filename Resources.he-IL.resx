@@ -176,7 +176,7 @@
     <value>ימין</value>
   </data>
   <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
-    <value>לא נמצאו אוזניותמחוברות כדי להציג את המצב הטעינה</value>
+    <value>ניתן לראות את  מצב הטעינה לאחר חיבור אוזניות</value>
   </data>
   <data name="Text_License_LicenseNotFound" xml:space="preserve">
     <value>שמאל</value>
