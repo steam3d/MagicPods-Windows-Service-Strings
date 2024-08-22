@@ -175,4 +175,7 @@
   <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
     <value>Свържете слушалки за да се покаже нивото на заряд</value>
   </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Adaptive" xml:space="preserve">
+    <value>Адаптивен</value>
+  </data>
 </root>
