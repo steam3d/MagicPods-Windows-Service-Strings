@@ -175,4 +175,11 @@
   <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
     <value>Připojte sluchátka pro zobrazení úrovně nabití</value>
   </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Adaptive" xml:space="preserve">
+    <value>Adapace</value>
+  </data>
+  <data name="Text_License_LicenseNotFound" xml:space="preserve">
+    <value>Licence nebyla nalezena. Otevřít {0} pro více detailů</value>
+    <comment>{0} will be replaced to app name.</comment>
+  </data>
 </root>
