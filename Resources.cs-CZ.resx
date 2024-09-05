@@ -81,7 +81,7 @@
     <comment>{0} will be replaced to battery level, {1} to charge status.</comment>
   </data>
   <data name="Text_Battery_Error" xml:space="preserve">
-    <value>Selhala aktualizace hodnoty baterie</value>
+    <value>Selhala aktualizace stavu baterie</value>
   </data>
   <data name="Text_ContextMenu_Headphones_Connect" xml:space="preserve">
     <value>Připojit k {0}</value>
@@ -92,7 +92,7 @@
     <comment>{0} will be replaced to AirPods name</comment>
   </data>
   <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
-    <value>Komentování</value>
+    <value>VoiceOver</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver_Enabled" xml:space="preserve">
     <value>Zapnuto</value>
@@ -120,19 +120,19 @@
     <value>Bluetooth adaptér nenalezen</value>
   </data>
   <data name="Text_Icon_Bluetooth_Multiple_Adapters_Found" xml:space="preserve">
-    <value>Je připojen více než 1 Bluetooth adaptér</value>
+    <value>Je připojeno více Bluetooth adaptérů</value>
   </data>
   <data name="Text_Icon_Bluetooth_Not_Supported_LE" xml:space="preserve">
     <value>Bluetooth adaptér nepodporuje Bluetooth LE</value>
   </data>
   <data name="Text_Icon_Bluetooth_Off" xml:space="preserve">
-    <value>Bluetooth je vypnuto</value>
+    <value>Bluetooth je vypnutý</value>
   </data>
   <data name="Text_Icon_Bluetooth_Not_Supported_Classic" xml:space="preserve">
     <value>Bluetooth adaptér nepodporuje Bluetooth Classic</value>
   </data>
   <data name="Text_Icon_Bluetooth_Initialization_Error" xml:space="preserve">
-    <value>Chyba inicializace adaptéru Bluetooth</value>
+    <value>Chyba inicializace Bluetooth adaptéru</value>
   </data>
   <data name="Text_ContextMenu_StreamingDevice_Connect" xml:space="preserve">
     <value>Přehrávat z {0}</value>
@@ -152,7 +152,7 @@
     <value>Pouzdro</value>
   </data>
   <data name="Text_Widget_Battery_Single" xml:space="preserve">
-    <value>Nabito</value>
+    <value>Nabití</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_NoiseCancellation" xml:space="preserve">
     <value>Potlačení hluku</value>
@@ -161,10 +161,10 @@
     <value>Transparentní režim</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_AmbientSound" xml:space="preserve">
-    <value>Okolní zvuk</value>
+    <value>Režim propustnosti</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_WindCancellation" xml:space="preserve">
-    <value>Zrušení větru</value>
+    <value>Potlačení větru</value>
   </data>
   <data name="Text_Widget_Battery_Left" xml:space="preserve">
     <value>Levé</value>
@@ -176,10 +176,10 @@
     <value>Připojte sluchátka pro zobrazení úrovně nabití</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_Adaptive" xml:space="preserve">
-    <value>Adapace</value>
+    <value>Adaptivní režim</value>
   </data>
   <data name="Text_License_LicenseNotFound" xml:space="preserve">
-    <value>Licence nebyla nalezena. Otevřít {0} pro více detailů</value>
+    <value>Licence nebyla nalezena. Otevřete {0} pro více detailů</value>
     <comment>{0} will be replaced to app name.</comment>
   </data>
 </root>
