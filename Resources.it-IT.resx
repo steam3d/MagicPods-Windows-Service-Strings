@@ -98,7 +98,7 @@
     <value>Acceso</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
-    <value>VoiceOver</value>
+    <value>VoiceOver utility</value>
   </data>
   <data name="Text_ContextMenu_Headphones_Connect" xml:space="preserve">
     <value>Connetti a {0}</value>
@@ -178,5 +178,8 @@
   <data name="Text_License_LicenseNotFound" xml:space="preserve">
     <value>Licenza non trovata. Apri {0} per maggiori dettagli</value>
     <comment>{0} will be replaced to app name.</comment>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Adaptive" xml:space="preserve">
+    <value>Adattivo</value>
   </data>
 </root>
