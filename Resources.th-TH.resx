@@ -175,4 +175,11 @@
   <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
     <value>เชื่อมต่อหูฟังเพื่อแสดงระดับการชาร์จ</value>
   </data>
+  <data name="Text_License_LicenseNotFound" xml:space="preserve">
+    <value>ไม่พบสิทธิ์ในการใช้งาน ดูข้อมูลเพิ่มเติมใน {0}</value>
+    <comment>{0} will be replaced to app name.</comment>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Adaptive" xml:space="preserve">
+    <value>ผสมผสาน</value>
+  </data>
 </root>
