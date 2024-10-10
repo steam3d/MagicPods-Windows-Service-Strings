@@ -71,17 +71,17 @@
     <value>האוזניות מנותקים</value>
   </data>
   <data name="Text_Icon_Error" xml:space="preserve">
-    <value>Bluetooth אינו נתמך או זמין</value>
+    <value>בלוטוס איננו זמין</value>
   </data>
   <data name="Text_Battery_Single" xml:space="preserve">
-    <value>‪תשלום {0}% {1}</value>
+    <value>‪טעינה {0}% {1}</value>
     <comment>{0} will be replaced to battery level, {1} to charge status.</comment>
   </data>
   <data name="Text_Battery_Error" xml:space="preserve">
     <value>עדכון טעינת הסוללה נכשלה</value>
   </data>
   <data name="Text_Icon_Search" xml:space="preserve">
-    <value>חיפוש airpods</value>
+    <value>מחפש אירפודס</value>
   </data>
   <data name="Battery_Short_Right" xml:space="preserve">
     <value>ימין</value>
