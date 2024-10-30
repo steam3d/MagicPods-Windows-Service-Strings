@@ -176,7 +176,7 @@
     <comment>{0} will be replaced to AirPods name. The headphones are disconnecting right now</comment>
   </data>
   <data name="Text_Icon_Bluetooth_Not_Found" xml:space="preserve">
-    <value>找不到藍芽接收器</value>
+    <value>找不到藍牙接收器</value>
   </data>
   <data name="Text_Icon_Bluetooth_Multiple_Adapters_Found" xml:space="preserve">
     <value>多個藍牙接收器已連接</value>
@@ -185,7 +185,7 @@
     <value>藍牙已關閉</value>
   </data>
   <data name="Text_Icon_Bluetooth_Initialization_Error" xml:space="preserve">
-    <value>初始化藍芽接收器時發生錯誤</value>
+    <value>初始化藍牙接收器時發生錯誤</value>
   </data>
   <data name="Text_Icon_Bluetooth_Not_Supported_LE" xml:space="preserve">
     <value>此藍牙接收器不支援低功耗藍牙技術</value>
