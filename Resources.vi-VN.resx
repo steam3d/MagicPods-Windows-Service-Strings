@@ -118,10 +118,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Text_Icon_Default" xml:space="preserve">
-    <value>Ngắt kết nối tai nghe</value>
+    <value>Tai nghe đã ngắt kết nối</value>
   </data>
   <data name="Text_Icon_Error" xml:space="preserve">
-    <value>Bluetooth không được hỗ trợ hoặc không sẵn sàng</value>
+    <value>Bluetooth không được hỗ trợ hoặc không có sẵn</value>
   </data>
   <data name="Text_Settings" xml:space="preserve">
     <value>Cài đặt</value>
@@ -168,7 +168,7 @@
     <comment>Abbreviation of the word «Right»</comment>
   </data>
   <data name="Text_ContextMenu_Headphones_Connecting" xml:space="preserve">
-    <value>Đang kết nối ... {0}</value>
+    <value>Đang kết nối {0}</value>
     <comment>{0} will be replaced to AirPods name. The headphones are connecting right now</comment>
   </data>
   <data name="Text_ContextMenu_Headphones_Disconnecting" xml:space="preserve">
@@ -179,7 +179,7 @@
     <value>Không tìm thấy trình điều khiển Bluetooth</value>
   </data>
   <data name="Text_Icon_Bluetooth_Multiple_Adapters_Found" xml:space="preserve">
-    <value>PC này có nhiều trình điều khiển Bluetooth</value>
+    <value>Trình điều khiển đa Bluetooth đã kết nối</value>
   </data>
   <data name="Text_Icon_Bluetooth_Not_Supported_Classic" xml:space="preserve">
     <value>Trình điều khiển Bluetooth không hỗ trợ Bluetooth Classic</value>
@@ -233,5 +233,11 @@
   </data>
   <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
     <value>Kết nối tai nghe để hiện mức pin</value>
+  </data>
+  <data name="Text_License_LicenseNotFound" xml:space="preserve">
+    <value>Không tìm thấy giấy phép bản quyền. Mở {0} để biết chi tiết</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Adaptive" xml:space="preserve">
+    <value>Thích ứng</value>
   </data>
 </root>
