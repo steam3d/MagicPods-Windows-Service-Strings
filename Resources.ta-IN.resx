@@ -77,11 +77,11 @@
     <value>அமுக்கு</value>
   </data>
   <data name="Battery_Short_Left" xml:space="preserve">
-    <value>இடது</value>
+    <value>விட்டு</value>
     <comment>Abbreviation of the word «Left»</comment>
   </data>
   <data name="Battery_Short_Right" xml:space="preserve">
-    <value>வலது</value>
+    <value>சரி</value>
     <comment>Abbreviation of the word «Right»</comment>
   </data>
   <data name="Text_Exit" xml:space="preserve">
@@ -115,5 +115,65 @@
   <data name="Text_ContextMenu_Headphones_Disconnecting" xml:space="preserve">
     <value>துண்டிக்கிறது {0}</value>
     <comment>{0} will be replaced to AirPods name. The headphones are disconnecting right now</comment>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
+    <value>வெளிப்படைத்தன்மை</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Multiple_Adapters_Found" xml:space="preserve">
+    <value>பல புளூடூத் அடாப்டர்கள் இணைக்கப்பட்டுள்ளன</value>
+  </data>
+  <data name="Text_Widget_Battery_Single" xml:space="preserve">
+    <value>பொறுப்பாணை</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_LE" xml:space="preserve">
+    <value>புளூடூத் அடாப்டர் புளூடூத் LE ஐ ஆதரிக்காது</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Off" xml:space="preserve">
+    <value>புளூடூத் ஆஃப்</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Initialization_Error" xml:space="preserve">
+    <value>புளூடூத் அடாப்டர் துவக்க பிழை</value>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Disconnect" xml:space="preserve">
+    <value>{0} இலிருந்து ஸ்ட்ரீமிங்கை நிறுத்து</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_NoiseCancellation" xml:space="preserve">
+    <value>சத்தம் ரத்து</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
+    <value>ஆஃப்</value>
+  </data>
+  <data name="Text_Widget_Battery_Left" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_Classic" xml:space="preserve">
+    <value>புளூடூத் அடாப்டர் புளூடூத் கிளாசிக்கை ஆதரிக்காது</value>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Connect" xml:space="preserve">
+    <value>{0} இலிருந்து ஸ்ட்ரீம்</value>
+  </data>
+  <data name="Text_Widget_Battery_Case" xml:space="preserve">
+    <value>வழக்கு</value>
+  </data>
+  <data name="Text_License_LicenseNotFound" xml:space="preserve">
+    <value>உரிமம் கிடைக்கவில்லை. விவரங்களுக்கு {0}ஐத் திறக்கவும்</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Adaptive" xml:space="preserve">
+    <value>தழுவல்</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Found" xml:space="preserve">
+    <value>புளூடூத் அடாப்டர் கிடைக்கவில்லை</value>
+  </data>
+  <data name="Text_Icon_Connected" xml:space="preserve">
+    <value>இணைக்கப்பட்டது {0}</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_AmbientSound" xml:space="preserve">
+    <value>சுற்றுப்புற ஒலி</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_WindCancellation" xml:space="preserve">
+    <value>காற்று ரத்து</value>
+  </data>
+  <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
+    <value>சார்ஜ் அளவைக் காட்ட ஹெட்ஃபோன்களை இணைக்கவும்</value>
   </data>
 </root>
