@@ -65,27 +65,27 @@
     <value>AirPods ізденуде</value>
   </data>
   <data name="Battery_Short_Left" xml:space="preserve">
-    <value>L</value>
+    <value>Сол</value>
     <comment>Abbreviation of the word «Left»</comment>
   </data>
   <data name="Battery_Short_Right" xml:space="preserve">
-    <value>R</value>
+    <value>Оң</value>
     <comment>Abbreviation of the word «Right»</comment>
   </data>
   <data name="Text_Icon_Bluetooth_Off" xml:space="preserve">
-    <value>Bluetooth өшірілген</value>
+    <value>Bluetooth өшулі</value>
   </data>
   <data name="Text_Icon_Bluetooth_Initialization_Error" xml:space="preserve">
-    <value>Bluetooth адаптерін баптау қатесі</value>
+    <value>Bluetooth адаптерін баптандыру қатесі</value>
   </data>
   <data name="Text_Button_Connect" xml:space="preserve">
-    <value>Қосу</value>
+    <value>Байланыста</value>
   </data>
   <data name="Text_Icon_Bluetooth_Not_Found" xml:space="preserve">
     <value>Bluetooth адаптері табылмады</value>
   </data>
   <data name="Text_Icon_Bluetooth_Multiple_Adapters_Found" xml:space="preserve">
-    <value>Бірнеше Bluetooth адаптері қосылған</value>
+    <value>Бірнеше Bluetooth адаптері қосулы</value>
   </data>
   <data name="Text_Widget_Battery_Single" xml:space="preserve">
     <value>Жүктеу</value>
@@ -98,5 +98,44 @@
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
     <value>Өшірулі</value>
+  </data>
+  <data name="Text_Icon_Error" xml:space="preserve">
+    <value>Bluetooth қолдау көрсетілмейді немесе қолжетімсіз</value>
+  </data>
+  <data name="Text_Settings" xml:space="preserve">
+    <value>Баптаулар</value>
+  </data>
+  <data name="Text_Battery_Error" xml:space="preserve">
+    <value>Батарея қуатын жаңарту сәтсіз аяқталды</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
+    <value>Хабарландыруларды дауыстау</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver_Enabled" xml:space="preserve">
+    <value>Қосулы</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Disconnecting" xml:space="preserve">
+    <value>Ажыратуда {0}</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Disconnect" xml:space="preserve">
+    <value>Ажырату {0}</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_LE" xml:space="preserve">
+    <value>Bluetooth адаптері Bluetooth LE Қолданбасын қолдамайды</value>
+  </data>
+  <data name="Text_Icon_Default" xml:space="preserve">
+    <value>Құлаққаптармен байланыс үзілді</value>
+  </data>
+  <data name="Text_Battery_Single" xml:space="preserve">
+    <value>Қуаты{0}% {1}</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Connecting" xml:space="preserve">
+    <value>Байланысуда {0}</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_Classic" xml:space="preserve">
+    <value>Bluetooth адаптері, Bluetooth Classic Қолданбасын қолдамайды</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Connect" xml:space="preserve">
+    <value>Байланысу{0}</value>
   </data>
 </root>
