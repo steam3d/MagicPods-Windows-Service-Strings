@@ -80,7 +80,7 @@
     <value>Включено</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
-    <value>Изключено</value>
+    <value>Изключен</value>
   </data>
   <data name="Battery_Short_Left" xml:space="preserve">
     <value>Л</value>
@@ -177,5 +177,8 @@
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_Adaptive" xml:space="preserve">
     <value>Адаптивен</value>
+  </data>
+  <data name="Text_License_LicenseNotFound" xml:space="preserve">
+    <value>Лицензът не е намерен. Отвори {0} за повече информация</value>
   </data>
 </root>
