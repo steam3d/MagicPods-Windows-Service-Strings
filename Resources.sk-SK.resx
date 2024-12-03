@@ -175,4 +175,10 @@
     <value>Prehrávať z {0}</value>
     <comment>{0} will be replaced to streaming device name.</comment>
   </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Adaptive" xml:space="preserve">
+    <value>prispôsobivý</value>
+  </data>
+  <data name="Text_License_LicenseNotFound" xml:space="preserve">
+    <value>Licencia sa nenašla. Otvorte {0} pre podrobnosti</value>
+  </data>
 </root>
