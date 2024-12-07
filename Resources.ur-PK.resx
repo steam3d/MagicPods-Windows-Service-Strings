@@ -103,7 +103,7 @@
     <value>باہر نکلیں</value>
   </data>
   <data name="Text_Icon_Default" xml:space="preserve">
-    <value>ایئر پوڈز منقطع ہو گئے</value>
+    <value>ایئر پوڈ ہیڈفونز منقطع ہو گئے ہیں</value>
   </data>
   <data name="Text_Battery_Single" xml:space="preserve">
     <value>چارج کریں {0}% {1}</value>
@@ -154,5 +154,11 @@
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_WindCancellation" xml:space="preserve">
     <value>ہوا کی منسوخ"</value>
+  </data>
+  <data name="Text_Icon_Connected" xml:space="preserve">
+    <value>مربوط {0}</value>
+  </data>
+  <data name="Text_Widget_Battery_Left" xml:space="preserve">
+    <value>بایاں</value>
   </data>
 </root>
