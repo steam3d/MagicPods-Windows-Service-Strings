@@ -168,7 +168,7 @@
     <value>Pihak tidak menemui lesen. Buka {0} untuk butiran</value>
   </data>
   <data name="Text_Icon_Bluetooth_Not_Supported_Classic" xml:space="preserve">
-    <value>Pengadaptor Bluetooth tidak menyokong Bluetooth Classic.</value>
+    <value>Pengadaptor Bluetooth tidak menyokong Bluetooth Classic</value>
   </data>
   <data name="Text_ContextMenu_StreamingDevice_Connect" xml:space="preserve">
     <value>Stream dari {0}</value>
