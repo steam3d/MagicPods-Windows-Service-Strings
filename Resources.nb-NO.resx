@@ -149,9 +149,36 @@
     <value>Av</value>
   </data>
   <data name="Text_Widget_Battery_Case" xml:space="preserve">
-    <value>Kasse</value>
+    <value>Etui</value>
   </data>
   <data name="Text_Widget_Battery_Single" xml:space="preserve">
     <value>Lade</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
+    <value>Åpenhet</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_WindCancellation" xml:space="preserve">
+    <value>Vinddemping</value>
+  </data>
+  <data name="Text_Widget_Battery_Right" xml:space="preserve">
+    <value>Høyre</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_NoiseCancellation" xml:space="preserve">
+    <value>Støydemping</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_AmbientSound" xml:space="preserve">
+    <value>Bakgrunnslyder</value>
+  </data>
+  <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
+    <value>Koble til AirPods for å vise ladenivå</value>
+  </data>
+  <data name="Text_Widget_Battery_Left" xml:space="preserve">
+    <value>Venstre</value>
+  </data>
+  <data name="Text_License_LicenseNotFound" xml:space="preserve">
+    <value>Ingen lisensnøkkel funnet. Åpne {0} for detaljer</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Adaptive" xml:space="preserve">
+    <value>Adaptiv</value>
   </data>
 </root>
