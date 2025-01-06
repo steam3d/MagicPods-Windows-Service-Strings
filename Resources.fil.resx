@@ -175,4 +175,10 @@
   <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
     <value>I-konek ang headphones para makita ang charge ng baterya</value>
   </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Adaptive" xml:space="preserve">
+    <value>Adaptive</value>
+  </data>
+  <data name="Text_License_LicenseNotFound" xml:space="preserve">
+    <value>Hindi natagpuan and lisensya. Buksan ang {0} para sa detalye</value>
+  </data>
 </root>
