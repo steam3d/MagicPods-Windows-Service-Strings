@@ -65,7 +65,7 @@
     <value>සැකසුම්</value>
   </data>
   <data name="Text_Icon_Default" xml:space="preserve">
-    <value>AirPods විසන්ධි කළේය</value>
+    <value>AirPods විසන්ධි වී ඇත</value>
   </data>
   <data name="Text_Icon_Error" xml:space="preserve">
     <value>බ්ලූටූත් සහාය නොදක්වයි</value>
@@ -109,5 +109,20 @@
   <data name="Text_ContextMenu_Headphones_Connect" xml:space="preserve">
     <value>සම්බන්ධ කරන්න{0}</value>
     <comment>{0} will be replaced to AirPods name. I recommend using an abbreviation so that the name of the headphones can be seen.</comment>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
+    <value>අක්රියයි</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Found" xml:space="preserve">
+    <value>Bluetooth adapter හමු නොවීය</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Multiple_Adapters_Found" xml:space="preserve">
+    <value>Bluetooth adapters එකකට වඩා connect වී ඇත</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_Classic" xml:space="preserve">
+    <value>Bluetooth adapter , Bluetooth Classic සඳහා සහය නොදක්වයි</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver_Enabled" xml:space="preserve">
+    <value>ක්‍රියාත්මකයි</value>
   </data>
 </root>
