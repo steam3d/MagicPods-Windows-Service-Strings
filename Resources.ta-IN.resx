@@ -144,7 +144,7 @@
     <value>ஆஃப்</value>
   </data>
   <data name="Text_Widget_Battery_Left" xml:space="preserve">
-    <value></value>
+    <value>இடது</value>
   </data>
   <data name="Text_Icon_Bluetooth_Not_Supported_Classic" xml:space="preserve">
     <value>புளூடூத் அடாப்டர் புளூடூத் கிளாசிக்கை ஆதரிக்காது</value>
@@ -175,5 +175,8 @@
   </data>
   <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
     <value>சார்ஜ் அளவைக் காட்ட ஹெட்ஃபோன்களை இணைக்கவும்</value>
+  </data>
+  <data name="Text_Widget_Battery_Right" xml:space="preserve">
+    <value>வலது</value>
   </data>
 </root>
