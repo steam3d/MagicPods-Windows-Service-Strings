@@ -154,4 +154,10 @@
   <data name="Text_Icon_Bluetooth_Initialization_Error" xml:space="preserve">
     <value>Pogreška inicijalizacije Bluetooth adaptera</value>
   </data>
+  <data name="Text_Widget_Battery_Case" xml:space="preserve">
+    <value>Kućište</value>
+  </data>
+  <data name="Text_Widget_Battery_Single" xml:space="preserve">
+    <value>Napunjenost</value>
+  </data>
 </root>
