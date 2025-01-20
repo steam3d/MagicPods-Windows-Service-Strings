@@ -71,7 +71,7 @@
     <value>האוזניות מנותקות</value>
   </data>
   <data name="Text_Icon_Error" xml:space="preserve">
-    <value>בלוטוס איננו נתמך או אינו זמין</value>
+    <value>הבלוטוס אינו נתמך או אינו זמין</value>
   </data>
   <data name="Text_Battery_Single" xml:space="preserve">
     <value>‪טעינה {0}% {1}</value>
