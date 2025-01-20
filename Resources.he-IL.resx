@@ -68,20 +68,20 @@
     <value>יְצִיאָה</value>
   </data>
   <data name="Text_Icon_Default" xml:space="preserve">
-    <value>האוזניות מנותקים</value>
+    <value>האוזניות מנותקות</value>
   </data>
   <data name="Text_Icon_Error" xml:space="preserve">
-    <value>בלוטוס איננו זמין</value>
+    <value>בלוטוס איננו נתמך או אינו זמין</value>
   </data>
   <data name="Text_Battery_Single" xml:space="preserve">
     <value>‪טעינה {0}% {1}</value>
     <comment>{0} will be replaced to battery level, {1} to charge status.</comment>
   </data>
   <data name="Text_Battery_Error" xml:space="preserve">
-    <value>עדכון טעינת הסוללה נכשלה</value>
+    <value>ניסיון טעינה הסוללה כשל</value>
   </data>
   <data name="Text_Icon_Search" xml:space="preserve">
-    <value>מחפש אירפודס</value>
+    <value>חיפוש האיירפודס</value>
   </data>
   <data name="Battery_Short_Right" xml:space="preserve">
     <value>ימין</value>
@@ -105,7 +105,7 @@
     <value>עוזר קולי</value>
   </data>
   <data name="Text_ContextMenu_Headphones_Connecting" xml:space="preserve">
-    <value>מתחבר {0}</value>
+    <value>מתחבר ל {0}</value>
     <comment>{0} will be replaced to AirPods name. The headphones are connecting right now</comment>
   </data>
   <data name="Text_ContextMenu_Headphones_Disconnecting" xml:space="preserve">
@@ -117,22 +117,22 @@
     <comment>Abbreviation of the word «Left»</comment>
   </data>
   <data name="Text_Icon_Bluetooth_Not_Supported_Classic" xml:space="preserve">
-    <value>מתאם Bluetooth אינו תומך ב-Bluetooth Classic</value>
+    <value>מתאם הבלוטוס אינו נתמך בבלוטוס הרגיל</value>
   </data>
   <data name="Text_Icon_Bluetooth_Not_Supported_LE" xml:space="preserve">
-    <value>מתאם Bluetooth אינו תומך ב-Bluetooth LE</value>
+    <value>‫מתאם הבלוטוס אינו תומך בבלוטוס - LE</value>
   </data>
   <data name="Text_Icon_Bluetooth_Off" xml:space="preserve">
-    <value>Bluetooth כבוי</value>
+    <value>בלוטוס כבוי</value>
   </data>
   <data name="Text_Icon_Bluetooth_Multiple_Adapters_Found" xml:space="preserve">
-    <value>מספר מתאמי Bluetooth מחוברים</value>
+    <value>מספר מתאמי בלוטוס מחוברים</value>
   </data>
   <data name="Text_Icon_Bluetooth_Not_Found" xml:space="preserve">
-    <value>מתאם Bluetooth לא נמצא</value>
+    <value>מתאם הבלוטוס לא נמצא</value>
   </data>
   <data name="Text_Icon_Bluetooth_Initialization_Error" xml:space="preserve">
-    <value>שגיאת אתחול מתאם Bluetooth</value>
+    <value>שגיאת אתחול במתאם הבלוטוס</value>
   </data>
   <data name="Text_Icon_Connected" xml:space="preserve">
     <value>מחובר {0}</value>
@@ -152,19 +152,19 @@
     <value>כבוי</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
-    <value>שקיפות</value>
+    <value>מצב - שקיפות</value>
   </data>
   <data name="Text_Widget_Battery_Case" xml:space="preserve">
-    <value>קופסה</value>
+    <value>מארז</value>
   </data>
   <data name="Text_Widget_Battery_Single" xml:space="preserve">
-    <value>מטעין</value>
+    <value>טעינה</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_AmbientSound" xml:space="preserve">
-    <value>צליל סביבה</value>
+    <value>מצב - צליל סביבה</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_WindCancellation" xml:space="preserve">
-    <value>ביטול רוח</value>
+    <value>מצב - ביטול רוח</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_Adaptive" xml:space="preserve">
     <value>שמע מותאם</value>
@@ -176,10 +176,12 @@
     <value>ימין</value>
   </data>
   <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
-    <value>ניתן לראות את מצב הטעינה לאחר חיבור אוזניות</value>
+    <value>חיבור האוזניות
+על מנת הצגת אחוז הסוללה</value>
   </data>
   <data name="Text_License_LicenseNotFound" xml:space="preserve">
-    <value>הרישיון לא נמצא. פתח את {0} לפרטים</value>
+    <value>רישיון אינו נמצא. 
+פתח את {0} לפרטים</value>
     <comment>{0} will be replaced to app name.</comment>
   </data>
 </root>
