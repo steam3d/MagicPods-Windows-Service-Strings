@@ -71,10 +71,10 @@
     <value>Bluetooth не підтримується або недоступний</value>
   </data>
   <data name="Text_Button_Connect" xml:space="preserve">
-    <value>Законектити</value>
+    <value>Під'єднати</value>
   </data>
   <data name="Text_Icon_Search" xml:space="preserve">
-    <value>Триває пошук Навушників</value>
+    <value>Пошук AirPods</value>
   </data>
   <data name="Text_Battery_Single" xml:space="preserve">
     <value>Заряд {0}% {1}</value>
@@ -149,7 +149,7 @@
     <value>Викл.</value>
   </data>
   <data name="Text_Widget_Battery_Case" xml:space="preserve">
-    <value>Кейс</value>
+    <value>Футляр</value>
   </data>
   <data name="Text_Widget_Battery_Single" xml:space="preserve">
     <value>Заряд</value>
