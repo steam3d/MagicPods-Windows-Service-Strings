@@ -143,7 +143,7 @@
     <comment>{0} will be replaced to streaming device name.</comment>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_NoiseCancellation" xml:space="preserve">
-    <value>Pembatalan kebisingan</value>
+    <value>Peredam kebisingan</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
     <value>Mati</value>
@@ -155,9 +155,30 @@
     <value>Bluetooth klasik tidak didukung adaptor Bluetooth</value>
   </data>
   <data name="Text_Widget_Battery_Case" xml:space="preserve">
-    <value>Kotak</value>
+    <value>Casing</value>
   </data>
   <data name="Text_Widget_Battery_Single" xml:space="preserve">
     <value>Isi daya</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Adaptive" xml:space="preserve">
+    <value>Adaptif</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_WindCancellation" xml:space="preserve">
+    <value>Peredam suara angin</value>
+  </data>
+  <data name="Text_Widget_Battery_Left" xml:space="preserve">
+    <value>Kiri</value>
+  </data>
+  <data name="Text_Widget_Battery_Right" xml:space="preserve">
+    <value>Kanan</value>
+  </data>
+  <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
+    <value>Hubungkan headphones untuk menampilkan tingkat pengisian daya</value>
+  </data>
+  <data name="Text_License_LicenseNotFound" xml:space="preserve">
+    <value>Lisensi tidak ditemukan. Buka {0} untuk detailnya</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_AmbientSound" xml:space="preserve">
+    <value>Suara sekitar</value>
   </data>
 </root>
