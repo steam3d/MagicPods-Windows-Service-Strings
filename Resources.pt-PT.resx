@@ -99,11 +99,11 @@
     <comment>Abbreviation of the word «Right»</comment>
   </data>
   <data name="Text_ContextMenu_Headphones_Connecting" xml:space="preserve">
-    <value>A ligar {0}</value>
+    <value>A conectar {0}</value>
     <comment>{0} will be replaced to AirPods name. The headphones are connecting right now</comment>
   </data>
   <data name="Text_ContextMenu_Headphones_Disconnecting" xml:space="preserve">
-    <value>A desligar {0}</value>
+    <value>A desconectar {0}</value>
     <comment>{0} will be replaced to AirPods name. The headphones are disconnecting right now</comment>
   </data>
   <data name="Text_Exit" xml:space="preserve">
@@ -158,7 +158,7 @@
     <value>Som ambiente</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_WindCancellation" xml:space="preserve">
-    <value>Cancelamento do vento</value>
+    <value>Cancelamento de vento</value>
   </data>
   <data name="Text_Widget_Battery_Single" xml:space="preserve">
     <value>Bateria</value>
@@ -173,7 +173,7 @@
     <value>Direito</value>
   </data>
   <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
-    <value>Ligar os auriculares para mostrar o nível de carga</value>
+    <value>Ligar os auriculares para mostrar o nível de bateria</value>
   </data>
   <data name="Text_License_LicenseNotFound" xml:space="preserve">
     <value>Licença não encontrada. Abra {0} para saber mais</value>
