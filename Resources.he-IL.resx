@@ -78,10 +78,10 @@
     <comment>{0} will be replaced to battery level, {1} to charge status.</comment>
   </data>
   <data name="Text_Battery_Error" xml:space="preserve">
-    <value>ניסיון טעינה הסוללה כשל</value>
+    <value>נסיון הטעינה נכשל</value>
   </data>
   <data name="Text_Icon_Search" xml:space="preserve">
-    <value>חיפוש האיירפודס</value>
+    <value>חיפוש ב-AirPods</value>
   </data>
   <data name="Battery_Short_Right" xml:space="preserve">
     <value>ימין</value>
@@ -152,7 +152,7 @@
     <value>כבוי</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
-    <value>מצב - שקיפות</value>
+    <value>שקיפות</value>
   </data>
   <data name="Text_Widget_Battery_Case" xml:space="preserve">
     <value>מארז</value>
@@ -161,7 +161,7 @@
     <value>טעינה</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_AmbientSound" xml:space="preserve">
-    <value>מצב - צליל סביבה</value>
+    <value>צליל סביבה</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_WindCancellation" xml:space="preserve">
     <value>מצב - ביטול רוח</value>
@@ -176,12 +176,10 @@
     <value>ימין</value>
   </data>
   <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
-    <value>חיבור האוזניות
-על מנת הצגת אחוז הסוללה</value>
+    <value>חבר את האוזניות כדי להציג את רמת הסוללה</value>
   </data>
   <data name="Text_License_LicenseNotFound" xml:space="preserve">
-    <value>רישיון אינו נמצא. 
-פתח את {0} לפרטים</value>
+    <value>רישיון לא נמצא. פתח את {0} לקבלת פרטים</value>
     <comment>{0} will be replaced to app name.</comment>
   </data>
 </root>
