@@ -135,7 +135,7 @@
     <value>بلوٹوتھ اڈاپٹر بلوٹوتھ ایل ای کو سپورٹ نہیں کرتا ہے۔بلوٹوتھ اڈاپٹر بلوٹوتھ ایل ای کو سپورٹ نہیں کرتا ہے</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
-    <value>بند</value>
+    <value>آف</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
     <value>شفافیت</value>
@@ -156,9 +156,27 @@
     <value>ہوا کی منسوخ"</value>
   </data>
   <data name="Text_Icon_Connected" xml:space="preserve">
-    <value>مربوط {0}</value>
+    <value>منسلک {0}</value>
   </data>
   <data name="Text_Widget_Battery_Left" xml:space="preserve">
     <value>بایاں</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Adaptive" xml:space="preserve">
+    <value>موافقت پذیر</value>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Disconnect" xml:space="preserve">
+    <value>{0} سے سلسلہ بندی بند کریں</value>
+  </data>
+  <data name="Text_Widget_Battery_Right" xml:space="preserve">
+    <value>صحیح</value>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Connect" xml:space="preserve">
+    <value>{0} سے سلسلہ</value>
+  </data>
+  <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
+    <value>چارج لیول کو ظاہر کرنے کے لیے ہیڈ فون کو جوڑیں</value>
+  </data>
+  <data name="Text_License_LicenseNotFound" xml:space="preserve">
+    <value>لائسنس نہیں ملا۔ تفصیلات کے لیے {0} کھولیں</value>
   </data>
 </root>
