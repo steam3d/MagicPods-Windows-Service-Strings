@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,118 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Text_Exit" xml:space="preserve">
+    <value>ನಿರ್ಗಮಿಸಿ</value>
+  </data>
+  <data name="Text_Settings" xml:space="preserve">
+    <value>ಸೆಟ್ಟಿಂಗ್‌ಗಳು</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver_Enabled" xml:space="preserve">
+    <value>ಆರಂಬಿಸು</value>
+  </data>
+  <data name="Battery_Short_Left" xml:space="preserve">
+    <value>L-ಎಡ</value>
+  </data>
+  <data name="Battery_Short_Right" xml:space="preserve">
+    <value>R-ಬಲ</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Connect" xml:space="preserve">
+    <value>ಸಂಪರ್ಕಿಸಿ {0}</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Disconnect" xml:space="preserve">
+    <value>ಸಂಪರ್ಕ ಕಡಿತಗೊಳಿಸಿ {0}</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
+    <value>ವ್ಯಾಖ್ಯಾನ</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Disconnecting" xml:space="preserve">
+    <value>ಸಂಪರ್ಕ ಕಡಿತಗೊಳಿಸಲಾಗುತ್ತಿದೆ {0}</value>
+  </data>
+  <data name="Text_Battery_Single" xml:space="preserve">
+    <value>ಚಾರ್ಜ್ ಸ್ಥಿತಿ {0} % {1}</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_AmbientSound" xml:space="preserve">
+    <value>ಸುತ್ತುವರಿದ ಧ್ವನಿ</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_WindCancellation" xml:space="preserve">
+    <value>ಗಾಳಿ ರದ್ದುಗೊಳಿಸುವಿಕೆ</value>
+  </data>
+  <data name="Text_Widget_Battery_Right" xml:space="preserve">
+    <value>ಬಲಬಾಗ</value>
+  </data>
+  <data name="Text_Widget_Battery_Left" xml:space="preserve">
+    <value>ಎಡಭಾಗ</value>
+  </data>
+  <data name="Text_Widget_Battery_Case" xml:space="preserve">
+    <value>ಹೊದಿಕೆ</value>
+  </data>
+  <data name="Text_License_LicenseNotFound" xml:space="preserve">
+    <value>ಪರವಾನಗಿ ಕಂಡುಬಂದಿಲ್ಲ. ವಿವರಗಳಿಗೆ {0} ತೆರೆಯಿರಿ</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_LE" xml:space="preserve">
+    <value>ಬ್ಲೂಟೂತ್ ಅಡಾಪ್ಟರ್ ಬ್ಲೂಟೂತ್ LE ಬೆಂಬಲಿಸುವುದಿಲ್ಲ</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Off" xml:space="preserve">
+    <value>ಬ್ಲೂಟೂತ್ ಆರಿಸಿದೆ</value>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Connect" xml:space="preserve">
+    <value>{0} ನಿಂದ ಸ್ಟ್ರೀಮ್ ಮಾಡಿ</value>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Disconnect" xml:space="preserve">
+    <value>{0} ನಿಂದ ಸ್ಟ್ರೀಮಿಂಗ್ ನಿಲ್ಲಿಸಿ</value>
+  </data>
+  <data name="Text_Icon_Connected" xml:space="preserve">
+    <value>ಸಂಪರ್ಕಿಸಲಾಗಿದೆ {0}</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_NoiseCancellation" xml:space="preserve">
+    <value>ಶಬ್ದ ರದ್ದತಿ</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
+    <value>ಆರಿಸು</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
+    <value>ಪಾರದರ್ಶಕತೆ</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Adaptive" xml:space="preserve">
+    <value>ಹೊಂದಿಕೊಳ್ಳುವ</value>
+  </data>
+  <data name="Text_Button_Connect" xml:space="preserve">
+    <value>ಸಂಪರ್ಕಿಸಿ</value>
+  </data>
+  <data name="Text_Icon_Search" xml:space="preserve">
+    <value>ಏರ್ ಪಾಡ್ಸ್ ಹುಡುಕುತ್ತಿರುವೆ</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
+    <value>ಆರಿಸು</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Connecting" xml:space="preserve">
+    <value>ಸಂಪರ್ಕಿಸಲಾಗುತ್ತಿದೆ {0}</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Initialization_Error" xml:space="preserve">
+    <value>ಬ್ಲೂಟೂತ್ ಅಡಾಪ್ಟರ್ ಆರಂಭಿಸುವಿಕೆ ದೋಷ</value>
+  </data>
+  <data name="Text_Icon_Default" xml:space="preserve">
+    <value>ಶಿರ ಶ್ರವಣಕ ಸಂಪರ್ಕ ಕಡಿತಗೊಂಡಿದೆ</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Found" xml:space="preserve">
+    <value>ಬ್ಲೂಟೂತ್ ಅಡಾಪ್ಟರ್ ಕಂಡು ಬಂದಿಲ್ಲ</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Multiple_Adapters_Found" xml:space="preserve">
+    <value>ಬಹು ಬ್ಲೂಟೂತ್ ಅಡಾಪ್ಟರ್ರ್ಸ ಸಂಪರ್ಕದಲ್ಲಿ ಇದೆ</value>
+  </data>
+  <data name="Text_Widget_Battery_Single" xml:space="preserve">
+    <value>ಚಾರ್ಜ್ ವಿದ್ಯುದಾವೇಶ</value>
+  </data>
+  <data name="Text_Icon_Error" xml:space="preserve">
+    <value>ಬ್ಲೂಟೂತ್ ಅನ್ನು ಬೆಂಬಲಿಸುವುದಿಲ್ಲ ಅಥವಾ ಲಭ್ಯವಿಲ್ಲ</value>
+  </data>
+  <data name="Text_Battery_Error" xml:space="preserve">
+    <value>ಬ್ಯಾಟರಿ ಚಾರ್ಜ್ ಅನ್ನು ನವೀಕರಿಸಲು ವಿಫಲವಾಗಿದೆ</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_Classic" xml:space="preserve">
+    <value>ಬ್ಲೂಟೂತ್ ಅಡಾಪ್ಟರ್ ಬ್ಲೂಟೂತ್ ಕ್ಲಾಸಿಕ್ ಬೆಂಬಲಿಸುವುದಿಲ್ಲ</value>
+  </data>
+  <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
+    <value>ಚಾರ್ಜ್ ಮಟ್ಟವನ್ನು ಪ್ರದರ್ಶಿಸಲು ಶಿರ ಶ್ರವಣಕಗಳನ್ನು ಸಂಪರ್ಕಿಸಿ</value>
+  </data>
 </root>
