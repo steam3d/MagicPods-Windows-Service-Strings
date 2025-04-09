@@ -67,4 +67,106 @@
   <data name="Text_Icon_Error" xml:space="preserve">
     <value>Bluetooth nayê destek kirin an peyda nabe</value>
   </data>
+  <data name="Text_Icon_Connected" xml:space="preserve">
+    <value>Girêdayî ye</value>
+  </data>
+  <data name="Text_Widget_Battery_Left" xml:space="preserve">
+    <value>Çep</value>
+  </data>
+  <data name="Text_Widget_Battery_Case" xml:space="preserve">
+    <value>Kasa</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Adaptive" xml:space="preserve">
+    <value>Bergirî</value>
+  </data>
+  <data name="Text_Battery_Error" xml:space="preserve">
+    <value>Nûkirina barkirinê ya batreyê têk çû</value>
+  </data>
+  <data name="Text_Button_Connect" xml:space="preserve">
+    <value>Bigire</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
+    <value>Dengbêjî</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver_Enabled" xml:space="preserve">
+    <value>Li ser</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
+    <value>Ji ser</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Connecting" xml:space="preserve">
+    <value>Giretin</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Disconnecting" xml:space="preserve">
+    <value>Bigirevîn</value>
+  </data>
+  <data name="Battery_Short_Left" xml:space="preserve">
+    <value>Çep</value>
+  </data>
+  <data name="Battery_Short_Right" xml:space="preserve">
+    <value>Rast</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Found" xml:space="preserve">
+    <value>Adaptora Bluetooth nehat dîtin</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Multiple_Adapters_Found" xml:space="preserve">
+    <value>Çend adaptoran Bluetooth girêdayî ne</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_Classic" xml:space="preserve">
+    <value>Adaptora Bluetooth Classic-ê nayê piştgirî kirin</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_LE" xml:space="preserve">
+    <value>Adaptora Bluetooth LE-ê nayê piştgirî kirin</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Off" xml:space="preserve">
+    <value>Bluetooth ji ser e</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Initialization_Error" xml:space="preserve">
+    <value>Çewtiya destpêkê ya adaptora Bluetooth</value>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Connect" xml:space="preserve">
+    <value>Stream ji</value>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Disconnect" xml:space="preserve">
+    <value>Streamingê ji... rûniştin</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_NoiseCancellation" xml:space="preserve">
+    <value>Betlanîna dengê</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
+    <value>Ji ser</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
+    <value>Şeffafî</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_AmbientSound" xml:space="preserve">
+    <value>Dengên herêmî</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_WindCancellation" xml:space="preserve">
+    <value>Betlanîna ba</value>
+  </data>
+  <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
+    <value>Guhên li ser amûrê bigire da ku astengê barkirinê nîşan bide</value>
+  </data>
+  <data name="Text_License_LicenseNotFound" xml:space="preserve">
+    <value>Lîsans nehat dîtin. {0} vekirê da ku hûrguliyên bistînin</value>
+  </data>
+  <data name="Text_Settings" xml:space="preserve">
+    <value>Mîheng</value>
+  </data>
+  <data name="Text_Icon_Search" xml:space="preserve">
+    <value>Li AirPodsan</value>
+  </data>
+  <data name="Text_Battery_Single" xml:space="preserve">
+    <value>Barkirinê 80% rast | Barkirinê 60% çep</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Connect" xml:space="preserve">
+    <value>Bigire</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Disconnect" xml:space="preserve">
+    <value>Bigirevê</value>
+  </data>
+  <data name="Text_Widget_Battery_Single" xml:space="preserve">
+    <value>Barkirin</value>
+  </data>
 </root>
