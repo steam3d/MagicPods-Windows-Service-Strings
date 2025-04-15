@@ -164,7 +164,7 @@
     <value>Δεξί</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_NoiseCancellation" xml:space="preserve">
-    <value>Λειτουργία Κατάργησης Θορύβου</value>
+    <value>Ακύρωση Θορύβου</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_WindCancellation" xml:space="preserve">
     <value>Ακύρωση θορύβου ανέμου</value>
