@@ -146,7 +146,7 @@
     <comment>{0} will be replaced to streaming device name.</comment>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
-    <value>Викл.</value>
+    <value>Вимкнено</value>
   </data>
   <data name="Text_Widget_Battery_Case" xml:space="preserve">
     <value>Футляр</value>
@@ -173,7 +173,7 @@
     <value>Підключіть навушники, щоб відобразити рівень заряду</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_WindCancellation" xml:space="preserve">
-    <value>Подавлення вітру</value>
+    <value>Подавлення шуму вітру</value>
   </data>
   <data name="Text_License_LicenseNotFound" xml:space="preserve">
     <value>Ліцензію не знайдено. Відкрийте {0} для подробиць</value>
