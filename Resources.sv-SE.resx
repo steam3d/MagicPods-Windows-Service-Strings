@@ -169,4 +169,16 @@
   <data name="Text_ContextMenu_NoiseCancellation_Adaptive" xml:space="preserve">
     <value>Adaptiv</value>
   </data>
+  <data name="Text_Widget_Battery_Left" xml:space="preserve">
+    <value>Vänster</value>
+  </data>
+  <data name="Text_Widget_Battery_Right" xml:space="preserve">
+    <value>Höger</value>
+  </data>
+  <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
+    <value>Anslut hörlurarna för att visa batterinivån</value>
+  </data>
+  <data name="Text_License_LicenseNotFound" xml:space="preserve">
+    <value>Licens hittades inte. Öppna {0} för mer information</value>
+  </data>
 </root>
