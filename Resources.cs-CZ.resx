@@ -158,7 +158,7 @@
     <value>Potlačení hluku</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
-    <value>Transparentní režim</value>
+    <value>Režim propustnosti</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_AmbientSound" xml:space="preserve">
     <value>Režim propustnosti</value>
