@@ -125,4 +125,13 @@
   <data name="Text_ContextMenu_VoiceOver_Enabled" xml:space="preserve">
     <value>ක්‍රියාත්මකයි</value>
   </data>
+  <data name="Text_ContextMenu_NoiseCancellation_NoiseCancellation" xml:space="preserve">
+    <value>ශබ්ද අහෝසි කිරීම</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
+    <value>අක්රියයි</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
+    <value>පැහැදිලි බව</value>
+  </data>
 </root>
