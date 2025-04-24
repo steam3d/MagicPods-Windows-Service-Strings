@@ -98,7 +98,7 @@
     <value>Ενεργοποιημένο</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
-    <value>Σβήνω</value>
+    <value>Απενεργ.</value>
   </data>
   <data name="Battery_Short_Left" xml:space="preserve">
     <value>Αριστερό</value>
@@ -146,7 +146,7 @@
     <value>Συνδεδεμένο {0}</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
-    <value>Ανενεργό</value>
+    <value>Απενεργοποιημένο</value>
   </data>
   <data name="Text_Widget_Battery_Case" xml:space="preserve">
     <value>Θήκη</value>
