@@ -154,7 +154,7 @@
     <value>Activé</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
-    <value>Désactivé</value>
+    <value>Arrêt</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
     <value>Voix Off</value>
