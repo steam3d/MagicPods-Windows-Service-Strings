@@ -165,7 +165,7 @@
     <value>Activado</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
-    <value>Apagado</value>
+    <value>Apag.</value>
   </data>
   <data name="Text_ContextMenu_Headphones_Connecting" xml:space="preserve">
     <value>Conectando {0}</value>
