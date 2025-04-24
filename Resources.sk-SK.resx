@@ -98,7 +98,7 @@
     <value>Zapnuté</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
-    <value>Vypnuté</value>
+    <value>Vyp.</value>
   </data>
   <data name="Text_ContextMenu_Headphones_Connecting" xml:space="preserve">
     <value>Pripájam sa k {0}</value>
@@ -176,7 +176,7 @@
     <comment>{0} will be replaced to streaming device name.</comment>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_Adaptive" xml:space="preserve">
-    <value>prispôsobivý</value>
+    <value>Prispôsobivý</value>
   </data>
   <data name="Text_License_LicenseNotFound" xml:space="preserve">
     <value>Licencia sa nenašla. Otvorte {0} pre podrobnosti</value>
