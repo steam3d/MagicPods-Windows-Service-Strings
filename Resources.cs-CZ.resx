@@ -98,7 +98,7 @@
     <value>Zapnuto</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
-    <value>Vypnuto</value>
+    <value>Vyp.</value>
   </data>
   <data name="Battery_Short_Left" xml:space="preserve">
     <value>L</value>
