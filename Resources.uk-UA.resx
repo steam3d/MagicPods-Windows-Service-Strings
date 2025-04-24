@@ -180,6 +180,6 @@
     <comment>{0} will be replaced to app name.</comment>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_Adaptive" xml:space="preserve">
-    <value>Адаптивна</value>
+    <value>Адаптивно</value>
   </data>
 </root>
