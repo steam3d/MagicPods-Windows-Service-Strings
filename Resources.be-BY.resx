@@ -138,7 +138,7 @@
     <value>Памылка ініцыялізацыі адаптара Bluetooth</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
-    <value>Выкл</value>
+    <value>Выключана</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_NoiseCancellation" xml:space="preserve">
     <value>Шумападавленне</value>
