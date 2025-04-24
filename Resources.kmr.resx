@@ -158,7 +158,7 @@
     <value>Li AirPodsan</value>
   </data>
   <data name="Text_Battery_Single" xml:space="preserve">
-    <value>Barkirinê 80% rast | Barkirinê 60% çep</value>
+    <value>Barkirin: {0}%{1}</value>
   </data>
   <data name="Text_ContextMenu_Headphones_Connect" xml:space="preserve">
     <value>Bigire</value>
