@@ -205,7 +205,7 @@
     <value>{0} verbonden</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
-    <value>Uit</value>
+    <value>Uitgeschakeld</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_NoiseCancellation" xml:space="preserve">
     <value>Ruisonderdrukking</value>
