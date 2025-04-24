@@ -88,7 +88,7 @@
     <value>Ligado</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
-    <value>Desligado</value>
+    <value>Desl.</value>
   </data>
   <data name="Battery_Short_Left" xml:space="preserve">
     <value>E</value>
