@@ -155,7 +155,7 @@
     <value>降噪</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
-    <value>关</value>
+    <value>閉</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
     <value>通透模式</value>
