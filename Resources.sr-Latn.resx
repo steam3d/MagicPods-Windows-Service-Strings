@@ -103,7 +103,7 @@
     <value>Uključeno</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
-    <value>Isključeno</value>
+    <value>Isklj.</value>
   </data>
   <data name="Text_ContextMenu_Headphones_Connecting" xml:space="preserve">
     <value>Povezivanje {0}</value>
