@@ -98,7 +98,7 @@
     <value>Päällä</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
-    <value>Pois päältä</value>
+    <value>Pois</value>
   </data>
   <data name="Text_ContextMenu_Headphones_Connecting" xml:space="preserve">
     <value>Yhdistetään {0}</value>
