@@ -94,10 +94,10 @@
     <value>Қалып</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
-    <value>Өшірулі</value>
+    <value>Өшіру</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
-    <value>Өшірулі</value>
+    <value>Өшірілген</value>
   </data>
   <data name="Text_Icon_Error" xml:space="preserve">
     <value>Bluetooth қолдау көрсетілмейді немесе қолжетімсіз</value>
