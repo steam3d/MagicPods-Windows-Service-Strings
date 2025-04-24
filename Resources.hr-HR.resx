@@ -98,7 +98,7 @@
     <value>Upaljeno</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
-    <value>Isključeno</value>
+    <value>Iskl.</value>
   </data>
   <data name="Text_ContextMenu_Headphones_Connecting" xml:space="preserve">
     <value>Povezivanje {0}</value>
@@ -179,6 +179,6 @@
     <value>Licenca nije pronađena. Otvorite {0} za detalje</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_Adaptive" xml:space="preserve">
-    <value>prilagodljiv</value>
+    <value>Prilagodljiv</value>
   </data>
 </root>
