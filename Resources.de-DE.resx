@@ -208,7 +208,7 @@
     <value>Geräuschunterdrückung</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
-    <value>Aus</value>
+    <value>Ausgeschaltet</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
     <value>Transparenzmodus</value>
