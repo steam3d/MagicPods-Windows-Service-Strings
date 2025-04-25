@@ -166,4 +166,10 @@
   <data name="Text_Widget_Battery_Case" xml:space="preserve">
     <value>Кейс</value>
   </data>
+  <data name="Text_Widget_Battery_Left" xml:space="preserve">
+    <value>Левы</value>
+  </data>
+  <data name="Text_Widget_Battery_Right" xml:space="preserve">
+    <value>Правы</value>
+  </data>
 </root>
