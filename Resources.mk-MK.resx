@@ -64,4 +64,13 @@
   <data name="Text_Icon_Search" xml:space="preserve">
     <value>Барам AirPods</value>
   </data>
+  <data name="Text_Widget_Battery_Right" xml:space="preserve">
+    <value>Десно</value>
+  </data>
+  <data name="Text_Widget_Battery_Left" xml:space="preserve">
+    <value>Лево</value>
+  </data>
+  <data name="Text_Widget_Battery_Case" xml:space="preserve">
+    <value>Куферче</value>
+  </data>
 </root>
