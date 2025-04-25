@@ -61,4 +61,13 @@
   <data name="Text_Exit" xml:space="preserve">
     <value>ਨਿਕਾਸ</value>
   </data>
+  <data name="Text_Widget_Battery_Right" xml:space="preserve">
+    <value>ਸੱਜਾ</value>
+  </data>
+  <data name="Text_Widget_Battery_Case" xml:space="preserve">
+    <value>ਕੇਸ</value>
+  </data>
+  <data name="Text_Widget_Battery_Left" xml:space="preserve">
+    <value>ਖੱਬਾ</value>
+  </data>
 </root>
