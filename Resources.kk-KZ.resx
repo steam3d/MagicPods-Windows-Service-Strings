@@ -138,4 +138,10 @@
   <data name="Text_ContextMenu_Headphones_Connect" xml:space="preserve">
     <value>Байланысу{0}</value>
   </data>
+  <data name="Text_Widget_Battery_Left" xml:space="preserve">
+    <value>Сол</value>
+  </data>
+  <data name="Text_Widget_Battery_Right" xml:space="preserve">
+    <value>Оң</value>
+  </data>
 </root>
