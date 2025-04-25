@@ -166,4 +166,10 @@
   <data name="Text_Widget_Battery_Single" xml:space="preserve">
     <value>Uzlāde</value>
   </data>
+  <data name="Text_Widget_Battery_Left" xml:space="preserve">
+    <value>Kreisais</value>
+  </data>
+  <data name="Text_Widget_Battery_Right" xml:space="preserve">
+    <value>Labais</value>
+  </data>
 </root>
