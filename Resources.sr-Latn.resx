@@ -140,4 +140,10 @@
   <data name="Text_Widget_Battery_Single" xml:space="preserve">
     <value>Punjenje</value>
   </data>
+  <data name="Text_Widget_Battery_Left" xml:space="preserve">
+    <value>Levo</value>
+  </data>
+  <data name="Text_Widget_Battery_Right" xml:space="preserve">
+    <value>Desno</value>
+  </data>
 </root>
