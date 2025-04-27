@@ -68,7 +68,7 @@
     <value>Bluetooth nayê destek kirin an peyda nabe</value>
   </data>
   <data name="Text_Icon_Connected" xml:space="preserve">
-    <value>Girêdayî ye</value>
+    <value>Girêdayî ye {0}</value>
   </data>
   <data name="Text_Widget_Battery_Left" xml:space="preserve">
     <value>Çep</value>
@@ -95,10 +95,10 @@
     <value>Ji ser</value>
   </data>
   <data name="Text_ContextMenu_Headphones_Connecting" xml:space="preserve">
-    <value>Giretin</value>
+    <value>Giretin {0}</value>
   </data>
   <data name="Text_ContextMenu_Headphones_Disconnecting" xml:space="preserve">
-    <value>Bigirevîn</value>
+    <value>Bigirevîn {0}</value>
   </data>
   <data name="Battery_Short_Left" xml:space="preserve">
     <value>Çep</value>
@@ -125,10 +125,10 @@
     <value>Çewtiya destpêkê ya adaptora Bluetooth</value>
   </data>
   <data name="Text_ContextMenu_StreamingDevice_Connect" xml:space="preserve">
-    <value>Stream ji</value>
+    <value>Stream ji {0}</value>
   </data>
   <data name="Text_ContextMenu_StreamingDevice_Disconnect" xml:space="preserve">
-    <value>Streamingê ji... rûniştin</value>
+    <value>Streamingê ji... rûniştin {0}</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_NoiseCancellation" xml:space="preserve">
     <value>Betlanîna dengê</value>
@@ -161,10 +161,10 @@
     <value>Barkirin: {0}%{1}</value>
   </data>
   <data name="Text_ContextMenu_Headphones_Connect" xml:space="preserve">
-    <value>Bigire</value>
+    <value>Bigire {0}</value>
   </data>
   <data name="Text_ContextMenu_Headphones_Disconnect" xml:space="preserve">
-    <value>Bigirevê</value>
+    <value>Bigirevê {0}</value>
   </data>
   <data name="Text_Widget_Battery_Single" xml:space="preserve">
     <value>Barkirin</value>
