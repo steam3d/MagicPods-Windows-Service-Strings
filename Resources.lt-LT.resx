@@ -175,4 +175,7 @@
   <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
     <value>Prijunkite ausines, kad būtų rodomas įkrovimo lygis</value>
   </data>
+  <data name="Text_Battery_LR" xml:space="preserve">
+    <value>Kairė: {0}%{1} Dešinė: {2}%{3}</value>
+  </data>
 </root>
