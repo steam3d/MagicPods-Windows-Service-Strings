@@ -181,4 +181,7 @@
   <data name="Text_License_LicenseNotFound" xml:space="preserve">
     <value>Лицензът не е намерен. Отвори {0} за повече информация</value>
   </data>
+  <data name="Text_Battery_LR" xml:space="preserve">
+    <value>Ляво: {0}%{1} Дясно: {2}%{3}</value>
+  </data>
 </root>
