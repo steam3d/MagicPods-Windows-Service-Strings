@@ -70,4 +70,7 @@
   <data name="Text_Widget_Battery_Left" xml:space="preserve">
     <value>ਖੱਬਾ</value>
   </data>
+  <data name="Text_Battery_LR" xml:space="preserve">
+    <value>ਖੱਬਾ: {0}%{1} ਸੱਜਾ: {2}%{3}</value>
+  </data>
 </root>
