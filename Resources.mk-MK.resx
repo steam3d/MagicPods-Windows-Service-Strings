@@ -76,4 +76,7 @@
   <data name="Text_Battery_LR" xml:space="preserve">
     <value>Лево: {0}%{1} Десно: {2}%{3}</value>
   </data>
+  <data name="Text_Battery_Single" xml:space="preserve">
+    <value>Полнење: {0}%{1}</value>
+  </data>
 </root>
