@@ -241,4 +241,7 @@
   <data name="Text_ContextMenu_NoiseCancellation_Adaptive" xml:space="preserve">
     <value>Adaptif</value>
   </data>
+  <data name="Text_Battery_LR" xml:space="preserve">
+    <value>Sol: {0}%{1} Sağ: {2}%{3}</value>
+  </data>
 </root>
