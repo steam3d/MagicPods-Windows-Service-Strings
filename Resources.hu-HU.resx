@@ -182,4 +182,7 @@
     <value>Licensz nem található. Nyisd meg a {0} további részletekért</value>
     <comment>{0} will be replaced to app name.</comment>
   </data>
+  <data name="Text_Battery_LR" xml:space="preserve">
+    <value>Bal: {0}%{1} Jobb: {2}%{3}</value>
+  </data>
 </root>
