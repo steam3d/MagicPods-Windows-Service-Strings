@@ -113,7 +113,7 @@
     <comment>Abbreviation of the word «Right»</comment>
   </data>
   <data name="Text_Battery_Single" xml:space="preserve">
-    <value>शुल्क{0}%{1}</value>
+    <value>शुल्क: {0}%{1}</value>
     <comment>{0} will be replaced to battery level, {1} to charge status.</comment>
   </data>
   <data name="Text_Icon_Bluetooth_Initialization_Error" xml:space="preserve">
