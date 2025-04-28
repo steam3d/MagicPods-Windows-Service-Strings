@@ -169,4 +169,7 @@
   <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
     <value>Za prikaz stopnje napolnjenosti priključite slušalke</value>
   </data>
+  <data name="Text_Battery_LR" xml:space="preserve">
+    <value>Levo: {0}%{1} Desno: {2}%{3}</value>
+  </data>
 </root>
