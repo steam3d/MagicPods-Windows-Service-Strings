@@ -182,4 +182,7 @@
     <value>Licensen blev ikke fundet. Åbn {0} for detaljer</value>
     <comment>{0} will be replaced to app name.</comment>
   </data>
+  <data name="Text_Battery_LR" xml:space="preserve">
+    <value>Venstre: {0}%{1} Højre: {2}%{3}</value>
+  </data>
 </root>
