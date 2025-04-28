@@ -182,4 +182,7 @@
     <value>लाइसेंस नहीं मिला. विवरण के लिए {0} खोलें</value>
     <comment>{0} will be replaced to app name.</comment>
   </data>
+  <data name="Text_Battery_LR" xml:space="preserve">
+    <value>बाएं: {0}%{1} दाएं: {2}%{3}</value>
+  </data>
 </root>
