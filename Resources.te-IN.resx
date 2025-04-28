@@ -111,7 +111,7 @@
     <value>సెట్టింగ్‌లు</value>
   </data>
   <data name="Text_Battery_Single" xml:space="preserve">
-    <value>ఛార్జ్ {0}% {1}</value>
+    <value>ఛార్జ్: {0}%{1}</value>
     <comment>{0} will be replaced to battery level, {1} to charge status.</comment>
   </data>
   <data name="Text_Battery_Error" xml:space="preserve">
