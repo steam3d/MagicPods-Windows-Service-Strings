@@ -80,7 +80,7 @@
     <value>Akun latauksen päivittäminen epäonnistui</value>
   </data>
   <data name="Text_Battery_Single" xml:space="preserve">
-    <value>Lataus {0} % {1}</value>
+    <value>Lataus: {0}%{1}</value>
     <comment>{0} will be replaced to battery level, {1} to charge status.</comment>
   </data>
   <data name="Battery_Short_Left" xml:space="preserve">
