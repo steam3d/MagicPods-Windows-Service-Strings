@@ -241,4 +241,7 @@
   <data name="Text_ContextMenu_NoiseCancellation_Adaptive" xml:space="preserve">
     <value>적응형 오디오</value>
   </data>
+  <data name="Text_Battery_LR" xml:space="preserve">
+    <value>왼쪽: {0}%{1} 오른쪽: {2}%{3}</value>
+  </data>
 </root>
