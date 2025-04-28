@@ -181,4 +181,7 @@
   <data name="Text_License_LicenseNotFound" xml:space="preserve">
     <value>找无许可证。打开 {0} 看详细内容</value>
   </data>
+  <data name="Text_Battery_LR" xml:space="preserve">
+    <value>左：{0}%{1} 右：{2}%{3}</value>
+  </data>
 </root>
