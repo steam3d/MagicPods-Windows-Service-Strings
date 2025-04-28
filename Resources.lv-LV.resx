@@ -80,7 +80,7 @@
     <value>Bluetooth nav pieejams vai netiek atbalstīts</value>
   </data>
   <data name="Text_Battery_Single" xml:space="preserve">
-    <value>Uzlāde {0}% {1}</value>
+    <value>Uzlāde: {0}%{1}</value>
     <comment>{0} will be replaced to battery level, {1} to charge status.</comment>
   </data>
   <data name="Text_ContextMenu_Headphones_Disconnect" xml:space="preserve">
