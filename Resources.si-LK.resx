@@ -146,4 +146,10 @@
   <data name="Text_Battery_LR" xml:space="preserve">
     <value>වම: {0}%{1} දකුණ: {2}%{3}</value>
   </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Adaptive" xml:space="preserve">
+    <value>අනුරූපණශීලී</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_WindCancellation" xml:space="preserve">
+    <value>සුළඟ අහෝසි කිරීම</value>
+  </data>
 </root>
