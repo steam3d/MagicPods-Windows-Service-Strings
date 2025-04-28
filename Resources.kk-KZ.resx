@@ -127,7 +127,7 @@
     <value>Құлаққаптармен байланыс үзілді</value>
   </data>
   <data name="Text_Battery_Single" xml:space="preserve">
-    <value>Қуаты{0}% {1}</value>
+    <value>Қуаты: {0}%{1}</value>
   </data>
   <data name="Text_ContextMenu_Headphones_Connecting" xml:space="preserve">
     <value>Байланысуда {0}</value>
