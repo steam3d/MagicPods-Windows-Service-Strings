@@ -86,7 +86,7 @@
     <value>ಸಂಪರ್ಕ ಕಡಿತಗೊಳಿಸಲಾಗುತ್ತಿದೆ {0}</value>
   </data>
   <data name="Text_Battery_Single" xml:space="preserve">
-    <value>ಚಾರ್ಜ್ ಸ್ಥಿತಿ {0} % {1}</value>
+    <value>ಚಾರ್ಜ್ ಸ್ಥಿತಿ: {0}%{1}</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_AmbientSound" xml:space="preserve">
     <value>ಸುತ್ತುವರಿದ ಧ್ವನಿ</value>
