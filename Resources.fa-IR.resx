@@ -179,4 +179,7 @@
     <value>لایسنس برنامه یافت نشد. برای اطلاعت بیشتر، بخش {0} را بازکنید</value>
     <comment>{0} will be replaced to app name.</comment>
   </data>
+  <data name="Text_Battery_LR" xml:space="preserve">
+    <value>چپ: {0}%{1} راست: {2}%{3}</value>
+  </data>
 </root>
