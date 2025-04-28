@@ -146,4 +146,7 @@
   <data name="Text_Widget_Battery_Right" xml:space="preserve">
     <value>Desno</value>
   </data>
+  <data name="Text_Battery_LR" xml:space="preserve">
+    <value>Levo: {0}%{1} Desno: {2}%{3}</value>
+  </data>
 </root>
