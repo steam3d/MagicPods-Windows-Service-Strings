@@ -167,10 +167,10 @@
     <value>Otkazivanje vjetra</value>
   </data>
   <data name="Text_Widget_Battery_Left" xml:space="preserve">
-    <value>lijeva</value>
+    <value>Lijeva</value>
   </data>
   <data name="Text_Widget_Battery_Right" xml:space="preserve">
-    <value>desna</value>
+    <value>Desna</value>
   </data>
   <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
     <value>Spojite slušalice za prikaz razine baterije</value>
