@@ -182,4 +182,7 @@
     <value>Licence nebyla nalezena. Otevřete {0} pro více detailů</value>
     <comment>{0} will be replaced to app name.</comment>
   </data>
+  <data name="Text_Battery_LR" xml:space="preserve">
+    <value>Levý: {0}%{1} Pravý: {2}%{3}</value>
+  </data>
 </root>
