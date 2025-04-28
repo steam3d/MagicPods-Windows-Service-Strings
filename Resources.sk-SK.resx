@@ -181,4 +181,7 @@
   <data name="Text_License_LicenseNotFound" xml:space="preserve">
     <value>Licencia sa nenašla. Otvorte {0} pre podrobnosti</value>
   </data>
+  <data name="Text_Battery_LR" xml:space="preserve">
+    <value>Ľavý: {0}%{1} Pravý: {2}%{3}</value>
+  </data>
 </root>
