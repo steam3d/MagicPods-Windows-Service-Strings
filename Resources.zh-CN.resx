@@ -241,4 +241,7 @@
   <data name="Text_ContextMenu_NoiseCancellation_Adaptive" xml:space="preserve">
     <value>自适应</value>
   </data>
+  <data name="Text_Battery_LR" xml:space="preserve">
+    <value>左：{0}%{1} 右：{2}%{3}</value>
+  </data>
 </root>
