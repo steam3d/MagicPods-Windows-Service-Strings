@@ -136,7 +136,7 @@
     <value>Поиск AirPods</value>
   </data>
   <data name="Text_Battery_Single" xml:space="preserve">
-    <value>Заряд {0}% {1}</value>
+    <value>Заряд: {0}%{1}</value>
   </data>
   <data name="Text_Battery_Error" xml:space="preserve">
     <value>Не удалось обновить заряд батареи</value>
