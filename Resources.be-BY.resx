@@ -172,4 +172,7 @@
   <data name="Text_Widget_Battery_Right" xml:space="preserve">
     <value>Правы</value>
   </data>
+  <data name="Text_Battery_LR" xml:space="preserve">
+    <value>Левы: {0}%{1} Правы: {2}%{3}</value>
+  </data>
 </root>
