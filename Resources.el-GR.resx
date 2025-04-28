@@ -74,7 +74,7 @@
     <value>Αναζήτηση AirPods</value>
   </data>
   <data name="Text_Battery_Single" xml:space="preserve">
-    <value>Αλλαγή{0}%{1}</value>
+    <value>Αλλαγή: {0}%{1}</value>
     <comment>{0} will be replaced to battery level, {1} to charge status.</comment>
   </data>
   <data name="Text_Battery_Error" xml:space="preserve">
