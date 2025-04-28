@@ -68,7 +68,7 @@
     <value>設定</value>
   </data>
   <data name="Text_Battery_Single" xml:space="preserve">
-    <value>バッテリー残量{0}%{1}</value>
+    <value>バッテリー残量：{0}%{1}</value>
     <comment>{0} will be replaced to battery level, {1} to charge status.</comment>
   </data>
   <data name="Text_Battery_Error" xml:space="preserve">
@@ -183,6 +183,6 @@
     <value>アダプティヴ</value>
   </data>
   <data name="Text_Battery_LR" xml:space="preserve">
-    <value>左: {0}%{1} 右: {2}%{3}</value>
+    <value>左：{0}%{1} 右：{2}%{3}</value>
   </data>
 </root>
