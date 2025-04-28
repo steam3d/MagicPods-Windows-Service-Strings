@@ -157,4 +157,7 @@
   <data name="Text_Widget_Battery_Case" xml:space="preserve">
     <value>Kutia</value>
   </data>
+  <data name="Text_Battery_LR" xml:space="preserve">
+    <value>Majtas: {0}%{1} Djathtas: {2}%{3}</value>
+  </data>
 </root>
