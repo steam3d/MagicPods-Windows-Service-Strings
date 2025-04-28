@@ -139,7 +139,7 @@
     <value>배터리 잔량을 업데이트하지 못했습니다</value>
   </data>
   <data name="Text_Battery_Single" xml:space="preserve">
-    <value>충전 중 {0}% {1}</value>
+    <value>충전 중: {0}%{1}</value>
     <comment>{0} will be replaced to battery level, {1} to charge status.</comment>
   </data>
   <data name="Text_ContextMenu_Headphones_Connect" xml:space="preserve">
