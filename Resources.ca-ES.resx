@@ -169,4 +169,7 @@
   <data name="Text_Widget_Battery_Right" xml:space="preserve">
     <value>Dreta</value>
   </data>
+  <data name="Text_Battery_LR" xml:space="preserve">
+    <value>Esquerra: {0}%{1} Dreta: {2}%{3}</value>
+  </data>
 </root>
