@@ -66,7 +66,7 @@
     <comment>{0} will be replaced to AirPods name. I recommend using an abbreviation so that the name of the headphones can be seen.</comment>
   </data>
   <data name="Text_Battery_Single" xml:space="preserve">
-    <value>Agbara Batiri {0}%{1}</value>
+    <value>Agbara Batiri: {0}%{1}</value>
     <comment>{0} will be replaced to battery level, {1} to charge status.</comment>
   </data>
   <data name="Text_Settings" xml:space="preserve">
