@@ -143,4 +143,7 @@
   <data name="Text_Widget_Battery_Case" xml:space="preserve">
     <value>කේස්</value>
   </data>
+  <data name="Text_Battery_LR" xml:space="preserve">
+    <value>වම: {0}%{1} දකුණ: {2}%{3}</value>
+  </data>
 </root>
