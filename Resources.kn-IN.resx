@@ -172,4 +172,7 @@
   <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
     <value>ಚಾರ್ಜ್ ಮಟ್ಟವನ್ನು ಪ್ರದರ್ಶಿಸಲು ಶಿರ ಶ್ರವಣಕಗಳನ್ನು ಸಂಪರ್ಕಿಸಿ</value>
   </data>
+  <data name="Text_Battery_LR" xml:space="preserve">
+    <value>ಎಡ: {0}%{1} ಬಲ: {2}%{3}</value>
+  </data>
 </root>
