@@ -182,4 +182,7 @@
     <value>רישיון לא נמצא. פתח את {0} לקבלת פרטים</value>
     <comment>{0} will be replaced to app name.</comment>
   </data>
+  <data name="Text_Battery_LR" xml:space="preserve">
+    <value>שמאל: {0}%{1} ימין: {2}%{3}</value>
+  </data>
 </root>
