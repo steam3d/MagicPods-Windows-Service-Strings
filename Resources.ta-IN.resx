@@ -179,4 +179,7 @@
   <data name="Text_Widget_Battery_Right" xml:space="preserve">
     <value>வலது</value>
   </data>
+  <data name="Text_Battery_LR" xml:space="preserve">
+    <value>இடது: {0}%{1} வலது: {2}%{3}</value>
+  </data>
 </root>
