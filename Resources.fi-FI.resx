@@ -182,4 +182,7 @@
     <value>Lisenssiä ei löydy. Avaa {0} saadaksesi lisätietoja</value>
     <comment>{0} will be replaced to app name.</comment>
   </data>
+  <data name="Text_Battery_LR" xml:space="preserve">
+    <value>Vasen: {0}%{1} Oikea: {2}%{3}</value>
+  </data>
 </root>
