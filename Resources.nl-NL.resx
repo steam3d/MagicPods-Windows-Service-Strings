@@ -241,4 +241,7 @@
     <value>Licentie niet gevonden. Open {0} voor meer informatie</value>
     <comment>{0} will be replaced to app name.</comment>
   </data>
+  <data name="Text_Battery_LR" xml:space="preserve">
+    <value>Links: {0}%{1} Rechts: {2}%{3}</value>
+  </data>
 </root>
