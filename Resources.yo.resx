@@ -157,4 +157,7 @@
   <data name="Text_Widget_Battery_Case" xml:space="preserve">
     <value>Apoti</value>
   </data>
+  <data name="Text_Battery_LR" xml:space="preserve">
+    <value>Òsì: {0}%{1} Ọtún: {2}%{3}</value>
+  </data>
 </root>
