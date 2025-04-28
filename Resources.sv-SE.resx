@@ -181,4 +181,7 @@
   <data name="Text_License_LicenseNotFound" xml:space="preserve">
     <value>Licens hittades inte. Öppna {0} för mer information</value>
   </data>
+  <data name="Text_Battery_LR" xml:space="preserve">
+    <value>Vänster: {0}%{1} Höger: {2}%{3}</value>
+  </data>
 </root>
