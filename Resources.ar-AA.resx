@@ -182,4 +182,7 @@
   <data name="Text_ContextMenu_NoiseCancellation_Adaptive" xml:space="preserve">
     <value>تكيفي</value>
   </data>
+  <data name="Text_Battery_LR" xml:space="preserve">
+    <value>اليسار: {0}%{1} اليمين: {2}%{3}</value>
+  </data>
 </root>
