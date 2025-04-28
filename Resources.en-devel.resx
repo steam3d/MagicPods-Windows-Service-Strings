@@ -181,4 +181,7 @@
   <data name="Text_License_LicenseNotFound" xml:space="preserve">
     <value>License not found. Open {0} for details</value>
   </data>
+  <data name="Text_Battery_LR" xml:space="preserve">
+    <value>Left: {0}%{1} Right: {2}%{3}</value>
+  </data>
 </root>
