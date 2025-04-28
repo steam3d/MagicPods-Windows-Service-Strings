@@ -179,4 +179,7 @@
   <data name="Text_License_LicenseNotFound" xml:space="preserve">
     <value>لائسنس نہیں ملا۔ تفصیلات کے لیے {0} کھولیں</value>
   </data>
+  <data name="Text_Battery_LR" xml:space="preserve">
+    <value>بائیں: {0}%{1} دائیں: {2}%{3}</value>
+  </data>
 </root>
