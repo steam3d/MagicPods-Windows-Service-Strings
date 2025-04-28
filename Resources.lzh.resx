@@ -182,4 +182,7 @@
   <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
     <value>连接耳机以显示电量</value>
   </data>
+  <data name="Text_Battery_LR" xml:space="preserve">
+    <value>左：{0}%{1} 右：{2}%{3}</value>
+  </data>
 </root>
