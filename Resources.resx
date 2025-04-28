@@ -136,8 +136,8 @@
     <value>Searching AirPods</value>
   </data>
   <data name="Text_Battery_Single" xml:space="preserve">
-    <value>Charge {0}% {1}</value>
-    <comment>{0} will be replaced to battery level, {1} to charge status.</comment>
+    <value>Charge: {0}%{1}</value>
+    <comment>{0} will be replaced with the battery level, and {1} with the charge status.</comment>
   </data>
   <data name="Text_Battery_Error" xml:space="preserve">
     <value>Failed to update battery charge</value>
@@ -169,11 +169,11 @@
   </data>
   <data name="Battery_Short_Left" xml:space="preserve">
     <value>L</value>
-    <comment>Abbreviation of the word «Left»</comment>
+    <comment>Deprecated. Abbreviation of the word «Left»</comment>
   </data>
   <data name="Battery_Short_Right" xml:space="preserve">
     <value>R</value>
-    <comment>Abbreviation of the word «Right»</comment>
+    <comment>Deprecated. Abbreviation of the word «Right»</comment>
   </data>
   <data name="Text_Icon_Bluetooth_Not_Found" xml:space="preserve">
     <value>Bluetooth adapter not found</value>
@@ -240,5 +240,9 @@
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_Adaptive" xml:space="preserve">
     <value>Adaptive</value>
+  </data>
+  <data name="Text_Battery_LR" xml:space="preserve">
+    <value>Left: {0}%{1} Right: {2}%{3}</value>
+    <comment>{0} and {2} will be replaced with the battery level, and {1} and {3} with the charge status.</comment>
   </data>
 </root>
