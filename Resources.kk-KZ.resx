@@ -144,4 +144,7 @@
   <data name="Text_Widget_Battery_Right" xml:space="preserve">
     <value>Оң</value>
   </data>
+  <data name="Text_Battery_LR" xml:space="preserve">
+    <value>Сол: {0}%{1} Оң: {2}%{3}</value>
+  </data>
 </root>
