@@ -182,4 +182,7 @@
   <data name="Text_ContextMenu_NoiseCancellation_Adaptive" xml:space="preserve">
     <value>Adattivo</value>
   </data>
+  <data name="Text_Battery_LR" xml:space="preserve">
+    <value>Sinistra: {0}%{1} Destra: {2}%{3}</value>
+  </data>
 </root>
