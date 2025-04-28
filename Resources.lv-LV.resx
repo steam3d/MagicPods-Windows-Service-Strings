@@ -172,4 +172,7 @@
   <data name="Text_Widget_Battery_Right" xml:space="preserve">
     <value>Labais</value>
   </data>
+  <data name="Text_Battery_LR" xml:space="preserve">
+    <value>Kreisais: {0}%{1} Labais: {2}%{3}</value>
+  </data>
 </root>
