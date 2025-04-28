@@ -181,4 +181,7 @@
   <data name="Text_License_LicenseNotFound" xml:space="preserve">
     <value>Hindi natagpuan and lisensya. Buksan ang {0} para sa detalye</value>
   </data>
+  <data name="Text_Battery_LR" xml:space="preserve">
+    <value>Kaliwa: {0}%{1} Kanan: {2}%{3}</value>
+  </data>
 </root>
