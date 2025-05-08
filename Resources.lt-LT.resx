@@ -178,4 +178,10 @@
   <data name="Text_Battery_LR" xml:space="preserve">
     <value>Kairė: {0}%{1} Dešinė: {2}%{3}</value>
   </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Adaptive" xml:space="preserve">
+    <value>Prisitaikantis</value>
+  </data>
+  <data name="Text_License_LicenseNotFound" xml:space="preserve">
+    <value>Licencija nerasta. Norėdami gauti daugiau informacijos, atidarykite {0}</value>
+  </data>
 </root>
