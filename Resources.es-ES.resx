@@ -62,7 +62,7 @@
     <value>Salir</value>
   </data>
   <data name="Text_Icon_Default" xml:space="preserve">
-    <value>Audífonos desconectados</value>
+    <value>Auriculares desconectados</value>
   </data>
   <data name="Text_Icon_Error" xml:space="preserve">
     <value>Bluetooth no es compatible o no está disponible</value>
@@ -173,10 +173,10 @@
     <value>Derecho</value>
   </data>
   <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
-    <value>Conecte audiphonos para mostrar el nivel de carga</value>
+    <value>Conecte los auriculares para mostrar el nivel de carga</value>
   </data>
   <data name="Text_License_LicenseNotFound" xml:space="preserve">
-    <value>Licencia no encontrada. Abre {0} para detalles</value>
+    <value>Licencia no encontrada. Abre {0} para ver detalles</value>
     <comment>{0} will be replaced to app name.</comment>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_Adaptive" xml:space="preserve">
