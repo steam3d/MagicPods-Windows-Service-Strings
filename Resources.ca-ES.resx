@@ -172,4 +172,16 @@
   <data name="Text_Battery_LR" xml:space="preserve">
     <value>Esquerra: {0}%{1} Dreta: {2}%{3}</value>
   </data>
+  <data name="Text_License_LicenseNotFound" xml:space="preserve">
+    <value>Llicència no trobada. Obre {0} per veure detalls</value>
+  </data>
+  <data name="Text_Widget_Battery_Single" xml:space="preserve">
+    <value>Càrrega</value>
+  </data>
+  <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
+    <value>Connecteu els auriculars per mostrar el nivell de càrrega</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Adaptive" xml:space="preserve">
+    <value>Adaptatiu</value>
+  </data>
 </root>
