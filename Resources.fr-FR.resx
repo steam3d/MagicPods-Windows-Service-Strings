@@ -136,7 +136,7 @@
     <value>Recherche des AirPods</value>
   </data>
   <data name="Text_Battery_Single" xml:space="preserve">
-    <value>Chargé: {0}%{1}</value>
+    <value>Batterie : {0}%{1}</value>
     <comment>{0} will be replaced to battery level, {1} to charge status.</comment>
   </data>
   <data name="Text_Battery_Error" xml:space="preserve">
@@ -154,7 +154,7 @@
     <value>Activé</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
-    <value>Arrêt</value>
+    <value>Désactivé</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
     <value>Voix Off</value>
@@ -205,7 +205,7 @@
     <value>Connecté {0}</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_NoiseCancellation" xml:space="preserve">
-    <value>Annulation du bruit</value>
+    <value>Réduction du bruit</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
     <value>Transparence</value>
@@ -232,7 +232,7 @@
     <value>Droit</value>
   </data>
   <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
-    <value>Brancher les écouteurs pour afficher le niveau de charge</value>
+    <value>Connecter les écouteurs pour afficher le niveau de charge</value>
   </data>
   <data name="Text_License_LicenseNotFound" xml:space="preserve">
     <value>Licence non trouvé. Ouvrez {0} pour plus de détails</value>
@@ -242,6 +242,6 @@
     <value>Adaptatif</value>
   </data>
   <data name="Text_Battery_LR" xml:space="preserve">
-    <value>Gauche: {0}%{1} Droite: {2}%{3}</value>
+    <value>Gauche : {0}%{1} Droite : {2}%{3}</value>
   </data>
 </root>
