@@ -62,23 +62,23 @@
     <value>हेडफोन डिस्कनेक्ट हो गए</value>
   </data>
   <data name="Text_Icon_Error" xml:space="preserve">
-    <value>ब्लूटूथ उपलब्ध नहीं है</value>
+    <value>ब्लूटूथ समर्थित नहीं है या उपलब्ध नहीं है</value>
   </data>
   <data name="Text_Settings" xml:space="preserve">
-    <value>समायोजन</value>
+    <value>सेटिंग्स</value>
   </data>
   <data name="Text_Button_Connect" xml:space="preserve">
-    <value>जुडिये</value>
+    <value>कनेक्ट करें</value>
   </data>
   <data name="Text_Exit" xml:space="preserve">
-    <value>एग्ज़िट</value>
+    <value>निकास</value>
   </data>
   <data name="Text_ContextMenu_Headphones_Connect" xml:space="preserve">
-    <value>जुडिये{0}</value>
+    <value>कनेक्ट {0}</value>
     <comment>{0} will be replaced to AirPods name. I recommend using an abbreviation so that the name of the headphones can be seen.</comment>
   </data>
   <data name="Text_Icon_Search" xml:space="preserve">
-    <value>खोज कर ऐरपोडस</value>
+    <value>एयरपॉड्स खोज रहे हैं</value>
   </data>
   <data name="Text_Battery_Error" xml:space="preserve">
     <value>बैटरी चार्ज अपडेट करने में विफल</value>
@@ -88,32 +88,32 @@
     <comment>{0} will be replaced to AirPods name. I recommend using an abbreviation so that the name of the headphones can be seen</comment>
   </data>
   <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
-    <value>पार्श्व स्वर</value>
+    <value>वॉइसओवर</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver_Enabled" xml:space="preserve">
-    <value>पर</value>
+    <value>चालू</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
     <value>बंद</value>
   </data>
   <data name="Text_ContextMenu_Headphones_Connecting" xml:space="preserve">
-    <value>कनेक्ट{0}</value>
+    <value>कनेक्ट हो रहा है{0}</value>
     <comment>{0} will be replaced to AirPods name. The headphones are connecting right now</comment>
   </data>
   <data name="Text_ContextMenu_Headphones_Disconnecting" xml:space="preserve">
-    <value>डिस्कनेक्ट कर रहा है{0}</value>
+    <value>डिस्कनेक्ट हो रहा है{0}</value>
     <comment>{0} will be replaced to AirPods name. The headphones are disconnecting right now</comment>
   </data>
   <data name="Battery_Short_Left" xml:space="preserve">
-    <value>ली</value>
+    <value>बा</value>
     <comment>Abbreviation of the word «Left»</comment>
   </data>
   <data name="Battery_Short_Right" xml:space="preserve">
-    <value>आर</value>
+    <value>दा</value>
     <comment>Abbreviation of the word «Right»</comment>
   </data>
   <data name="Text_Battery_Single" xml:space="preserve">
-    <value>शुल्क: {0}%{1}</value>
+    <value>चार्ज: {0}%{1}</value>
     <comment>{0} will be replaced to battery level, {1} to charge status.</comment>
   </data>
   <data name="Text_Icon_Bluetooth_Initialization_Error" xml:space="preserve">
@@ -126,10 +126,10 @@
     <value>एकाधिक ब्लूटूथ एडेप्टर जुड़े हुए हैं</value>
   </data>
   <data name="Text_Icon_Bluetooth_Not_Supported_Classic" xml:space="preserve">
-    <value>ब्लूटूथ एडेप्टर ब्लूटूथ क्लासिक का समर्थन नहीं करता है</value>
+    <value>ब्लूटूथ एडाप्टर ब्लूटूथ क्लासिक को सपोर्ट नहीं करता</value>
   </data>
   <data name="Text_Icon_Bluetooth_Not_Supported_LE" xml:space="preserve">
-    <value>ब्लूटूथ एडेप्टर ब्लूटूथ LE का समर्थन नहीं करता है</value>
+    <value>ब्लूटूथ एडाप्टर ब्लूटूथ LE को सपोर्ट नहीं करता</value>
   </data>
   <data name="Text_Icon_Bluetooth_Off" xml:space="preserve">
     <value>ब्लूटूथ बंद</value>
@@ -143,22 +143,22 @@
     <comment>0} will be replaced to streaming device name.</comment>
   </data>
   <data name="Text_Icon_Connected" xml:space="preserve">
-    <value>जुड़े हुए {0}</value>
+    <value>कनेक्टेड {0}</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
-    <value>बंद</value>
+    <value>नॉइज़ कैंसलेशन बंद</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_NoiseCancellation" xml:space="preserve">
-    <value>शोर रद्द</value>
+    <value>नॉइज़ कैंसलेशन</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
-    <value>पारदर्शिता</value>
+    <value>ट्रांसपेरेंसी</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_AmbientSound" xml:space="preserve">
     <value>परिवेशीय ध्वनि</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_WindCancellation" xml:space="preserve">
-    <value>पवन रद्दीकरण</value>
+    <value>हवा नॉइज़ कैंसलेशन</value>
   </data>
   <data name="Text_Widget_Battery_Single" xml:space="preserve">
     <value>चार्ज</value>
@@ -167,22 +167,22 @@
     <value>केस</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_Adaptive" xml:space="preserve">
-    <value>अनुकूली</value>
+    <value>अनुकूलनीय</value>
   </data>
   <data name="Text_Widget_Battery_Left" xml:space="preserve">
-    <value>बाएं</value>
+    <value>बायाँ</value>
   </data>
   <data name="Text_Widget_Battery_Right" xml:space="preserve">
-    <value>दाएं</value>
+    <value>दायाँ</value>
   </data>
   <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
-    <value>चार्ज स्तर प्रदर्शित करने के लिए हेडफ़ोन कनेक्ट करें</value>
+    <value>बैटरी लेवल देखने के लिए हेडफोन कनेक्ट करें</value>
   </data>
   <data name="Text_License_LicenseNotFound" xml:space="preserve">
     <value>लाइसेंस नहीं मिला. विवरण के लिए {0} खोलें</value>
     <comment>{0} will be replaced to app name.</comment>
   </data>
   <data name="Text_Battery_LR" xml:space="preserve">
-    <value>बाएं: {0}%{1} दाएं: {2}%{3}</value>
+    <value>बायाँ: {0}%{1} दायाँ : {2}%{3}</value>
   </data>
 </root>
