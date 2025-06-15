@@ -182,4 +182,7 @@
   <data name="Text_Battery_LR" xml:space="preserve">
     <value>چپ: {0}%{1} راست: {2}%{3}</value>
   </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Adaptive" xml:space="preserve">
+    <value>تطبیقی</value>
+  </data>
 </root>
