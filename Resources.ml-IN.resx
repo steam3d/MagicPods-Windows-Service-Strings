@@ -61,4 +61,16 @@
   <data name="Text_Exit" xml:space="preserve">
     <value>എക്സിറ്റ്</value>
   </data>
+  <data name="Text_Button_Connect" xml:space="preserve">
+    <value>കണക്റ്റ് ചെയ്യുക</value>
+  </data>
+  <data name="Text_Icon_Search" xml:space="preserve">
+    <value>AirPods അന്വേഷിക്കുന്നു</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Off" xml:space="preserve">
+    <value>ബ്ലൂടൂത്ത് ഓഫാണ്</value>
+  </data>
+  <data name="Text_Widget_Battery_Single" xml:space="preserve">
+    <value>ചാർജ്</value>
+  </data>
 </root>
