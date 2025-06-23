@@ -73,4 +73,10 @@
   <data name="Text_Battery_LR" xml:space="preserve">
     <value>ਖੱਬਾ: {0}%{1} ਸੱਜਾ: {2}%{3}</value>
   </data>
+  <data name="Text_Icon_Error" xml:space="preserve">
+    <value>ਬਲੂਟੁੱਥ ਸਮਰਥਿਤ ਨਹੀਂ ਹੈ ਜਾਂ ਉਪਲਬਧ ਨਹੀਂ ਹੈ</value>
+  </data>
+  <data name="Text_Icon_Default" xml:space="preserve">
+    <value>ਹੈੱਡਫੋਨ ਡਿਸਕਨੈਕਟ ਕੀਤੇ ਗਏ</value>
+  </data>
 </root>
