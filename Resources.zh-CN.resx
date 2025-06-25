@@ -226,7 +226,7 @@
     <value>右</value>
   </data>
   <data name="Text_Widget_Battery_Case" xml:space="preserve">
-    <value>充电盒</value>
+    <value>充电仓</value>
   </data>
   <data name="Text_Widget_Battery_Single" xml:space="preserve">
     <value>电量</value>
