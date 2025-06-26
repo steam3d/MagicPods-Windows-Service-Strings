@@ -235,7 +235,7 @@
     <value>連接耳機以顯示電量</value>
   </data>
   <data name="Text_License_LicenseNotFound" xml:space="preserve">
-    <value>未找到認證。請打開{0}獲取更多</value>
+    <value>未找到授權。請打開{0}獲取更多</value>
     <comment>{0} will be replaced to app name.</comment>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_Adaptive" xml:space="preserve">
