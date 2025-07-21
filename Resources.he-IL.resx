@@ -78,7 +78,7 @@
     <comment>{0} will be replaced to battery level, {1} to charge status.</comment>
   </data>
   <data name="Text_Battery_Error" xml:space="preserve">
-    <value>נסיון הטעינה נכשל</value>
+    <value>נסיון עדכון רמת הטעינה נכשל</value>
   </data>
   <data name="Text_Icon_Search" xml:space="preserve">
     <value>חיפוש ב-AirPods</value>
@@ -109,7 +109,7 @@
     <comment>{0} will be replaced to AirPods name. The headphones are connecting right now</comment>
   </data>
   <data name="Text_ContextMenu_Headphones_Disconnecting" xml:space="preserve">
-    <value>מתנתק {0}</value>
+    <value>מתנתק מ{0}</value>
     <comment>{0} will be replaced to AirPods name. The headphones are disconnecting right now</comment>
   </data>
   <data name="Battery_Short_Left" xml:space="preserve">
@@ -135,7 +135,7 @@
     <value>שגיאת אתחול במתאם הבלוטוס</value>
   </data>
   <data name="Text_Icon_Connected" xml:space="preserve">
-    <value>מחובר {0}</value>
+    <value>מחובר ל{0}</value>
   </data>
   <data name="Text_ContextMenu_StreamingDevice_Connect" xml:space="preserve">
     <value>נגן מ{0}</value>
@@ -155,13 +155,13 @@
     <value>שקיפות</value>
   </data>
   <data name="Text_Widget_Battery_Case" xml:space="preserve">
-    <value>מארז</value>
+    <value>כיסוי לאוזניות</value>
   </data>
   <data name="Text_Widget_Battery_Single" xml:space="preserve">
     <value>טעינה</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_AmbientSound" xml:space="preserve">
-    <value>צליל סביבה</value>
+    <value>צלילי סביבה</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_WindCancellation" xml:space="preserve">
     <value>מצב - ביטול רוח</value>
@@ -170,10 +170,10 @@
     <value>שמע מותאם</value>
   </data>
   <data name="Text_Widget_Battery_Left" xml:space="preserve">
-    <value>שמאל</value>
+    <value>צד שמאל</value>
   </data>
   <data name="Text_Widget_Battery_Right" xml:space="preserve">
-    <value>ימין</value>
+    <value>צד ימין</value>
   </data>
   <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
     <value>חבר את האוזניות כדי להציג את רמת הסוללה</value>
