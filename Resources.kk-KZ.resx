@@ -65,11 +65,11 @@
     <value>AirPods ізденуде</value>
   </data>
   <data name="Battery_Short_Left" xml:space="preserve">
-    <value>Сол</value>
+    <value>С</value>
     <comment>Abbreviation of the word «Left»</comment>
   </data>
   <data name="Battery_Short_Right" xml:space="preserve">
-    <value>Оң</value>
+    <value>О</value>
     <comment>Abbreviation of the word «Right»</comment>
   </data>
   <data name="Text_Icon_Bluetooth_Off" xml:space="preserve">
@@ -115,13 +115,13 @@
     <value>Қосулы</value>
   </data>
   <data name="Text_ContextMenu_Headphones_Disconnecting" xml:space="preserve">
-    <value>Ажыратуда {0}</value>
+    <value>{0} Ажыратуда</value>
   </data>
   <data name="Text_ContextMenu_Headphones_Disconnect" xml:space="preserve">
     <value>Ажырату {0}</value>
   </data>
   <data name="Text_Icon_Bluetooth_Not_Supported_LE" xml:space="preserve">
-    <value>Bluetooth адаптері Bluetooth LE Қолданбасын қолдамайды</value>
+    <value>Bluetooth адаптері Bluetooth LE қолданбасын қолдамайды</value>
   </data>
   <data name="Text_Icon_Default" xml:space="preserve">
     <value>Құлаққаптармен байланыс үзілді</value>
@@ -130,7 +130,7 @@
     <value>Қуаты: {0}%{1}</value>
   </data>
   <data name="Text_ContextMenu_Headphones_Connecting" xml:space="preserve">
-    <value>Байланысуда {0}</value>
+    <value>{0} Байланысуда</value>
   </data>
   <data name="Text_Icon_Bluetooth_Not_Supported_Classic" xml:space="preserve">
     <value>Bluetooth адаптері, Bluetooth Classic Қолданбасын қолдамайды</value>
@@ -146,5 +146,35 @@
   </data>
   <data name="Text_Battery_LR" xml:space="preserve">
     <value>Сол: {0}%{1} Оң: {2}%{3}</value>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Disconnect" xml:space="preserve">
+    <value>{0}-ден стримді тоқтату</value>
+  </data>
+  <data name="Text_Icon_Connected" xml:space="preserve">
+    <value>{0} байланыс орнатылды</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
+    <value>Мөлдірлік</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_AmbientSound" xml:space="preserve">
+    <value>Айналадағы дыбыс</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_WindCancellation" xml:space="preserve">
+    <value>Жел шуын басу</value>
+  </data>
+  <data name="Text_License_LicenseNotFound" xml:space="preserve">
+    <value>Лицензия табылмады. Мәліметтер үшін {0} ашыңыз</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_NoiseCancellation" xml:space="preserve">
+    <value>Шуыл басу</value>
+  </data>
+  <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
+    <value>Қуат деңгейін көру үшін құлаққапты жалғаңыз</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Adaptive" xml:space="preserve">
+    <value>Бейімделгіш</value>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Connect" xml:space="preserve">
+    <value>Стрим {0}-ден</value>
   </data>
 </root>
