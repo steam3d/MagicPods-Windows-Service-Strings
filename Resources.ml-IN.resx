@@ -73,4 +73,106 @@
   <data name="Text_Widget_Battery_Single" xml:space="preserve">
     <value>ചാർജ്</value>
   </data>
+  <data name="Text_Icon_Default" xml:space="preserve">
+    <value>ഹെഡ്ഫോൺ ഡിസ്കണക്റ്റ് ആയി</value>
+  </data>
+  <data name="Text_Icon_Error" xml:space="preserve">
+    <value>ബ്ലൂടൂത്ത് സപ്പോർട്ട് ഇല്ല അല്ലെങ്കിൽ ലഭ്യമല്ല</value>
+  </data>
+  <data name="Text_Settings" xml:space="preserve">
+    <value>അമർത്തം</value>
+  </data>
+  <data name="Text_Battery_Single" xml:space="preserve">
+    <value>ചാർജ്: {0}%{1}</value>
+  </data>
+  <data name="Text_Battery_Error" xml:space="preserve">
+    <value>ബാറ്ററി ചാർജ് അപ്ഡേറ്റ് ചെയ്യാൻ കഴിയില്ല</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Disconnect" xml:space="preserve">
+    <value>{0} ഡിസ്‌കണക്ട് ചെയ്യുക</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
+    <value>വോയ്സ് ഓവർ</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver_Enabled" xml:space="preserve">
+    <value>ഓൺ ആക്കി</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
+    <value>ആം</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Connecting" xml:space="preserve">
+    <value>{0} കണക്ട് ചെയ്യുന്നു</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Disconnecting" xml:space="preserve">
+    <value>{0} ഡിസ്‌കണക്ട് ചെയ്യുന്നു</value>
+  </data>
+  <data name="Battery_Short_Left" xml:space="preserve">
+    <value>L</value>
+  </data>
+  <data name="Battery_Short_Right" xml:space="preserve">
+    <value>R</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Multiple_Adapters_Found" xml:space="preserve">
+    <value>പല ബ്ലൂടൂത്ത് അഡാപ്റ്ററുകൾ കണക്ട് ചെയ്തിരിക്കുന്നു</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_LE" xml:space="preserve">
+    <value>ബ്ലൂടൂത്ത് അഡാപ്റ്റർ ബ്ലൂടൂത്ത് LE പിന്തുണയ്ക്കുന്നില്ല</value>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Connect" xml:space="preserve">
+    <value>ൽ നിന്ന് സ്ട്രീം ചെയ്യുക{0}</value>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Disconnect" xml:space="preserve">
+    <value>ൽ നിന്ന് സ്ട്രീം ചെയ്യുന്നത് നിർത്തുക{0}</value>
+  </data>
+  <data name="Text_Icon_Connected" xml:space="preserve">
+    <value>{0} കണക്റ്റ് ചെയ്തു</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_NoiseCancellation" xml:space="preserve">
+    <value>ശബ്ദം നിരസിക്കൽ</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
+    <value>ആം</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
+    <value>പാരദർശിത്വം</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_WindCancellation" xml:space="preserve">
+    <value>കാറ്റ് നിരസിക്കൽ</value>
+  </data>
+  <data name="Text_Widget_Battery_Left" xml:space="preserve">
+    <value>ഇടത്</value>
+  </data>
+  <data name="Text_Widget_Battery_Right" xml:space="preserve">
+    <value>വലത്</value>
+  </data>
+  <data name="Text_Widget_Battery_Case" xml:space="preserve">
+    <value>കവലം</value>
+  </data>
+  <data name="Text_License_LicenseNotFound" xml:space="preserve">
+    <value>ലൈസൻസ് കണ്ടെത്തിയില്ല. വിശദാംശങ്ങൾക്ക് {0} തുറക്കുക</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Adaptive" xml:space="preserve">
+    <value>അനുസരിച്ചുള്ള</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Connect" xml:space="preserve">
+    <value>{0} കണക്ട് ചെയ്യുക</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Initialization_Error" xml:space="preserve">
+    <value>ബ്ലൂടൂത്ത് അഡാപ്റ്റർ ബ്ലൂടൂത്ത് LE പിന്തുണയ്ക്കുന്നില്ല</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Found" xml:space="preserve">
+    <value>ബ്ലൂടൂത്ത് അഡാപ്റ്റർ കണ്ടെത്തിയില്ല</value>
+  </data>
+  <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
+    <value>ചാർജ് ലെവൽ കാണിക്കാൻ ഹെഡ്‌ഫോണുകൾ കണക്ട് ചെയ്യുക</value>
+  </data>
+  <data name="Text_Battery_LR" xml:space="preserve">
+    <value>ഇടത്: {0}%{1} വലത്: {2}%{3}</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_Classic" xml:space="preserve">
+    <value>ബ്ലൂടൂത്ത് അഡാപ്റ്റർ ബ്ലൂടൂത്ത് ക്ലാസിക് പിന്തുണയ്ക്കുന്നില്ല</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_AmbientSound" xml:space="preserve">
+    <value>ചുറ്റുപാടിലെ ശബ്ദം</value>
+  </data>
 </root>
