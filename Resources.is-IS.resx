@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,121 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Text_Icon_Error" xml:space="preserve">
+    <value>Bluetooth er ekki stutt eða tiltækt</value>
+  </data>
+  <data name="Text_Settings" xml:space="preserve">
+    <value>Stillingar</value>
+  </data>
+  <data name="Text_Button_Connect" xml:space="preserve">
+    <value>Tengja</value>
+  </data>
+  <data name="Text_Icon_Search" xml:space="preserve">
+    <value>Leita að AirPods</value>
+  </data>
+  <data name="Text_Exit" xml:space="preserve">
+    <value>Hætta</value>
+  </data>
+  <data name="Text_Icon_Default" xml:space="preserve">
+    <value>Heyrnartól aftengd</value>
+  </data>
+  <data name="Text_Battery_Single" xml:space="preserve">
+    <value>Hleðsla: {0}%{1}</value>
+  </data>
+  <data name="Text_Battery_Error" xml:space="preserve">
+    <value>Mistókst að uppfæra hleðslu</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Connect" xml:space="preserve">
+    <value>Tengja {0}</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Disconnect" xml:space="preserve">
+    <value>Aftengja {0}</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
+    <value>VoiceOver</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver_Enabled" xml:space="preserve">
+    <value>Kveikt</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
+    <value>Slökkt</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Connecting" xml:space="preserve">
+    <value>Tengist {0}</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Disconnecting" xml:space="preserve">
+    <value>Aftengist {0}</value>
+  </data>
+  <data name="Battery_Short_Left" xml:space="preserve">
+    <value>L</value>
+  </data>
+  <data name="Battery_Short_Right" xml:space="preserve">
+    <value>R</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Found" xml:space="preserve">
+    <value>Bluetooth millistykki fannst ekki</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Multiple_Adapters_Found" xml:space="preserve">
+    <value>Fleiri Bluetooth millistykki tengd</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_Classic" xml:space="preserve">
+    <value>Bluetooth millistykkið styður ekki Bluetooth Classic</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_LE" xml:space="preserve">
+    <value>Bluetooth millistykkið styður ekki Bluetooth LE</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Off" xml:space="preserve">
+    <value>Bluetooth slökkt</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Initialization_Error" xml:space="preserve">
+    <value>Villa við upphaf Bluetooth millistykkis</value>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Connect" xml:space="preserve">
+    <value>Streyma frá {0}</value>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Disconnect" xml:space="preserve">
+    <value>Hætta að streyma frá {0}</value>
+  </data>
+  <data name="Text_Icon_Connected" xml:space="preserve">
+    <value>Tengt {0}</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_NoiseCancellation" xml:space="preserve">
+    <value>Hljóðeinangrun</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
+    <value>Slökkt</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
+    <value>Gegnsæi</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_AmbientSound" xml:space="preserve">
+    <value>Umhverfishljóð</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_WindCancellation" xml:space="preserve">
+    <value>Vindeyðing</value>
+  </data>
+  <data name="Text_Widget_Battery_Left" xml:space="preserve">
+    <value>Vinstri</value>
+  </data>
+  <data name="Text_Widget_Battery_Right" xml:space="preserve">
+    <value>Hægri</value>
+  </data>
+  <data name="Text_Widget_Battery_Case" xml:space="preserve">
+    <value>Hylki</value>
+  </data>
+  <data name="Text_Widget_Battery_Single" xml:space="preserve">
+    <value>Hleðsla</value>
+  </data>
+  <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
+    <value>Tengdu heyrnartól til að sýna hleðslustigið</value>
+  </data>
+  <data name="Text_License_LicenseNotFound" xml:space="preserve">
+    <value>Leyfi fannst ekki. Opnaðu {0} fyrir nánari upplýsingar</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Adaptive" xml:space="preserve">
+    <value>Aðlögunarhæfur</value>
+  </data>
+  <data name="Text_Battery_LR" xml:space="preserve">
+    <value>Vinstri: {0}%{1} Hægri: {2}%{3}</value>
+  </data>
 </root>
