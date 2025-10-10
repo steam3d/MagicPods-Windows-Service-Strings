@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,121 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Text_Exit" xml:space="preserve">
+    <value>Гарах</value>
+  </data>
+  <data name="Text_Icon_Default" xml:space="preserve">
+    <value>Чихэвчийг салгасан</value>
+  </data>
+  <data name="Text_Icon_Error" xml:space="preserve">
+    <value>Bluetooth дэмжигдээгүй эсвэл боломжгүй байна</value>
+  </data>
+  <data name="Text_Settings" xml:space="preserve">
+    <value>Тохиргоо</value>
+  </data>
+  <data name="Text_Button_Connect" xml:space="preserve">
+    <value>Холбох</value>
+  </data>
+  <data name="Text_Icon_Search" xml:space="preserve">
+    <value>AirPods хайж байна</value>
+  </data>
+  <data name="Text_Battery_Single" xml:space="preserve">
+    <value>Цэнэглэх: {0}%{1}</value>
+  </data>
+  <data name="Text_Battery_Error" xml:space="preserve">
+    <value>Зайны цэнэгийг шинэчилж чадсангүй</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Connect" xml:space="preserve">
+    <value>{0}-г холбох</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Disconnect" xml:space="preserve">
+    <value>{0}-г салгах</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
+    <value>өгүүлэмж</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver_Enabled" xml:space="preserve">
+    <value>Идэвхжүүлсэн</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
+    <value>хаалт</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Connecting" xml:space="preserve">
+    <value>{0}-г холбож байна</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Disconnecting" xml:space="preserve">
+    <value>{0}-г салгаж байна</value>
+  </data>
+  <data name="Battery_Short_Left" xml:space="preserve">
+    <value>зүүн</value>
+  </data>
+  <data name="Battery_Short_Right" xml:space="preserve">
+    <value>зөв</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Found" xml:space="preserve">
+    <value>Bluetooth хүлээн авагч олдсонгүй</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Multiple_Adapters_Found" xml:space="preserve">
+    <value>Олон Bluetooth адаптер холбогдсон</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_Classic" xml:space="preserve">
+    <value>Bluetooth адаптер нь сонгодог Bluetooth-ийг дэмждэггүй</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_LE" xml:space="preserve">
+    <value>Энэхүү Bluetooth хүлээн авагч нь Bluetooth Low Energy технологийг дэмждэггүй</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Off" xml:space="preserve">
+    <value>Bluetooth унтраалттай</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Initialization_Error" xml:space="preserve">
+    <value>Bluetooth адаптер эхлүүлэхэд алдаа гарлаа</value>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Connect" xml:space="preserve">
+    <value>{0}-с дамжуулах</value>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Disconnect" xml:space="preserve">
+    <value>{0}-с дамжуулахыг зогсоох</value>
+  </data>
+  <data name="Text_Icon_Connected" xml:space="preserve">
+    <value>Холбогдсон {0}</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_NoiseCancellation" xml:space="preserve">
+    <value>Дуу чимээг арилгах</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
+    <value>хаалт</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
+    <value>Ил тод байдал</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_AmbientSound" xml:space="preserve">
+    <value>Орчны дуу чимээ</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_WindCancellation" xml:space="preserve">
+    <value>Салхи цуцлах</value>
+  </data>
+  <data name="Text_Widget_Battery_Left" xml:space="preserve">
+    <value>зүүн</value>
+  </data>
+  <data name="Text_Widget_Battery_Right" xml:space="preserve">
+    <value>Зөв</value>
+  </data>
+  <data name="Text_Widget_Battery_Case" xml:space="preserve">
+    <value>Кейс</value>
+  </data>
+  <data name="Text_Widget_Battery_Single" xml:space="preserve">
+    <value>Цэнэглэх</value>
+  </data>
+  <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
+    <value>Цэнэглэх түвшинг харуулахын тулд чихэвчийг холбоно уу</value>
+  </data>
+  <data name="Text_License_LicenseNotFound" xml:space="preserve">
+    <value>Лиценз олдсонгүй. Дэлгэрэнгүй мэдээллийг {0}-г нээнэ үү</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Adaptive" xml:space="preserve">
+    <value>Дасан зохицох чадвартай</value>
+  </data>
+  <data name="Text_Battery_LR" xml:space="preserve">
+    <value>Зүүн: {0}%{1} Баруун: {2}%{3}</value>
+  </data>
 </root>
