@@ -139,20 +139,20 @@
     <comment>{0} will be replaced to streaming device name.</comment>
   </data>
   <data name="Text_ContextMenu_StreamingDevice_Disconnect" xml:space="preserve">
-    <value>Stopp strømming fra {0}</value>
+    <value>Stop streaming fra {0}</value>
     <comment>0} will be replaced to streaming device name.</comment>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_NoiseCancellation" xml:space="preserve">
     <value>Støjdæmpning</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
-    <value>Slået fra</value>
+    <value>Fra</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
-    <value>Transprarens</value>
+    <value>Transparens</value>
   </data>
   <data name="Text_Icon_Connected" xml:space="preserve">
-    <value>Forbundet {0}</value>
+    <value>Tilsluttet {0}</value>
   </data>
   <data name="Text_Widget_Battery_Case" xml:space="preserve">
     <value>Etui</value>
