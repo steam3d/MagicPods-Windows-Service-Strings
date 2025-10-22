@@ -75,7 +75,7 @@
     <comment>{0} will be replaced to battery level, {1} to charge status.</comment>
   </data>
   <data name="Text_Battery_Error" xml:space="preserve">
-    <value>Falhou a atualização do carregamento da bateria</value>
+    <value>Falha ao atualizar a carga da bateria</value>
   </data>
   <data name="Text_ContextMenu_Headphones_Disconnect" xml:space="preserve">
     <value>Desconectar{0}</value>
