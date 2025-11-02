@@ -194,11 +194,11 @@
     <value>未找到蓝牙适配器</value>
   </data>
   <data name="Text_ContextMenu_StreamingDevice_Connect" xml:space="preserve">
-    <value>开始串流 {0}</value>
+    <value>开始从 {0} 串流</value>
     <comment>{0} will be replaced to streaming device name.</comment>
   </data>
   <data name="Text_ContextMenu_StreamingDevice_Disconnect" xml:space="preserve">
-    <value>停止串流 {0}</value>
+    <value>停止从 {0} 串流</value>
     <comment>0} will be replaced to streaming device name.</comment>
   </data>
   <data name="Text_Icon_Connected" xml:space="preserve">
