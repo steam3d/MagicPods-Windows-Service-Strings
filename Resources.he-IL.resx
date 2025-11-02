@@ -62,13 +62,13 @@
     <value>הגדרות</value>
   </data>
   <data name="Text_Button_Connect" xml:space="preserve">
-    <value>לְחַבֵּר</value>
+    <value>התחבר</value>
   </data>
   <data name="Text_Exit" xml:space="preserve">
-    <value>יְצִיאָה</value>
+    <value>יציאה</value>
   </data>
   <data name="Text_Icon_Default" xml:space="preserve">
-    <value>האוזניות מנותקות</value>
+    <value>האוזניה מנותקת</value>
   </data>
   <data name="Text_Icon_Error" xml:space="preserve">
     <value>הבלוטוס אינו נתמך או אינו זמין</value>
@@ -78,7 +78,7 @@
     <comment>{0} will be replaced to battery level, {1} to charge status.</comment>
   </data>
   <data name="Text_Battery_Error" xml:space="preserve">
-    <value>נסיון עדכון רמת הטעינה נכשל</value>
+    <value>נכשל העדכון באחוז הטעינה</value>
   </data>
   <data name="Text_Icon_Search" xml:space="preserve">
     <value>חיפוש ב-AirPods</value>
@@ -88,10 +88,10 @@
     <comment>Abbreviation of the word «Right»</comment>
   </data>
   <data name="Text_ContextMenu_VoiceOver_Enabled" xml:space="preserve">
-    <value>דולק</value>
+    <value>מחובר</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
-    <value>כבוי</value>
+    <value>התנתק</value>
   </data>
   <data name="Text_ContextMenu_Headphones_Connect" xml:space="preserve">
     <value>חבר ל{0}</value>
