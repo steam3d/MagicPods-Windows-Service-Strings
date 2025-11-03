@@ -163,4 +163,16 @@
   <data name="Text_Widget_Battery_Single" xml:space="preserve">
     <value>Ngarkim</value>
   </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
+    <value>Transparenca</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_AmbientSound" xml:space="preserve">
+    <value>Tingull ambienti</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_WindCancellation" xml:space="preserve">
+    <value>Anulimi i erës</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_NoiseCancellation" xml:space="preserve">
+    <value>Anulimi i zhurmës</value>
+  </data>
 </root>
