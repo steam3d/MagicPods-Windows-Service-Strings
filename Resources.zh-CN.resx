@@ -151,7 +151,7 @@
     <comment>{0} will be replaced to AirPods name</comment>
   </data>
   <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
-    <value>旁白</value>
+    <value>朗读通知</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver_Enabled" xml:space="preserve">
     <value>开</value>
@@ -217,7 +217,7 @@
     <value>环境音</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_WindCancellation" xml:space="preserve">
-    <value>风噪</value>
+    <value>风噪消除</value>
   </data>
   <data name="Text_Widget_Battery_Left" xml:space="preserve">
     <value>左</value>
