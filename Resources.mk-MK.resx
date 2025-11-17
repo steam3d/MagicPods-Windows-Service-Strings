@@ -79,4 +79,19 @@
   <data name="Text_Battery_Single" xml:space="preserve">
     <value>Полнење: {0}%{1}</value>
   </data>
+  <data name="Text_Icon_Default" xml:space="preserve">
+    <value>Слушалките се исклучени</value>
+  </data>
+  <data name="Text_Icon_Error" xml:space="preserve">
+    <value>Bluetooth не е поддржан или достапен</value>
+  </data>
+  <data name="Text_Settings" xml:space="preserve">
+    <value>Поставки</value>
+  </data>
+  <data name="Text_Button_Connect" xml:space="preserve">
+    <value>Поврзи</value>
+  </data>
+  <data name="Text_Battery_Error" xml:space="preserve">
+    <value>Неуспешно ажурирање на наполнетоста на батеријата</value>
+  </data>
 </root>
