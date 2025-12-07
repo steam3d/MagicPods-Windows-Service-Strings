@@ -124,7 +124,7 @@
     <value>Fone de ouvido desconectado</value>
   </data>
   <data name="Text_Icon_Error" xml:space="preserve">
-    <value>Bluetooth não suportado ou disponível</value>
+    <value>Bluetooth não suportado ou indisponível</value>
   </data>
   <data name="Text_Settings" xml:space="preserve">
     <value>Configurações</value>
