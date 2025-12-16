@@ -175,4 +175,13 @@
   <data name="Text_Battery_LR" xml:space="preserve">
     <value>Kreisais: {0}%{1} Labais: {2}%{3}</value>
   </data>
+  <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
+    <value>Savienojiet austiņas, lai parādītu uzlādes līmeni</value>
+  </data>
+  <data name="Text_License_LicenseNotFound" xml:space="preserve">
+    <value>Licence nav atrasta. Atveriet {0} lai skatītu detaļas</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Adaptive" xml:space="preserve">
+    <value>Adaptīvā</value>
+  </data>
 </root>
