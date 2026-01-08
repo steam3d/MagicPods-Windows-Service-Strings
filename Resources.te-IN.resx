@@ -178,4 +178,10 @@
   <data name="Text_Battery_LR" xml:space="preserve">
     <value>ఎడమ: {0}%{1} కుడి: {2}%{3}</value>
   </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Adaptive" xml:space="preserve">
+    <value>అనుకూలమైనది</value>
+  </data>
+  <data name="Text_License_LicenseNotFound" xml:space="preserve">
+    <value>లైసెన్స్ కనుగొనబడలేదు. వివరాల కోసం {0}ను ఓపెన్ చేయండి</value>
+  </data>
 </root>
