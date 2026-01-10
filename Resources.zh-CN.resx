@@ -157,7 +157,7 @@
     <value>开</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
-    <value>关</value>
+    <value>关闭</value>
   </data>
   <data name="Battery_Short_Left" xml:space="preserve">
     <value>左</value>
