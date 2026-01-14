@@ -121,10 +121,10 @@
     <value>Salir</value>
   </data>
   <data name="Text_Icon_Default" xml:space="preserve">
-    <value>Audifonos Desconectados</value>
+    <value>Audífonos desconectados</value>
   </data>
   <data name="Text_Icon_Error" xml:space="preserve">
-    <value>El Bluetooth no es compatible o no está disponible</value>
+    <value>Bluetooth no es compatible o no está disponible</value>
   </data>
   <data name="Text_Settings" xml:space="preserve">
     <value>Configuración</value>
