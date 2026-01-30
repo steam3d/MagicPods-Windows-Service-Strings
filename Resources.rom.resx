@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,34 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Text_Exit" xml:space="preserve">
+    <value>Džal avri</value>
+  </data>
+  <data name="Text_Icon_Default" xml:space="preserve">
+    <value>E sluchatki nane phandle</value>
+  </data>
+  <data name="Text_Icon_Error" xml:space="preserve">
+    <value>Nane podpora vaš bluetooth abo bluetooth nane dochudno</value>
+  </data>
+  <data name="Text_Settings" xml:space="preserve">
+    <value>Čeribena</value>
+  </data>
+  <data name="Text_Button_Connect" xml:space="preserve">
+    <value>Phandel</value>
+  </data>
+  <data name="Text_Icon_Search" xml:space="preserve">
+    <value>Rodav le AirPodi</value>
+  </data>
+  <data name="Text_Battery_Single" xml:space="preserve">
+    <value>Baterkakeri buťipen: {0}% {1}</value>
+  </data>
+  <data name="Text_Battery_Error" xml:space="preserve">
+    <value>La aktualizacija buťipnaskeri baterkakeri mosaľiľa</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Disconnect" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Connect" xml:space="preserve">
+    <value>Phandel paš {0}</value>
+  </data>
 </root>
