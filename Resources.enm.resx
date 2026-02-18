@@ -61,4 +61,19 @@
   <data name="Text_Button_Connect" xml:space="preserve">
     <value>Plugin</value>
   </data>
+  <data name="Text_Exit" xml:space="preserve">
+    <value>Exit</value>
+  </data>
+  <data name="Text_Icon_Default" xml:space="preserve">
+    <value>Hedfonnes disconneced</value>
+  </data>
+  <data name="Text_Icon_Error" xml:space="preserve">
+    <value>Bluetooth is nat supported ne available</value>
+  </data>
+  <data name="Text_Settings" xml:space="preserve">
+    <value>Settynges</value>
+  </data>
+  <data name="Text_Icon_Search" xml:space="preserve">
+    <value>Searcynge AirPods</value>
+  </data>
 </root>
