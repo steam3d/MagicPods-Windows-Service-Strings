@@ -83,9 +83,9 @@
     <value>La aktualizacija buťipnaskeri baterkakeri mosaľiľa</value>
   </data>
   <data name="Text_ContextMenu_Headphones_Disconnect" xml:space="preserve">
-    <value></value>
+    <value>Phag {0}</value>
   </data>
   <data name="Text_ContextMenu_Headphones_Connect" xml:space="preserve">
-    <value>Phandel paš {0}</value>
+    <value>Kethane {0}</value>
   </data>
 </root>
