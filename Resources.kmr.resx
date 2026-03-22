@@ -62,7 +62,7 @@
     <value>derketin</value>
   </data>
   <data name="Text_Icon_Default" xml:space="preserve">
-    <value>AirPod veqetandin</value>
+    <value>Guhguh qut bû</value>
   </data>
   <data name="Text_Icon_Error" xml:space="preserve">
     <value>Bluetooth nayê destek kirin an peyda nabe</value>
@@ -86,7 +86,7 @@
     <value>Bigire</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
-    <value>Dengbêjî</value>
+    <value>Dengbêj</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver_Enabled" xml:space="preserve">
     <value>Li ser</value>
@@ -101,7 +101,7 @@
     <value>Bigirevîn {0}</value>
   </data>
   <data name="Battery_Short_Left" xml:space="preserve">
-    <value>Çep</value>
+    <value>L</value>
   </data>
   <data name="Battery_Short_Right" xml:space="preserve">
     <value>Rast</value>
@@ -146,10 +146,10 @@
     <value>Betlanîna ba</value>
   </data>
   <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
-    <value>Guhên li ser amûrê bigire da ku astengê barkirinê nîşan bide</value>
+    <value>Ji bo nîşandana asta şarjê berguhkê girêbidin</value>
   </data>
   <data name="Text_License_LicenseNotFound" xml:space="preserve">
-    <value>Lîsans nehat dîtin. {0} vekirê da ku hûrguliyên bistînin</value>
+    <value>Lîsans nehat dîtin. Ji bo hûrguliyan {0} vekin</value>
   </data>
   <data name="Text_Settings" xml:space="preserve">
     <value>Mîheng</value>
@@ -171,5 +171,8 @@
   </data>
   <data name="Text_Battery_LR" xml:space="preserve">
     <value>Çep: {0}%{1} Rast: {2}%{3}</value>
+  </data>
+  <data name="Text_Widget_Battery_Right" xml:space="preserve">
+    <value>Rast e</value>
   </data>
 </root>
