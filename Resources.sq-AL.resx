@@ -175,4 +175,13 @@
   <data name="Text_ContextMenu_NoiseCancellation_NoiseCancellation" xml:space="preserve">
     <value>Anulimi i zhurmës</value>
   </data>
+  <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
+    <value>Lidhni kufjet për të shfaqur nivelin e baterisë</value>
+  </data>
+  <data name="Text_License_LicenseNotFound" xml:space="preserve">
+    <value>Licenca nuk u gjet. Hap {0} për detaje</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Adaptive" xml:space="preserve">
+    <value>Përshtatshëm</value>
+  </data>
 </root>
