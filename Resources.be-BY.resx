@@ -175,4 +175,13 @@
   <data name="Text_Battery_LR" xml:space="preserve">
     <value>Левы: {0}%{1} Правы: {2}%{3}</value>
   </data>
+  <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
+    <value>Падключыце навушнікі, каб адлюстраваць узровень зарада</value>
+  </data>
+  <data name="Text_License_LicenseNotFound" xml:space="preserve">
+    <value>Ліцэнзія не знойдзена. Адкрыйце {0} для падрабязнасцяў</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Adaptive" xml:space="preserve">
+    <value>Адаптыўны</value>
+  </data>
 </root>
