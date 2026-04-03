@@ -152,7 +152,7 @@
     <value>ലൈസൻസ് കണ്ടെത്തിയില്ല. വിശദാംശങ്ങൾക്ക് {0} തുറക്കുക</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_Adaptive" xml:space="preserve">
-    <value>അനുസരിച്ചുള്ള</value>
+    <value>അഡാപ്റ്റീവ്</value>
   </data>
   <data name="Text_ContextMenu_Headphones_Connect" xml:space="preserve">
     <value>{0} കണക്ട് ചെയ്യുക</value>
