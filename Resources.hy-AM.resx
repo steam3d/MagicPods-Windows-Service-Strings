@@ -64,4 +64,7 @@
   <data name="Text_Icon_Default" xml:space="preserve">
     <value>Լսափողերը անջատված են</value>
   </data>
+  <data name="Text_Icon_Error" xml:space="preserve">
+    <value>Bluetooth-ը չի աջակցվում կամ հասանելի չէ</value>
+  </data>
 </root>
