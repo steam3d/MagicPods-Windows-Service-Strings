@@ -62,7 +62,7 @@
     <value>Plugin</value>
   </data>
   <data name="Text_Exit" xml:space="preserve">
-    <value>Exit</value>
+    <value>Quit MagicPods</value>
   </data>
   <data name="Text_Icon_Default" xml:space="preserve">
     <value>Hedfonnes disconneced</value>
@@ -74,6 +74,33 @@
     <value>Settynges</value>
   </data>
   <data name="Text_Icon_Search" xml:space="preserve">
-    <value>Searcynge AirPods</value>
+    <value>Searching for AirPods</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
+    <value>Off</value>
+  </data>
+  <data name="Battery_Short_Left" xml:space="preserve">
+    <value>L</value>
+  </data>
+  <data name="Battery_Short_Right" xml:space="preserve">
+    <value>R</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Found" xml:space="preserve">
+    <value>Bluetooth connection not available</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Multiple_Adapters_Found" xml:space="preserve">
+    <value>More than one Bluetooth dongle connected</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Off" xml:space="preserve">
+    <value>Bluetooth is turned off</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Initialization_Error" xml:space="preserve">
+    <value>Failed to initialize the Bluetooth adapter</value>
+  </data>
+  <data name="Text_Widget_Battery_Case" xml:space="preserve">
+    <value>Case</value>
+  </data>
+  <data name="Text_Widget_Battery_Single" xml:space="preserve">
+    <value>Charge</value>
   </data>
 </root>
