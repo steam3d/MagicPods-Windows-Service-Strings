@@ -181,4 +181,7 @@
   <data name="Text_Battery_LR" xml:space="preserve">
     <value>Stânga: {0}%{1} Dreapta: {2}%{3}</value>
   </data>
+  <data name="Text_License_LicenseNotFound" xml:space="preserve">
+    <value>Licenta nu a fost gasită. Deschide {0} pentru mai multe detalii</value>
+  </data>
 </root>
