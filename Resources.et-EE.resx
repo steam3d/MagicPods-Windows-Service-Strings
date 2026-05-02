@@ -89,7 +89,7 @@
     <value>Ühenda lahti {0}</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
-    <value>VoiceOver</value>
+    <value>Pealelugemine</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver_Enabled" xml:space="preserve">
     <value>Sees</value>
@@ -135,5 +135,44 @@
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
     <value>Väljas</value>
+  </data>
+  <data name="Battery_Short_Left" xml:space="preserve">
+    <value>V</value>
+  </data>
+  <data name="Battery_Short_Right" xml:space="preserve">
+    <value>P</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
+    <value>Läbikuuldavus</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_AmbientSound" xml:space="preserve">
+    <value>Ümbritsev heli</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_WindCancellation" xml:space="preserve">
+    <value>Tuulemüra summutamine</value>
+  </data>
+  <data name="Text_Widget_Battery_Left" xml:space="preserve">
+    <value>Vasak</value>
+  </data>
+  <data name="Text_Widget_Battery_Right" xml:space="preserve">
+    <value>Parem</value>
+  </data>
+  <data name="Text_Widget_Battery_Case" xml:space="preserve">
+    <value>Karp</value>
+  </data>
+  <data name="Text_Widget_Battery_Single" xml:space="preserve">
+    <value>Laetus</value>
+  </data>
+  <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
+    <value>Laetuse taseme kuvamiseks ühendage kõrvaklapid</value>
+  </data>
+  <data name="Text_License_LicenseNotFound" xml:space="preserve">
+    <value>Litsentsi ei leitud. Üksikasjade nägemiseks avage {0}</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Adaptive" xml:space="preserve">
+    <value>Adaptiivne</value>
+  </data>
+  <data name="Text_Battery_LR" xml:space="preserve">
+    <value>Vasak: {0}%{1} Parem: {2}%{3}</value>
   </data>
 </root>
