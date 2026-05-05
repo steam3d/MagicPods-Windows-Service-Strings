@@ -94,4 +94,7 @@
   <data name="Text_Battery_Error" xml:space="preserve">
     <value>Неуспешно ажурирање на наполнетоста на батеријата</value>
   </data>
+  <data name="Text_ContextMenu_Headphones_Connect" xml:space="preserve">
+    <value>Поврзи {0}</value>
+  </data>
 </root>
