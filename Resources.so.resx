@@ -79,4 +79,22 @@
   <data name="Text_Battery_Single" xml:space="preserve">
     <value>Batari: {0}%{1}</value>
   </data>
+  <data name="Text_Battery_Error" xml:space="preserve">
+    <value>Imeshindwa kusasisha chaji ya betri</value>
+  </data>
+  <data name="Battery_Short_Left" xml:space="preserve">
+    <value>L</value>
+  </data>
+  <data name="Battery_Short_Right" xml:space="preserve">
+    <value>R</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver_Enabled" xml:space="preserve">
+    <value>Imewashwa</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
+    <value>Imezimwa</value>
+  </data>
 </root>
