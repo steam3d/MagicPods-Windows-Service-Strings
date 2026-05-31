@@ -118,10 +118,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Text_Exit" xml:space="preserve">
-    <value>Afsluiten</value>
+    <value>MagicPods afsluiten</value>
   </data>
   <data name="Text_Icon_Default" xml:space="preserve">
-    <value>Koptelefoon losgekoppeld</value>
+    <value>Hoofdtelefoon losgekoppeld</value>
   </data>
   <data name="Text_Icon_Error" xml:space="preserve">
     <value>Bluetooth wordt niet ondersteund of is niet beschikbaar</value>
@@ -130,10 +130,10 @@
     <value>Instellingen</value>
   </data>
   <data name="Text_Button_Connect" xml:space="preserve">
-    <value>Verbinden</value>
+    <value>Verbind</value>
   </data>
   <data name="Text_Icon_Search" xml:space="preserve">
-    <value>Bezig met zoeken naar AirPods</value>
+    <value>Zoeken naar AirPods</value>
   </data>
   <data name="Text_Battery_Single" xml:space="preserve">
     <value>Batterijpercentage: {0}%{1}</value>
