@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,121 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Text_Exit" xml:space="preserve">
+    <value>প্রস্থান</value>
+  </data>
+  <data name="Text_Icon_Default" xml:space="preserve">
+    <value>হেডফোন সংযোগ বিচ্ছিন্ন</value>
+  </data>
+  <data name="Text_Icon_Error" xml:space="preserve">
+    <value>ব্লুটুথ সমর্থিত নয় বা উপলব্ধ নয়</value>
+  </data>
+  <data name="Text_Settings" xml:space="preserve">
+    <value>সেটিংস</value>
+  </data>
+  <data name="Text_Button_Connect" xml:space="preserve">
+    <value>সংযোগ করুন</value>
+  </data>
+  <data name="Text_Icon_Search" xml:space="preserve">
+    <value>AirPods খোঁজা হচ্ছে</value>
+  </data>
+  <data name="Text_Battery_Single" xml:space="preserve">
+    <value>চার্জ: {0}%{1}</value>
+  </data>
+  <data name="Text_Battery_Error" xml:space="preserve">
+    <value>ব্যাটারির চার্জ আপডেট করতে ব্যর্থ</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Connect" xml:space="preserve">
+    <value>{0} সংযোগ করুন</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Disconnect" xml:space="preserve">
+    <value>{0} সংযোগ বিচ্ছিন্ন করুন</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
+    <value>ভয়েসওভার</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver_Enabled" xml:space="preserve">
+    <value>চালু</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
+    <value>বন্ধ</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Connecting" xml:space="preserve">
+    <value>{0} সংযোগ করা হচ্ছে</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Disconnecting" xml:space="preserve">
+    <value>{0} সংযোগ বিচ্ছিন্ন করা হচ্ছে</value>
+  </data>
+  <data name="Battery_Short_Left" xml:space="preserve">
+    <value>বাম</value>
+  </data>
+  <data name="Battery_Short_Right" xml:space="preserve">
+    <value>ডান</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Found" xml:space="preserve">
+    <value>ব্লুটুথ অ্যাডাপ্টার পাওয়া যায়নি</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Multiple_Adapters_Found" xml:space="preserve">
+    <value>একাধিক ব্লুটুথ অ্যাডাপ্টার সংযুক্ত</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_Classic" xml:space="preserve">
+    <value>ব্লুটুথ অ্যাডাপ্টার ব্লুটুথ ক্লাসিক সমর্থন করে না</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_LE" xml:space="preserve">
+    <value>ব্লুটুথ অ্যাডাপ্টার ব্লুটুথ LE সমর্থন করে না</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Off" xml:space="preserve">
+    <value>ব্লুটুথ বন্ধ</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Initialization_Error" xml:space="preserve">
+    <value>ব্লুটুথ অ্যাডাপ্টার ইনিশিয়ালাইজেশন ত্রুটি</value>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Connect" xml:space="preserve">
+    <value>{0} থেকে স্ট্রিম করুন</value>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Disconnect" xml:space="preserve">
+    <value>{0} থেকে স্ট্রিমিং বন্ধ করুন</value>
+  </data>
+  <data name="Text_Icon_Connected" xml:space="preserve">
+    <value>{0} সংযুক্ত</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_NoiseCancellation" xml:space="preserve">
+    <value>নয়েজ ক্যানসেলেশন</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
+    <value>বন্ধ</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
+    <value>ট্রান্সপারেন্সি</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_AmbientSound" xml:space="preserve">
+    <value>অ্যাম্বিয়েন্ট সাউন্ড</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_WindCancellation" xml:space="preserve">
+    <value>উইন্ড ক্যানসেলেশন</value>
+  </data>
+  <data name="Text_Widget_Battery_Left" xml:space="preserve">
+    <value>এল</value>
+  </data>
+  <data name="Text_Widget_Battery_Right" xml:space="preserve">
+    <value>ডান</value>
+  </data>
+  <data name="Text_Widget_Battery_Case" xml:space="preserve">
+    <value>কেস</value>
+  </data>
+  <data name="Text_Widget_Battery_Single" xml:space="preserve">
+    <value>চার্জ</value>
+  </data>
+  <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
+    <value>চার্জের স্তর দেখাতে হেডফোন সংযুক্ত করুন</value>
+  </data>
+  <data name="Text_License_LicenseNotFound" xml:space="preserve">
+    <value>লাইসেন্স পাওয়া যায়নি। বিস্তারিত জানতে {0} খুলুন</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Adaptive" xml:space="preserve">
+    <value>অ্যাডাপটিভ</value>
+  </data>
+  <data name="Text_Battery_LR" xml:space="preserve">
+    <value>বাম: {0}%{1} ডান: {2}%{3}</value>
+  </data>
 </root>
