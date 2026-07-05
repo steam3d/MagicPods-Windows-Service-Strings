@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,121 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Text_Exit" xml:space="preserve">
+    <value>બહાર નીકળો</value>
+  </data>
+  <data name="Text_Icon_Default" xml:space="preserve">
+    <value>હેડફોન જોડાયેલ નથી</value>
+  </data>
+  <data name="Text_Icon_Error" xml:space="preserve">
+    <value>બ્લૂટૂથ સપોર્ટેડ નથી અથવા ઉપલબ્ધ નથી</value>
+  </data>
+  <data name="Text_Settings" xml:space="preserve">
+    <value>સેટિંગ્સ</value>
+  </data>
+  <data name="Text_Button_Connect" xml:space="preserve">
+    <value>કનેક્ટ કરો</value>
+  </data>
+  <data name="Text_Icon_Search" xml:space="preserve">
+    <value>એરપોડ્સ શોધી રહ્યા છીએ</value>
+  </data>
+  <data name="Text_Battery_Single" xml:space="preserve">
+    <value>{0} ની જગ્યાએ બેટરીનું સ્તર આવશે, અને {1} ની જગ્યાએ ચાર્જની સ્થિતિ આવશે</value>
+  </data>
+  <data name="Text_Battery_Error" xml:space="preserve">
+    <value>બેટરી ચાર્જ અપડેટ કરવામાં નિષ્ફળ</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Connect" xml:space="preserve">
+    <value>{0} ની જગ્યાએ એરપોડ્સનું નામ આવશે. હું ટૂંકા રૂપનો ઉપયોગ કરવાની ભલામણ કરું છું જેથી હેડફોનનું નામ દેખાઈ શકે</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Disconnect" xml:space="preserve">
+    <value>{0} ની જગ્યાએ એરપોડ્સનું નામ આવશે હું ટૂંકા રૂપનો ઉપયોગ કરવાની ભલામણ કરું છું જેથી હેડફોનનું નામ દેખાઈ શકે</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
+    <value>વૉઇસઓવર</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver_Enabled" xml:space="preserve">
+    <value>ચાલુ</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
+    <value>બંધ</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Connecting" xml:space="preserve">
+    <value>{0} ની જગ્યાએ એરપોડ્સનું નામ આવશે. હેડફોન અત્યારે કનેક્ટ થઈ રહ્યા છે</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Disconnecting" xml:space="preserve">
+    <value>{0} ની જગ્યાએ એરપોડ્સનું નામ આવશે. હેડફોન અત્યારે ડિસ્કનેક્ટ થઈ રહ્યા છે</value>
+  </data>
+  <data name="Battery_Short_Left" xml:space="preserve">
+    <value>જૂનું. «ડાબે» શબ્દનું સંક્ષેપ</value>
+  </data>
+  <data name="Battery_Short_Right" xml:space="preserve">
+    <value>જૂનું. «જમણે» શબ્દનું સંક્ષેપ</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Found" xml:space="preserve">
+    <value>બ્લૂટૂથ એડેપ્ટર મળ્યું નથી</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Multiple_Adapters_Found" xml:space="preserve">
+    <value>બહુવિધ બ્લૂટૂથ એડેપ્ટર કનેક્ટ થયેલ છે</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_Classic" xml:space="preserve">
+    <value>બ્લૂટૂથ એડેપ્ટર બ્લૂટૂથ ક્લાસિકને સપોર્ટ કરતું નથી</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_LE" xml:space="preserve">
+    <value>બ્લૂટૂથ એડેપ્ટર બ્લૂટૂથ LE ને સપોર્ટ કરતું નથી</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Off" xml:space="preserve">
+    <value>બ્લૂટૂથ બંધ છે</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Initialization_Error" xml:space="preserve">
+    <value>બ્લૂટૂથ એડેપ્ટર પ્રારંભ કરવામાં ભૂલ</value>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Connect" xml:space="preserve">
+    <value>{0} ની જગ્યાએ સ્ટ્રીમિંગ ડિવાઇસનું નામ આવશે</value>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Disconnect" xml:space="preserve">
+    <value>{0} ની જગ્યાએ સ્ટ્રીમિંગ ડિવાઇસનું નામ ડિસ્કનેક્ટ કરો</value>
+  </data>
+  <data name="Text_Icon_Connected" xml:space="preserve">
+    <value>{0} કનેક્ટ થઈ ગયા</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_NoiseCancellation" xml:space="preserve">
+    <value>અવાજ રદ્દીકરણ</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
+    <value>બંધ</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
+    <value>પારદર્શિતા</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_AmbientSound" xml:space="preserve">
+    <value>આસપાસનો અવાજ</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_WindCancellation" xml:space="preserve">
+    <value>પવન રદ્દીકરણ</value>
+  </data>
+  <data name="Text_Widget_Battery_Left" xml:space="preserve">
+    <value>ડાબે</value>
+  </data>
+  <data name="Text_Widget_Battery_Right" xml:space="preserve">
+    <value>જમણે</value>
+  </data>
+  <data name="Text_Widget_Battery_Case" xml:space="preserve">
+    <value>કેસ</value>
+  </data>
+  <data name="Text_Widget_Battery_Single" xml:space="preserve">
+    <value>ચાર્જ</value>
+  </data>
+  <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
+    <value>ચાર્જ સ્તર દર્શાવવા માટે હેડફોન કનેક્ટ કરો</value>
+  </data>
+  <data name="Text_License_LicenseNotFound" xml:space="preserve">
+    <value>{0} ની જગ્યાએ એપ્લિકેશનનું નામ આવશે</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Adaptive" xml:space="preserve">
+    <value>અનુકૂલનશીલ</value>
+  </data>
+  <data name="Text_Battery_LR" xml:space="preserve">
+    <value>બેટરી સ્તર: {0}, {2} — ચાર્જ સ્થિતિ: {1}, {3}</value>
+  </data>
 </root>
