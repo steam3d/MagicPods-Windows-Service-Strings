@@ -77,16 +77,16 @@
     <value>એરપોડ્સ શોધી રહ્યા છીએ</value>
   </data>
   <data name="Text_Battery_Single" xml:space="preserve">
-    <value>{0} ની જગ્યાએ બેટરીનું સ્તર આવશે, અને {1} ની જગ્યાએ ચાર્જની સ્થિતિ આવશે</value>
+    <value>ચાર્જ: {0}%{1}</value>
   </data>
   <data name="Text_Battery_Error" xml:space="preserve">
     <value>બેટરી ચાર્જ અપડેટ કરવામાં નિષ્ફળ</value>
   </data>
   <data name="Text_ContextMenu_Headphones_Connect" xml:space="preserve">
-    <value>{0} ની જગ્યાએ એરપોડ્સનું નામ આવશે. હું ટૂંકા રૂપનો ઉપયોગ કરવાની ભલામણ કરું છું જેથી હેડફોનનું નામ દેખાઈ શકે</value>
+    <value>{0} સાથે જોડાઓ</value>
   </data>
   <data name="Text_ContextMenu_Headphones_Disconnect" xml:space="preserve">
-    <value>{0} ની જગ્યાએ એરપોડ્સનું નામ આવશે હું ટૂંકા રૂપનો ઉપયોગ કરવાની ભલામણ કરું છું જેથી હેડફોનનું નામ દેખાઈ શકે</value>
+    <value>{0} નું જોડાણ તોડો</value>
   </data>
   <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
     <value>વૉઇસઓવર</value>
@@ -98,10 +98,10 @@
     <value>બંધ</value>
   </data>
   <data name="Text_ContextMenu_Headphones_Connecting" xml:space="preserve">
-    <value>{0} ની જગ્યાએ એરપોડ્સનું નામ આવશે. હેડફોન અત્યારે કનેક્ટ થઈ રહ્યા છે</value>
+    <value>{0} સાથે જોડાઈ રહ્યું છે</value>
   </data>
   <data name="Text_ContextMenu_Headphones_Disconnecting" xml:space="preserve">
-    <value>{0} ની જગ્યાએ એરપોડ્સનું નામ આવશે. હેડફોન અત્યારે ડિસ્કનેક્ટ થઈ રહ્યા છે</value>
+    <value>{0} ડિસ્કનેક્ટ થઈ રહ્યું છે</value>
   </data>
   <data name="Battery_Short_Left" xml:space="preserve">
     <value>જૂનું. «ડાબે» શબ્દનું સંક્ષેપ</value>
