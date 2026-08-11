@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,121 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Text_Exit" xml:space="preserve">
+    <value>Tuffɣa</value>
+  </data>
+  <data name="Text_Icon_Default" xml:space="preserve">
+    <value>Iṛeṭṭaḍen fuken tuqqna</value>
+  </data>
+  <data name="Text_Icon_Error" xml:space="preserve">
+    <value>Ur yettwḍem Bluetooth ur yella.</value>
+  </data>
+  <data name="Text_Settings" xml:space="preserve">
+    <value>Iɣewwaren</value>
+  </data>
+  <data name="Text_Button_Connect" xml:space="preserve">
+    <value>Qqen</value>
+  </data>
+  <data name="Text_Icon_Search" xml:space="preserve">
+    <value>Nadi AirPods</value>
+  </data>
+  <data name="Text_Battery_Error" xml:space="preserve">
+    <value>Aleqqem n usali n tbatrit ur yeddi ara</value>
+  </data>
+  <data name="Text_Battery_Single" xml:space="preserve">
+    <value>Tuzzma : {0}%{1}</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Connect" xml:space="preserve">
+    <value>Qqen {0}</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Disconnect" xml:space="preserve">
+    <value>Fsey {0}</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
+    <value>VoiceOver</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver_Enabled" xml:space="preserve">
+    <value>Isry</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
+    <value>Ynsy</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Connecting" xml:space="preserve">
+    <value>Da itteqqen {0}</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Disconnecting" xml:space="preserve">
+    <value>Da ittfsey {0}</value>
+  </data>
+  <data name="Battery_Short_Left" xml:space="preserve">
+    <value>Azelmaḍ</value>
+  </data>
+  <data name="Battery_Short_Right" xml:space="preserve">
+    <value>Afasi</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Found" xml:space="preserve">
+    <value>Ur d-nufi ara amsasa n Bluetooth</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Multiple_Adapters_Found" xml:space="preserve">
+    <value>Nufa gigan n imsasaten n Bluetooth</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_Classic" xml:space="preserve">
+    <value>Amsasa n Bluetooth ur issefrak ara Bluetooth Classic</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_LE" xml:space="preserve">
+    <value>Amsasa n Bluetooth ur issefrak ara Bluetooth LE</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Off" xml:space="preserve">
+    <value>Bluetooth ynsy</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Initialization_Error" xml:space="preserve">
+    <value>Tuccḍa n usenker n umsasa n Bluetooth</value>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Connect" xml:space="preserve">
+    <value>Sserg seg {0}</value>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Disconnect" xml:space="preserve">
+    <value>Bedded asserg seg {0}</value>
+  </data>
+  <data name="Text_Icon_Connected" xml:space="preserve">
+    <value>Yqqen {0}</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_NoiseCancellation" xml:space="preserve">
+    <value>Tukksa n splits</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
+    <value>Ynsy</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
+    <value>Tanfrawt</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_AmbientSound" xml:space="preserve">
+    <value>Imesli n tmana</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_WindCancellation" xml:space="preserve">
+    <value>Tukksa n splits n waḍu</value>
+  </data>
+  <data name="Text_Widget_Battery_Left" xml:space="preserve">
+    <value>Azelmaḍ</value>
+  </data>
+  <data name="Text_Widget_Battery_Right" xml:space="preserve">
+    <value>Afasi</value>
+  </data>
+  <data name="Text_Widget_Battery_Case" xml:space="preserve">
+    <value>Aketiw</value>
+  </data>
+  <data name="Text_Widget_Battery_Single" xml:space="preserve">
+    <value>Tuzzma</value>
+  </data>
+  <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
+    <value>Qqen iṛeṭṭaḍen ad twalt tuzzma</value>
+  </data>
+  <data name="Text_License_LicenseNotFound" xml:space="preserve">
+    <value>Ur d-nufi ara turagt. Rzem {0} afad ad twalt ifruriwen</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Adaptive" xml:space="preserve">
+    <value>Amsasay</value>
+  </data>
+  <data name="Text_Battery_LR" xml:space="preserve">
+    <value>Azelmaḍ: {0}%{1} Afasi: {2}%{3}</value>
+  </data>
 </root>
