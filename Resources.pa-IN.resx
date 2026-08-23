@@ -79,4 +79,100 @@
   <data name="Text_Icon_Default" xml:space="preserve">
     <value>ਹੈੱਡਫੋਨ ਡਿਸਕਨੈਕਟ ਕੀਤੇ ਗਏ</value>
   </data>
+  <data name="Text_Settings" xml:space="preserve">
+    <value>ਸੈਟਿੰਗ</value>
+  </data>
+  <data name="Text_Button_Connect" xml:space="preserve">
+    <value>ਜੁੜੋ</value>
+  </data>
+  <data name="Text_Icon_Search" xml:space="preserve">
+    <value>AirPods ਲੱਭੇ ਜਾ ਰਹੇ ਹਨ</value>
+  </data>
+  <data name="Text_Battery_Single" xml:space="preserve">
+    <value>ਚਾਰਜ: {0}%{1}</value>
+  </data>
+  <data name="Text_Battery_Error" xml:space="preserve">
+    <value>ਬੈਟਰੀ ਚਾਰਜ ਨੂੰ ਅੱਪਡੇਟ ਕਰਨ ਵਿੱਚ ਅਸਫਲ</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Connect" xml:space="preserve">
+    <value>ਜੁੜੋ {0}</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Disconnect" xml:space="preserve">
+    <value>{0} ਦਾ ਸੰਪਰਕ ਤੋੜੋ</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
+    <value>ਵੌਇਸਓਵਰ</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver_Enabled" xml:space="preserve">
+    <value>ਚੱਲ ਰਿਹਾ</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
+    <value>ਬੰਦ</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Connecting" xml:space="preserve">
+    <value>{0} ਨਾਲ ਜੁੜ ਰਿਹਾ ਹੈ</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Disconnecting" xml:space="preserve">
+    <value>ਦਾ ਸੰਪਰਕ ਤੋੜਿਆ ਜਾ ਰਿਹਾ ਹੈ{0}</value>
+  </data>
+  <data name="Battery_Short_Left" xml:space="preserve">
+    <value>ਬਾ</value>
+  </data>
+  <data name="Battery_Short_Right" xml:space="preserve">
+    <value>ਦਾ</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Found" xml:space="preserve">
+    <value>ਬਲੂਟੁੱਥ ਅਡੈਪਟਰ ਨਹੀਂ ਮਿਲਿਆ</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Multiple_Adapters_Found" xml:space="preserve">
+    <value>ਕਈ ਬਲੂਟੁੱਥ ਅਡੈਪਟਰ ਜੁੜੇ ਹੋਏ ਹਨ</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_Classic" xml:space="preserve">
+    <value>ਬਲੂਟੁੱਥ ਅਡੈਪਟਰ ਬਲੂਟੁੱਥ ਕਲਾਸਿਕ (Bluetooth Classic) ਨੂੰ ਸਪੋਰਟ ਨਹੀਂ ਕਰਦਾ</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_LE" xml:space="preserve">
+    <value>ਬਲੂਟੁੱਥ ਅਡੈਪਟਰ ਬਲੂਟੁੱਥ LE ਨੂੰ ਸਪੋਰਟ ਨਹੀਂ ਕਰਦਾ</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Off" xml:space="preserve">
+    <value>ਬਲੂਟੁੱਥ ਬੰਦ</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Initialization_Error" xml:space="preserve">
+    <value>ਬਲੂਟੁੱਥ ਅਡੈਪਟਰ ਸ਼ੁਰੂਆਤੀ ਗਲਤੀ</value>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Connect" xml:space="preserve">
+    <value>{0} ਤੋਂ ਸਟ੍ਰੀਮ ਕਰੋ</value>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Disconnect" xml:space="preserve">
+    <value>{0} ਤੋਂ ਸਟ੍ਰੀਮਿੰਗ ਬੰਦ ਕਰੋ</value>
+  </data>
+  <data name="Text_Icon_Connected" xml:space="preserve">
+    <value>ਜੁੜਿਆ ਹੋਇਆ {0}</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_NoiseCancellation" xml:space="preserve">
+    <value>ਸ਼ੋਰ ਰੱਦ ਕਰਨਾ</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
+    <value>ਬੰਦ</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
+    <value>ਪਾਰਦਰਸ਼ਤਾ</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_AmbientSound" xml:space="preserve">
+    <value>ਵਾਤਾਵਰਣਕ ਆਵਾਜ਼</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_WindCancellation" xml:space="preserve">
+    <value>ਹਵਾ ਦੇ ਸ਼ੋਰ ਨੂੰ ਰੱਦ ਕਰਨਾ</value>
+  </data>
+  <data name="Text_Widget_Battery_Single" xml:space="preserve">
+    <value>ਚਾਰਜ</value>
+  </data>
+  <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
+    <value>ਚਾਰਜ ਪੱਧਰ ਦਿਖਾਉਣ ਲਈ ਹੈੱਡਫੋਨ ਕਨੈਕਟ ਕਰੋ</value>
+  </data>
+  <data name="Text_License_LicenseNotFound" xml:space="preserve">
+    <value>ਲਾਈਸੈਂਸ ਨਹੀਂ ਮਿਲਿਆ। ਵੇਰਵਿਆਂ ਲਈ {0} ਖੋਲ੍ਹੋ</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Adaptive" xml:space="preserve">
+    <value>ਅਨੁਕੂਲ</value>
+  </data>
 </root>
