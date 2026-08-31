@@ -124,4 +124,37 @@
   <data name="Text_ContextMenu_Headphones_Connecting" xml:space="preserve">
     <value>Conectinge {0}</value>
   </data>
+  <data name="Text_Battery_Error" xml:space="preserve">
+    <value>The battery charge could not be updated</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Disconnecting" xml:space="preserve">
+    <value>Ending the connection with {0}</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_Classic" xml:space="preserve">
+    <value>Your Bluetooth adapter does not support Bluetooth Classic</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_LE" xml:space="preserve">
+    <value>Your Bluetooth adapter cannot use Bluetooth LE</value>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Connect" xml:space="preserve">
+    <value>Play audio from {0}</value>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Disconnect" xml:space="preserve">
+    <value>Stop playing audio from {0}</value>
+  </data>
+  <data name="Text_Icon_Connected" xml:space="preserve">
+    <value>Connected to {0}</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_NoiseCancellation" xml:space="preserve">
+    <value>Noise reduction</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
+    <value>Hear outside sounds</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_AmbientSound" xml:space="preserve">
+    <value>Background sound</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_WindCancellation" xml:space="preserve">
+    <value>Wind noise reduction</value>
+  </data>
 </root>
