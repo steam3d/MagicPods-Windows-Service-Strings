@@ -59,22 +59,22 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Text_Exit" xml:space="preserve">
-    <value>Salir</value>
+    <value>Termino</value>
   </data>
   <data name="Text_Icon_Default" xml:space="preserve">
-    <value>Auriculares desconectados</value>
+    <value>Audifonos desconectados</value>
   </data>
   <data name="Text_Icon_Error" xml:space="preserve">
-    <value>Bluetooth no es compatible o no está disponible</value>
+    <value>Bluetooth no está disponible</value>
   </data>
   <data name="Text_Settings" xml:space="preserve">
-    <value>Ajustes</value>
+    <value>Configuración</value>
   </data>
   <data name="Text_Button_Connect" xml:space="preserve">
     <value>Conectar</value>
   </data>
   <data name="Text_Icon_Search" xml:space="preserve">
-    <value>Buscando AirPods</value>
+    <value>Encontrando AirPods</value>
   </data>
   <data name="Text_Battery_Single" xml:space="preserve">
     <value>Carga: {0}% {1}</value>
