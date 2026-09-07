@@ -158,7 +158,7 @@
     <value>周囲の音</value>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_WindCancellation" xml:space="preserve">
-    <value>風ノイズ低減</value>
+    <value>風切り音低減</value>
   </data>
   <data name="Text_Widget_Battery_Case" xml:space="preserve">
     <value>ケース</value>
@@ -170,10 +170,10 @@
     <value>充電残量を表示するにはヘッドフォンを接続してください</value>
   </data>
   <data name="Text_Widget_Battery_Left" xml:space="preserve">
-    <value>ひだり</value>
+    <value>左</value>
   </data>
   <data name="Text_Widget_Battery_Right" xml:space="preserve">
-    <value>みぎ</value>
+    <value>右</value>
   </data>
   <data name="Text_License_LicenseNotFound" xml:space="preserve">
     <value>ライセンスが見つかりません。詳細は{0}を開く</value>
