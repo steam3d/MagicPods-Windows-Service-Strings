@@ -167,7 +167,7 @@
     <value>バッテリー残量</value>
   </data>
   <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
-    <value>充電残量を表示するにはヘッドフォンを接続してください</value>
+    <value>バッテリー残量を表示するには、ヘッドフォンを接続してください</value>
   </data>
   <data name="Text_Widget_Battery_Left" xml:space="preserve">
     <value>左</value>
@@ -176,7 +176,7 @@
     <value>右</value>
   </data>
   <data name="Text_License_LicenseNotFound" xml:space="preserve">
-    <value>ライセンスが見つかりません。詳細は{0}を開く</value>
+    <value>ライセンスが見つかりません。詳細を確認するには、{0}を開いてください</value>
     <comment>{0} will be replaced to app name.</comment>
   </data>
   <data name="Text_ContextMenu_NoiseCancellation_Adaptive" xml:space="preserve">
