@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Text_Exit" xml:space="preserve">
-    <value>Termino</value>
+    <value>Salir</value>
   </data>
   <data name="Text_Icon_Default" xml:space="preserve">
     <value>Audifonos desconectados</value>
@@ -74,7 +74,7 @@
     <value>Conectar</value>
   </data>
   <data name="Text_Icon_Search" xml:space="preserve">
-    <value>Encontrando AirPods</value>
+    <value>Buscando AirPods</value>
   </data>
   <data name="Text_Battery_Single" xml:space="preserve">
     <value>Carga: {0}% {1}</value>
