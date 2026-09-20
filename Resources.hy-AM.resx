@@ -67,4 +67,16 @@
   <data name="Text_Icon_Error" xml:space="preserve">
     <value>Bluetooth-ը չի աջակցվում կամ հասանելի չէ</value>
   </data>
+  <data name="Text_Settings" xml:space="preserve">
+    <value>Կարգավորումներ</value>
+  </data>
+  <data name="Text_Button_Connect" xml:space="preserve">
+    <value>Միացնել</value>
+  </data>
+  <data name="Text_Icon_Search" xml:space="preserve">
+    <value>Որոնվում են AirPods-ները)</value>
+  </data>
+  <data name="Text_Battery_Single" xml:space="preserve">
+    <value>Լիցքավորում՝ {0}%{1}</value>
+  </data>
 </root>
