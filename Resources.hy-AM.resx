@@ -79,4 +79,37 @@
   <data name="Text_Battery_Single" xml:space="preserve">
     <value>Լիցքավորում՝ {0}%{1}</value>
   </data>
+  <data name="Text_Battery_Error" xml:space="preserve">
+    <value>Չհաջողվեց թարմացնել մարտկոցի լիցքի մակարդակը</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Connect" xml:space="preserve">
+    <value>Միացնել {0}-ը</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Disconnect" xml:space="preserve">
+    <value>Անջատել {0}-ը</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
+    <value>Բարձրաձայն կարդալ ծանուցումները</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver_Enabled" xml:space="preserve">
+    <value>Միացնել</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
+    <value>Անջատել</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Connecting" xml:space="preserve">
+    <value>Միացում {0}-ին</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Disconnecting" xml:space="preserve">
+    <value>{0}-ի անջատում</value>
+  </data>
+  <data name="Battery_Short_Left" xml:space="preserve">
+    <value>Ձախ</value>
+  </data>
+  <data name="Battery_Short_Right" xml:space="preserve">
+    <value>ճիշտ</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Found" xml:space="preserve">
+    <value>Bluetooth-ադապտերը չի հայտնաբերվել</value>
+  </data>
 </root>
