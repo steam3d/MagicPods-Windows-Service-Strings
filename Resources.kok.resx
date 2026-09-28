@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,121 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Text_Exit" xml:space="preserve">
+    <value>प्रस्थान</value>
+  </data>
+  <data name="Text_Icon_Default" xml:space="preserve">
+    <value>हेडफोन काडून उडयले</value>
+  </data>
+  <data name="Text_Icon_Error" xml:space="preserve">
+    <value>ब्लूटूथ समर्थीत वा उपलब्ध ना</value>
+  </data>
+  <data name="Text_Settings" xml:space="preserve">
+    <value>सेटिंग्ज</value>
+  </data>
+  <data name="Text_Button_Connect" xml:space="preserve">
+    <value>जोडचें</value>
+  </data>
+  <data name="Text_Icon_Search" xml:space="preserve">
+    <value>एअरपॉड्स सोदप</value>
+  </data>
+  <data name="Text_Battery_Single" xml:space="preserve">
+    <value>शुल्क: {0}%{1}</value>
+  </data>
+  <data name="Text_Battery_Error" xml:space="preserve">
+    <value>बॅटरी चार्ज अपडेट करपाक अपेस आयलें</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Connect" xml:space="preserve">
+    <value>{0} जोडचें</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Disconnect" xml:space="preserve">
+    <value>{0} कनॅक्ट करचें</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver" xml:space="preserve">
+    <value>व्हॉयसओव्हर</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver_Enabled" xml:space="preserve">
+    <value>हाचेर</value>
+  </data>
+  <data name="Text_ContextMenu_VoiceOver_Disabled" xml:space="preserve">
+    <value>बंद करचें</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Connecting" xml:space="preserve">
+    <value>{0} जोडप</value>
+  </data>
+  <data name="Text_ContextMenu_Headphones_Disconnecting" xml:space="preserve">
+    <value>{0} कनॅक्ट करप</value>
+  </data>
+  <data name="Battery_Short_Left" xml:space="preserve">
+    <value>एल</value>
+  </data>
+  <data name="Battery_Short_Right" xml:space="preserve">
+    <value>आर</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Found" xml:space="preserve">
+    <value>ब्लूटूथ अडॅप्टर मेळूंक ना</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Multiple_Adapters_Found" xml:space="preserve">
+    <value>जायते ब्लूटूथ अडॅप्टर जोडिल्ले</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_Classic" xml:space="preserve">
+    <value>Bluetooth अडॅप्टर Bluetooth Classic चो समर्थन करीना</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Not_Supported_LE" xml:space="preserve">
+    <value>Bluetooth अडॅप्टर Bluetooth LE चो समर्थन करीना</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Off" xml:space="preserve">
+    <value>ब्लूटूथ बंद</value>
+  </data>
+  <data name="Text_Icon_Bluetooth_Initialization_Error" xml:space="preserve">
+    <value>ब्लूटूथ अडॅप्टर आरंभ करपाची त्रुटी</value>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Connect" xml:space="preserve">
+    <value>{0} कडल्यान प्रवाह</value>
+  </data>
+  <data name="Text_ContextMenu_StreamingDevice_Disconnect" xml:space="preserve">
+    <value>{0} कडल्यान प्रवाह बंद करात</value>
+  </data>
+  <data name="Text_Icon_Connected" xml:space="preserve">
+    <value>जोडलेले {0}</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_NoiseCancellation" xml:space="preserve">
+    <value>आवाज रद्द करप</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Off" xml:space="preserve">
+    <value>बंद करचें</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Transparency" xml:space="preserve">
+    <value>पारदर्शकता</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_AmbientSound" xml:space="preserve">
+    <value>परिवेशी आवाज</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_WindCancellation" xml:space="preserve">
+    <value>वाऱ्यान रद्द करप</value>
+  </data>
+  <data name="Text_Widget_Battery_Left" xml:space="preserve">
+    <value>दावें</value>
+  </data>
+  <data name="Text_Widget_Battery_Right" xml:space="preserve">
+    <value>उजवें</value>
+  </data>
+  <data name="Text_Widget_Battery_Case" xml:space="preserve">
+    <value>केस</value>
+  </data>
+  <data name="Text_Widget_Battery_Single" xml:space="preserve">
+    <value>चार्ज</value>
+  </data>
+  <data name="Text_Widget_Battery_Headphones_Disconnected" xml:space="preserve">
+    <value>चार्ज पातळी दाखोवपाक हेडफोन जोडचे</value>
+  </data>
+  <data name="Text_License_LicenseNotFound" xml:space="preserve">
+    <value>परवानो मेळूंक ना. तपशीलां खातीर {0} उगडात</value>
+  </data>
+  <data name="Text_ContextMenu_NoiseCancellation_Adaptive" xml:space="preserve">
+    <value>अनुकूल अशें</value>
+  </data>
+  <data name="Text_Battery_LR" xml:space="preserve">
+    <value>डावें: {0}%{1} उजवें: {2}%{3}</value>
+  </data>
 </root>
